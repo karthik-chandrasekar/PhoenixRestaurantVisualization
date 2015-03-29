@@ -14,7 +14,8 @@ Analyzing yelp phoenix data set.
 INPUTS
 ======
 
-  ** Phoenix Yelp Data Set
+  * Phoenix Yelp Data Set
+  * Add Inputs for each file in here to track back.
 
 FOLDER STRUCTURE
 ================
