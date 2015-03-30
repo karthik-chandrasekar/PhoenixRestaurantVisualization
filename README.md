@@ -31,9 +31,14 @@ FOLDER STRUCTURE
 TODO (Maintain in the readme and strike off or update when done.) 
 ====
   * Make repository public so that pages work. 
-   * http://georgethomas111.github.io/PhoenixRestaurantVisualization/line.html strike once it works. 
-  * Upload Models.
+   * Done 
+   * http://karthik-chandrasekar.github.io/PhoenixRestaurantVisualization/line.html
+   * Upload visualizations to gh-pages branch and view using the url above changing the html name.
+  
   * Upload the line snippet.
+   * Done 
+  * Upload Models.
+  
   * Give the input requirements for the line snippet.
   * Form skeleton html's for the visualiations.
   * Add More TODO's when done
