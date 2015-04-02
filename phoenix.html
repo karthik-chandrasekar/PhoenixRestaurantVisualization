@@ -9,8 +9,19 @@
             }]
             }">
         </script>
+    </head>
+    <body>
+        <div id="pho-map" style="width: 900px; height: 500px"></div>
+    </body>
+    <!-- Loading contents in the footer since that helps in speeding up the page load time -->
+    <footer>
+    <script src="senti.js"> </script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript">
+        // initScript();
+    </script>
 
-    
+
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMwy__9FfYpTimJOjZP6AcEu-YvvsQFmg">
     </script>
 
@@ -24,18 +35,7 @@
             }
             google.maps.event.addDomListener(window, 'load', initialize);
     </script>
-
-    </head>
-    <body>
-        <div id="pho-map" style="width: 900px; height: 500px"></div>
-    </body>
-    <!-- Loading contents in the footer since that helps in speeding up the page load time -->
-    <footer>
-    <script src="senti.js"> </script>
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script type="text/javascript">
-        // initScript();
-    </script>
+    </footer>
 
 </html>
 
