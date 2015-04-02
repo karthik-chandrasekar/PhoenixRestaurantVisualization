@@ -24,6 +24,14 @@ function drawRegionMap(divName, points) {
         zoom: 8
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
+    
+    for(key in points) {
+        var marker = new google.maps.Marker({
+            position: points[key],
+            map: map,
+            title: key,
+        });
+    }
 }
 
 /** 
