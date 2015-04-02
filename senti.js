@@ -57,7 +57,7 @@ function initScript() {
 
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
-        sentiObj.drawGraph('pho_map');
+        sentiObj.drawGraph('pho-map');
     });
 }
 
