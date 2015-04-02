@@ -49,8 +49,9 @@ function initScript() {
     var toLoad = [] ;
     d3.csv(csvToLoad, function(data) {
         data.forEach(function(valueObj) {
-            var arrObj = [valueObj.latitude, valueObj.longitude]
-            var rest = new google.maps.LatLng(valueObj.latitude, valueObj.longitude)
+            lat = parseFloat(valueObj.latitude);
+            log = parseFloat(valueObj.longitude);
+            var rest = new google.maps.LatLng(lat, log);
             toLoad.push(arrObj)
         });
 
