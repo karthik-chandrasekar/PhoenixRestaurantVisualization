@@ -31,7 +31,7 @@ function drawRegionMap(divName, points) {
  */
 function initSenti() {
 
-    var sentiData = ['Latitude', 'Longitude'];
+    var sentiData = [];
     var sentiObj = {};
     sentiObj.loadData = function(data) {
         sentiData = data;
@@ -52,7 +52,7 @@ function initScript() {
             lat = parseFloat(valueObj.latitude);
             log = parseFloat(valueObj.longitude);
             var rest = new google.maps.LatLng(lat, log);
-            toLoad.push(arrObj)
+            toLoad.push(rest)
         });
 
         var sentiObj = initSenti();
