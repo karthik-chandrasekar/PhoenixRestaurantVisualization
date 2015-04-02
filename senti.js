@@ -21,7 +21,7 @@ function drawRegionMap(divName, points) {
 
     var mapOptions = {
         center: points[0],
-        zoom: 8
+        zoom: 16
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
