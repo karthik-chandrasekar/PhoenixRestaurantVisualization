@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script type="text/javascript"
+            src="https://www.google.com/jsapi?autoload={
+            'modules':[{
+                'name':'visualization',
+                    'version':'1',
+                    'packages':['geochart']
+            }]
+            }">
+        </script>
+
+    </head>
+    <body>
+        <div id="pho_map" style="width: 900px; height: 500px"></div>
+    </body>
+    <!-- Loading contents in the footer since that helps in speeding up the page load time -->
+    <footer>
+    <script src="senti.js"> </script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript">
+        // initScript();
+    </script>
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMwy__9FfYpTimJOjZP6AcEu-YvvsQFmg">
+    </script>
+
+    <script type="text/javascript">
+            function initialize() {
+                var mapOptions = {
+                    center: { lat: -34.397, lng: 150.644},
+                    zoom: 8
+                };
+                var map = new google.maps.Map(document.getElementById('pho-map'), mapOptions);
+            }
+            google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    <footer>
+</html>
+
