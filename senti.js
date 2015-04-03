@@ -51,7 +51,7 @@ function initSenti() {
     return sentiObj;
 }
 
-function loadMap(csvToLoad) {
+function loadMap(csvToLoad, title) {
     var toLoad = [] ;
     d3.csv(csvToLoad, function(data) {
         data.forEach(function(valueObj) {
@@ -61,6 +61,7 @@ function loadMap(csvToLoad) {
             toLoad.push(rest)
         });
 
+        d3.select("#map-title").append("h3").html(title);
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
         sentiObj.drawGraph('pho-map');
@@ -88,9 +89,9 @@ function drawFilter() {
                 d3.select(this).select('circle').attr('r', 5);
             })
             .on("click", function() {
-                var fileName = "data/" + d3.select(this).text() + ".csv";   
-                console.log("clicked " + fileName);
-                loadMap(fileName);
+                var group = d3.select(this).text() 
+                var fileName = "data/" + group + ".csv";   
+                loadMap(fileName, group);
             });
 
         gElem.append('circle').
@@ -111,6 +112,11 @@ function drawFilter() {
         currY = currY + 15;
     }
 
-    addRow('rating');
+    addRow('ratings');
     addRow('food');
+    addRow('price');
+    addRow('service');
+    addRow('ambience');
+
+    loadMap("data/ratings.csv", "ratings");
 }
