@@ -5,12 +5,16 @@
             'modules':[{
                 'name':'visualization',
                     'version':'1',
-                    'packages':['geochart']
+                    'packages':['controls']
             }]
             }">
         </script>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
+        <div id="filter">
+            <!-- Load filter here -->  
+        </div> 
         <div id="pho-map" style="width: 900px; height: 500px"></div>
     </body>
     <!-- Loading contents in the footer since that helps in speeding up the page load time -->
@@ -21,9 +25,8 @@
 
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMwy__9FfYpTimJOjZP6AcEu-YvvsQFmg">
     </script>
-
     <script type="text/javascript">
-        initScript();
+        drawFilter();
     </script>
     </footer>
 
