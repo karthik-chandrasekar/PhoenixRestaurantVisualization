@@ -61,7 +61,7 @@ function loadMap(csvToLoad, title) {
             toLoad.push(rest)
         });
 
-        d3.select("#map-title").html(title);
+        d3.select("#map-title").html("Top Restaurents for " + title);
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
         sentiObj.drawGraph('pho-map');
