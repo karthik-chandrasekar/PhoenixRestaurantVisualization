@@ -61,7 +61,7 @@ function loadMap(csvToLoad, title) {
             toLoad.push(rest)
         });
 
-        d3.select("#map-title").append("h3").html(title);
+        d3.select("#map-title").html(title);
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
         sentiObj.drawGraph('pho-map');
