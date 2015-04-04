@@ -51,9 +51,7 @@ function initSenti() {
     return sentiObj;
 }
 
-function initScript() {
-
-    var csvToLoad = "data/ratings.csv"; 
+function loadMap(csvToLoad, title) {
     var toLoad = [] ;
     d3.csv(csvToLoad, function(data) {
         data.forEach(function(valueObj) {
@@ -63,9 +61,62 @@ function initScript() {
             toLoad.push(rest)
         });
 
+        d3.select("#map-title").html("Top Restaurents for " + title);
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
         sentiObj.drawGraph('pho-map');
     });
 }
 
+function drawFilter() {
+// Add a filter here.
+    
+    svgElem = d3.select('#filter').
+        append('svg');
+
+    var currX = 10;
+    var currY = 10;
+
+    function addRow(rowName) {
+
+        var gElem = svgElem.append('g')
+            .attr('class','select')
+            .on("mouseover", function() {
+                console.log(d3.select(this).text());   
+                d3.select(this).select('circle').attr('r', 10);
+            })
+            .on("mouseout", function() {
+                d3.select(this).select('circle').attr('r', 5);
+            })
+            .on("click", function() {
+                var group = d3.select(this).text() 
+                var fileName = "data/" + group + ".csv";   
+                loadMap(fileName, group);
+            });
+
+        gElem.append('circle').
+            attr('cx', currX).
+            attr('cy', currY).
+            attr('class', 'circSelect').
+            attr('r', 5);
+
+        currX = currX + 20;
+        currY = currY + 5;
+
+        gElem.append('text').
+            attr('x', currX).
+            attr('y', currY).
+            text(rowName);
+
+        currX = 10;
+        currY = currY + 15;
+    }
+
+    addRow('ratings');
+    addRow('food');
+    addRow('price');
+    addRow('service');
+    addRow('ambience');
+
+    loadMap("data/ratings.csv", "ratings");
+}
