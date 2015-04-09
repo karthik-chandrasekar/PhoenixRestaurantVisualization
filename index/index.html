@@ -1,39 +1,56 @@
-<!--- 
-  Create Tabs for visualizations as we wrote in the book.
-
--->
-
 <html>
     <head>
-        <script>
-            // @Karthik could you please implement this part ?? 
-            // Decide the inputs from the markerData required. 
-            // Update the line graph by hard-quoting a default call for future use. 
-            function loadChart(markerData) {
-                console.log("Load the line Chart to the myLineChart based on the input.");
-            }
-        </script>
+        <!-- Latest compiled and minified CSS -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     </head>
     <body>
+        <!---
         <h3> Tabs go in here. Names to be decided for the tabs.</h3>
 
-        <!-- This is the map overview -->
-        <div id="overViewMap"> 
-            <!-- Contains the filter for the rating -->
-            <!-- Action : Fire javascript when the appropriate rating is selected. -->
-            <div id="filter">
-    
-            </div> 
+        <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+            <li><a href="#loadRest">loadRest</a></li>
+        </ul>
+        <div id="home"> 
+            <h3> Home Page </h3>
+            <h4> Which factor is dominating ? </h4>
+            <h4> Overall info about counts </h4>
         </div>
 
-        <!-- Based on zoom area selected, the zoomed map area could be seen here for the map -->
-        <div id="loadOnClick"> 
-
+        <div class="tab-content">
+            <div id="loadRest"> 
+                <h3> The business can select their restaurent and know about how the factors are varying for them. </h3>
+                <h4> Auto Complete to pick up the map which loads into the drill down.</h4>
+                <div id="drilldown">
+                    <h4> This is the drilldown @Gurujis domain.</h4>
+                </div>
+            </div>
         </div>
-        
-        <!-- Line chart to load for each marker. -->
-        <!-- The line chart loading starts with a functionCall loadChart(markerData); -->
-        <div id="id=myLineChart"> 
+        -->
+        <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+            <li><a data-toggle="tab" href="#loadRest">Load Restaurent</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id="home" class="tab-pane fade in active">
+            <h3> Home Page </h3>
+            <h4> Which factor is dominating ? </h4>
+            <h4> Overall info about counts </h4>
+            </div>
+            <div id="loadRest" class="tab-pane fade">
+                <h3> The business can select their restaurent and know about how the factors are varying for them. </h3>
+                <h4> Auto Complete to pick up the map which loads into the drill down.</h4>
+                <div id="drilldown">
+                    <h4> This is the drilldown @Gurujis domain.</h4>
+                </div>
+            </div>
         </div>
     </body>
 </html>
