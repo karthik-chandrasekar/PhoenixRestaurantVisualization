@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<head>
+    <meta HTTP-EQUIV="X-UA-COMPATIBLE" CONTENT="IE=EmulateIE9" >
+    <script type="text/javascript" src="scripts/d3.min.js"></script>
+    <script type="text/javascript" src="scripts/radialProgress.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="styles/style.css">
+
+    <style>
+
+        #test .arc2 {
+            stroke-weight:0.1;
+            fill: #3660b0;
+        }
+
+        #outer {
+            background:#FFFFFF;
+            border-radius: 5px;
+            color: #000;
+        }
+
+        #div1, #div2, #div3, #div4 {
+            width: 25%;
+            height: 200px;
+            box-sizing: border-box;
+            float: left;
+        }
+
+        #div5 {
+            width: 100%;
+            height: 100px;
+            box-sizing: border-box;
+            float: left;
+        }
+
+
+        #div2 .arc {
+            stroke-weight: 0.1;
+            fill: #f0a417;
+        }
+
+        #div2 .arc2 {
+            stroke-weight: 0.1;
+            fill: #b00d08;
+        }
+
+        #div3 .arc {
+            stroke-weight: 0.1;
+            fill: #1d871b;
+        }
+
+        #div4 .arc {
+            stroke-weight: 0.1;
+            fill: #990000;
+        }
+
+
+        .selectedRadial {
+            width: 150px;
+            height: 150px;
+            border-radius: 3px;
+            background: #f4f4f4;
+            color: #000;
+            box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+            -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+            border: 1px solid rgba(200,200,200,0.85);
+        }
+
+        #div6, #div7, #div8, #div9{
+            width: 25%;
+            height: 150px;
+            box-sizing: border-box;
+            float: left;
+        }
+
+        #divheader{
+            width: 100%;
+            height:50px;
+        }
+
+        .radial {
+            width: 150px;
+            height: 150px;
+            border-radius: 3px;
+            background: #FFFFFF;
+            color: #000;
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+<div id='outer' style="width: 1000px; height:800px; margin: 0px auto; margin-top:20px; padding:10px">
+    <div id="main" style="width:1000px; height:200px; margin: 0px auto; ">
+        <h1 align="center">OVERVIEW OF RESTAURANT METRICS IN PHX</h1>
+        <h2 align="center">Preference of PHX ppl about restaurants</h2>
+        <br/><br/>
+        <div id="div1"></div>
+        <div id="div2"></div>
+        <div id="div3"></div>
+        <div id="div4"></div>
+        <div id="div5">
+        <h3 align="center">Top restaurants in PHX</h3>
+        </div>
+        <div id="div6">
+        <h3 align="center">Best in Food</h3>
+        <ul>
+            <li>Pizzeria Bianco</li>
+            <li>FEZ</li>
+            <li>Cibo</li>
+            <li>Postino Arcadia</li>
+            <li>Gallo Blanco</li>
+            <li>St Francis Restaurant</li>
+            <li>Bobby Q</li>
+            <li>Lux</li>
+            <li>Matt's Big Breakfast</li>
+            <li>Chelsea's Kitchen</li>
+        </ul>
+        </div>
+        <div id="div7">
+        <h3 align="center">Best in Service</h3>
+        <ul>
+            <li>Pizzeria Bianco</li>
+            <li>FEZ</li>
+            <li>Cibo</li>
+            <li>Postino Arcadia</li>
+            <li>Gallo Blanco</li>
+            <li>Bobby Q</li>
+            <li>Chelsea's Kitchen</li>
+            <li>St Francis Restaurant</li>
+            <li>Matt's Big Breakfast</li>
+            <li>Lux</li>
+        </ul>
+        </div>
+        <div id="div8">
+        <h3 align="center">Best in Ambience</h3>
+        <ul>
+            <li>Pizzeria Bianco</li>
+            <li>FEZ</li>
+            <li>Cibo</li>
+            <li>St Francis Restaurant</li>
+            <li>Chelsea's Kitchen</li>
+            <li>Postino Arcadia</li>
+            <li>Gallo Blanco</li>
+            <li>The Parlor</li>
+            <li>Lux</li>
+            <li>Bobby Q</li>
+        </ul>
+        </div>
+
+        <div id="div9">
+        <h3 align="center">Best in Price</h3>
+        <ul>
+           <li>Matt's Big Breakfast</li>
+           <li>Pizzeria Bianco</li>
+           <li>St Francis Restaurant</li>
+           <li>Cibo</li>
+           <li>Hula's Modern Tiki</li>
+           <li>FEZ</li>
+           <li>True Food Kitchen</li>
+           <li>Postino Arcadia</li>
+           <li>Lo-Lo's Chicken & Waffles</li>
+           <li>Chino Bandido</li> 
+        </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<script language="JavaScript">
+
+    var div1=d3.select(document.getElementById('div1'));
+    var div2=d3.select(document.getElementById('div2'));
+    var div3=d3.select(document.getElementById('div3'));
+    var div4=d3.select(document.getElementById('div4'));
+
+    start();
+
+    function onClick1() {
+        deselect();
+        div1.attr("class","selectedRadial");
+    }
+
+    function onClick2() {
+        deselect();
+        div2.attr("class","selectedRadial");
+    }
+
+    function onClick3() {
+        deselect();
+        div3.attr("class","selectedRadial");
+    }
+
+    function onClick4() {
+        deselect();
+        div4.attr("class","selectedRadial");
+    }
+
+
+
+    function labelFunction(val,min,max) {
+
+    }
+
+    function deselect() {
+        div1.attr("class","radial");
+        div2.attr("class","radial");
+        div3.attr("class","radial");
+        div4.attr("class","radial");
+    }
+
+
+    function start() {
+
+        var rp1 = radialProgress(document.getElementById('div1'))
+                .label("FOOD")
+                .diameter(150)
+                .value(90)
+                .render();
+
+        var rp2 = radialProgress(document.getElementById('div2'))
+                .label("AMBIENCE")
+                .diameter(150)
+                .value(11)
+                .render();
+
+        var rp3 = radialProgress(document.getElementById('div3'))
+                .label("PRICE")
+                .diameter(150)
+                .minValue(0)
+                .maxValue(100)
+                .value(27)
+                .render();
+
+        var rp4 = radialProgress(document.getElementById('div4'))
+                .label("SERVICE")
+                .diameter(150)
+                .value(30)
+                .render();
+
+
+    }
+
+</script>
+
+</body>
+</html>
+
