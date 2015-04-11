@@ -41,4 +41,4 @@ TODO (Maintain in the readme and strike off or update when done.)
 MEMBERS
 =======
 
-Karthik, Niranjan & George
+Karthik, Ninja & Clooney
