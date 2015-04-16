@@ -26,11 +26,21 @@ function drawRegionMap(divName, points) {
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
     for(key in points) {
+        /*
         var marker = new google.maps.Marker({
             position: points[key],
             map: map,
             title: key,
         });
+        */
+        var restCirc = {
+            strokeColor : 'red',
+            map : map,
+            center : points[key],
+            radius : 10,
+        }
+        var restCirc = new google.maps.Circle(restCirc);
+
     }
 }
 
