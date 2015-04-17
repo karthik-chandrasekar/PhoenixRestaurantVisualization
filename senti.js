@@ -1,46 +1,86 @@
-function drawLineChart(divName) {
-    var data = google.visualization.arrayToDataTable([
-            ['Year', 'Sales', 'Expenses'],
-            ['2004',  1000,      400],
-            ['2005',  1170,      460],
-            ['2006',  660,       1120],
-            ['2007',  1030,      540]
-            ]);
+function loadColorMap() {
 
-    var options = {
-        title: 'Company Performance',
-        curveType: 'function',
-        legend: { position: 'bottom' }
-    };
+    var min = 0;
+    var max = 0;
+    var colorObj = {};
+    var prevMap = null;
+    var mapper = d3.scale.quantize();
+    var colors     = d3.scale.category10().range();
+    mapper.range(colors);
 
-    var chart = new google.visualization.LineChart(document.getElementById(divName));
-    chart.draw(data, options);
+    colorObj.setMin = function(minArg) {
+        min = minArg;
+    }
+
+    colorObj.setMax = function(maxArg) {
+        max = maxArg;
+    }
+
+    colorObj.setMinMax = function(minArg, maxArg) {
+        this.setMin(minArg);
+        this.setMax(maxArg);
+        mapper.domain([min, max]); 
+    }
+
+    colorObj.drawHeatMapScale = function(min, max) {
+
+        var numOfColors = colors.length;
+        if(prevMap) {
+            prevMap.remove();
+        }
+
+        var width = 400
+            var height = 30
+            var colorMap = d3.select("#color-map")
+            .attr("width", width)
+            .attr("height", height * 2)
+            .append("g");
+        var count = 0;
+        var diff = (max - min)/numOfColors;
+        for(var i = min; i < max ; i += diff) {
+            var group = d3.select("#color-map")
+                .select("g");
+
+            group.append("rect")
+                .attr("width", width/numOfColors)
+                .attr("height", height)
+                .attr("y", 0)
+                .attr("x", count * width/numOfColors)
+                .style("fill", mapper(i));
+            console.log();
+            group.append("text")
+                .text(d3.format(".3s")(count * (diff)))
+                .attr("y", height + 12)
+                .attr("x", count * width/numOfColors);
+            count++;
+        }
+        prevMap = colorMap;
+    }
+
+    colorObj.getColor = function(value) {
+        return mapper(value);
+    }
+
+    return colorObj;
 }
 
-function drawRegionMap(divName, points) {
+
+function drawRegionMap(divName, points, colorMapObj) {
 
     var mapOptions = {
-        center: points[0],
+        center: points[0].position,
         zoom: 12,
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
     for(key in points) {
-        /*
-        var marker = new google.maps.Marker({
-            position: points[key],
-            map: map,
-            title: key,
-        });
-        */
         var restCirc = {
-            strokeColor : 'red',
+            strokeColor : colorMapObj.getColor(points[key].magnitude),
             map : map,
-            center : points[key],
+            center : points[key].position,
             radius : 10,
         }
         var restCirc = new google.maps.Circle(restCirc);
-
     }
 }
 
@@ -55,27 +95,55 @@ function initSenti() {
         sentiData = data;
     }
 
-    sentiObj.drawGraph = function(divName) {
-       google.maps.event.addDomListener(window, 'load', drawRegionMap(divName, sentiData));
+    sentiObj.drawGraph = function(divName, colorMapObj) {
+       google.maps.event.addDomListener(window, 'load', drawRegionMap(divName, sentiData, colorMapObj));
     }
     return sentiObj;
 }
 
-function loadMap(csvToLoad, title) {
+function newpoint(pos, mag) {
+    var posObj = {};
+    posObj.position  = pos;
+    posObj.magnitude = mag;
+    return posObj;
+}
+
+/**
+ * Map loads the heat map realted stuff too as they are all one in our case.
+ */
+function loadMap(csvToLoad, title, colorMapObj) {
     var toLoad = [] ;
+    var min = 500;
+    var max = 0;
     d3.csv(csvToLoad, function(data) {
         data.forEach(function(valueObj) {
-            lat = parseFloat(valueObj.latitude);
-            log = parseFloat(valueObj.longitude);
-            var rest = new google.maps.LatLng(lat, log);
-            toLoad.push(rest)
+            var lat = parseFloat(valueObj.latitude);
+            var log = parseFloat(valueObj.longitude);
+            var star = parseFloat(valueObj.stars);
+            if(star < min) {
+                min = star;
+            } 
+            if (star > max) {
+                max = star;
+            }
+            var restPos = new google.maps.LatLng(lat, log);
+            toLoad.push(newpoint(restPos, star));
         });
 
+        colorMapObj.setMinMax(min, max);
+        colorMapObj.drawHeatMapScale(min, max);
+        console.log("Min" + min);
+        console.log("Max" + max);
         d3.select("#map-title").html("Top Restaurents for " + title);
         var sentiObj = initSenti();
         sentiObj.loadData(toLoad);
-        sentiObj.drawGraph('pho-map');
+        sentiObj.drawGraph('pho-map', colorMapObj);
     });
+}
+
+function drawAll() {
+
+    drawFilter();
 }
 
 function drawFilter() {
@@ -86,6 +154,7 @@ function drawFilter() {
 
     var currX = 10;
     var currY = 10;
+    var colorMapObj = loadColorMap();
 
     function addRow(rowName) {
 
@@ -101,7 +170,7 @@ function drawFilter() {
             .on("click", function() {
                 var group = d3.select(this).text() 
                 var fileName = "data/" + group + ".csv";   
-                loadMap(fileName, group);
+                loadMap(fileName, group, colorMapObj);
             });
 
         gElem.append('circle').
@@ -128,5 +197,5 @@ function drawFilter() {
     addRow('service');
     addRow('ambience');
 
-    loadMap("data/ratings.csv", "ratings");
+    loadMap("data/ratings.csv", "ratings", colorMapObj);
 }
