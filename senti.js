@@ -3,7 +3,7 @@
  */ 
 function normalize(min, max, val) {
 
-    var mapper = d3.scale.quantize().domain([min, max]).range([0, 5]);
+    var mapper = d3.scale.quantize().domain([min, max]).range([1, 3]);
 
     return mapper(val);
 }
