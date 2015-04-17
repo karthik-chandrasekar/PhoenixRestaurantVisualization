@@ -78,6 +78,9 @@ function drawRegionMap(divName, mapData, colorMapObj) {
         var restCirc = {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
             fillColor : colorMapObj.getColor(points[key].magnitude),
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillOpacity: 0.35,
             map : map,
             center : points[key].position,
             radius : 100 * normalize(mapData.min, mapData.max, points[key].magnitude),
