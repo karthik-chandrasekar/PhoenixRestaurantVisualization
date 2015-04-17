@@ -37,6 +37,9 @@ function loadColorMap() {
             .append("g");
         var count = 0;
         var diff = (max - min)/numOfColors;
+        var maxDispRating = 5;
+        var minDispRating = 0;
+        var dispDiff = (maxDispRating - minDispRating)/numOfColors;
         for(var i = min; i < max ; i += diff) {
             var group = d3.select("#color-map")
                 .select("g");
@@ -49,7 +52,7 @@ function loadColorMap() {
                 .style("fill", mapper(i));
             console.log();
             group.append("text")
-                .text(d3.format(".3s")(count * (diff)))
+                .text(d3.format(".3s")(count * (dispDiff)))
                 .attr("y", height + 12)
                 .attr("x", count * width/numOfColors);
             count++;
