@@ -1,3 +1,13 @@
+/**
+ * Function to normalize between 1 and 5
+ */ 
+function normalize(min, max, val) {
+
+    var mapper = d3.scale.linear().domain([min, max]).range([0, 5]);
+
+    return mapper(val);
+}
+
 function loadColorMap() {
 
     var min = 0;
@@ -41,7 +51,9 @@ function loadColorMap() {
         var maxDispRating = 5;
         var minDispRating = 0;
         var dispDiff = (maxDispRating - minDispRating)/numOfColors;
-        for(var i = min; i < max ; i += diff) {
+        // Adding 0.005 just so as to have the mapper work properly.
+        // This ensures that values fall inside the bin.
+        for(var i = min + 0.005; i < max ; i += diff) {
             var group = d3.select("#color-map")
                 .select("g");
 
@@ -51,9 +63,9 @@ function loadColorMap() {
                 .attr("y", 0)
                 .attr("x", count * width/numOfColors)
                 .style("fill", mapper(i));
-            console.log();
+
             group.append("text")
-                .text(d3.format(".3s")(count * (dispDiff)))
+                .text(d3.format(".3s")(count))
                 .attr("y", height + 12)
                 .attr("x", count * width/numOfColors);
             count++;
@@ -92,15 +104,6 @@ function drawRegionMap(divName, mapData, colorMapObj) {
         var restCirc = new google.maps.Circle(restCirc);
     }
 
-    /**
-     * Private function to normalize between 1 and 5
-     */ 
-    function normalize(min, max, val) {
-        
-        var mapper = d3.scale.quantize().domain([min, max]).range([1, 5]);
-
-        return mapper(val);
-    }
 }
 
 /** 
