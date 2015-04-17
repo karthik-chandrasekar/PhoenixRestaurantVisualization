@@ -65,8 +65,9 @@ function loadColorMap() {
 }
 
 
-function drawRegionMap(divName, points, colorMapObj) {
+function drawRegionMap(divName, mapData, colorMapObj) {
 
+    var points = mapData.data;
     var mapOptions = {
         center: points[0].position,
         zoom: 12,
@@ -76,11 +77,22 @@ function drawRegionMap(divName, points, colorMapObj) {
     for(key in points) {
         var restCirc = {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
+            fillColor : colorMapObj.getColor(points[key].magnitude),
             map : map,
             center : points[key].position,
-            radius : 100 * points[key].magnitude,
+            radius : 100 * normalize(mapData.min, mapData.max, points[key].magnitude),
         }
         var restCirc = new google.maps.Circle(restCirc);
+    }
+
+    /**
+     * Private function to normalize between 1 and 5
+     */ 
+    function normalize(min, max, val) {
+        
+        var mapper = d3.scale.quantize().domain([min, max]).range([1, 5]);
+
+        return mapper(val);
     }
 }
 
@@ -112,7 +124,9 @@ function newpoint(pos, mag) {
  * Map loads the heat map realted stuff too as they are all one in our case.
  */
 function loadMap(csvToLoad, title, colorMapObj) {
-    var toLoad = [] ;
+    var toLoad = {
+        data : []
+    } ;
     var min = 500;
     var max = 0;
     d3.csv(csvToLoad, function(data) {
@@ -127,7 +141,7 @@ function loadMap(csvToLoad, title, colorMapObj) {
                 max = star;
             }
             var restPos = new google.maps.LatLng(lat, log);
-            toLoad.push(newpoint(restPos, star));
+            toLoad.data.push(newpoint(restPos, star));
         });
 
         colorMapObj.setMinMax(min, max);
@@ -136,6 +150,8 @@ function loadMap(csvToLoad, title, colorMapObj) {
         console.log("Max" + max);
         d3.select("#map-title").html("Top Restaurents for " + title);
         var sentiObj = initSenti();
+        toLoad.min = min;
+        toLoad.max = max;
         sentiObj.loadData(toLoad);
         sentiObj.drawGraph('pho-map', colorMapObj);
     });
