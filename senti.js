@@ -6,7 +6,7 @@ function loadColorMap() {
     var prevMap = null;
     var mapper = d3.scale.quantize();
    // var colors     = d3.scale.category20b().range();
-    var colors     = ["yellow", "green", "red"];
+    var colors     = ["black", "red", "blue"];
     mapper.range(colors);
 
     colorObj.setMin = function(minArg) {
