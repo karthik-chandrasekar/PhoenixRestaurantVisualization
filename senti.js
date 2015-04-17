@@ -5,7 +5,7 @@ function loadColorMap() {
     var colorObj = {};
     var prevMap = null;
     var mapper = d3.scale.quantize();
-    var colors     = d3.scale.category10().range();
+    var colors     = d3.scale.category20b().range();
     mapper.range(colors);
 
     colorObj.setMin = function(minArg) {
@@ -29,7 +29,7 @@ function loadColorMap() {
             prevMap.remove();
         }
 
-        var width = 400
+        var width = 400 * (numOfColors/10); // 10 appropriate for 400
             var height = 30
             var colorMap = d3.select("#color-map")
             .attr("width", width)
