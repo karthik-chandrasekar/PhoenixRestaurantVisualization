@@ -78,7 +78,7 @@ function drawRegionMap(divName, points, colorMapObj) {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
             map : map,
             center : points[key].position,
-            radius : 100 * position[key].magnitude,
+            radius : 100 * points[key].magnitude,
         }
         var restCirc = new google.maps.Circle(restCirc);
     }
