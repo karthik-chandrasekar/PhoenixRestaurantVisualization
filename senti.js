@@ -99,7 +99,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             fillOpacity: 0.35,
             map : map,
             center : points[key].position,
-            radius : 100 * normalize(mapData.min, mapData.max, points[key].magnitude),
+            radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
         var restCirc = new google.maps.Circle(restCirc);
     }
