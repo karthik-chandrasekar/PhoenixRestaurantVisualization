@@ -15,8 +15,8 @@ function loadColorMap() {
     var colorObj = {};
     var prevMap = null;
     var mapper = d3.scale.quantize();
-    var colors     = d3.scale.category20b().range();
-//    var colors     = ["blue", "green","yellow", "orange", "red"];
+//    var colors     = d3.scale.category20b().range();
+    var colors     = ["blue", "green","yellow", "orange", "red"];
     mapper.range(colors);
 
     colorObj.setMin = function(minArg) {
@@ -99,7 +99,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             fillOpacity: 0.35,
             map : map,
             center : points[key].position,
-            radius : 100 * normalize(mapData.min, mapData.max, points[key].magnitude),
+            radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
         var restCirc = new google.maps.Circle(restCirc);
     }
