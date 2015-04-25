@@ -81,16 +81,9 @@ function loadColorMap() {
 }
 
 
-function drawRegionMap(divName, mapData, colorMapObj) {
+function drawRegionMap(map, mapData, colorMapObj) {
 
-    var points = mapData.data;
-    var mapOptions = {
-        center: points[0].position,
-        zoom: 10,
-    };
-    var map = new google.maps.Map(document.getElementById(divName), mapOptions);
-    
-
+    var points = mapData.data; 
 
     var heatData = [];
     for(key in points) {
@@ -128,12 +121,27 @@ function initSenti() {
 
     var sentiData = [];
     var sentiObj = {};
+    var map = null;
     sentiObj.loadData = function(data) {
         sentiData = data;
     }
 
     sentiObj.drawGraph = function(divName, colorMapObj) {
-       google.maps.event.addDomListener(window, 'load', drawRegionMap(divName, sentiData, colorMapObj));
+
+        var mapOptions = {
+            center: points[0].position,
+            zoom: 10,
+        };
+        map = new google.maps.Map(document.getElementById(divName), mapOptions);
+        google.maps.event.addDomListener(window, 'load', drawRegionMap(map, sentiData, colorMapObj));
+    }
+
+    /**
+     * Load the heat map using the existing data.
+     */
+    sentiObj.heatMap = function() {
+
+        
     }
     return sentiObj;
 }
