@@ -151,7 +151,7 @@ function initSenti() {
         }
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
-  //      google.maps.event.addDomListener(window, 'load', drawRegionMap(map, sentiData, colorMapObj));
+        google.maps.event.addDomListener(window, 'load', null);
     }
 
     /**
