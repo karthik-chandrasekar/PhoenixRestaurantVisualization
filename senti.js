@@ -129,7 +129,7 @@ function initSenti() {
     sentiObj.drawGraph = function(divName, colorMapObj) {
 
         var mapOptions = {
-            center: points[0].position,
+            center: colorMapObj.data[0].position,
             zoom: 10,
         };
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
