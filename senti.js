@@ -90,6 +90,9 @@ function drawRegionMap(divName, mapData, colorMapObj) {
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
+
+
+    var heatData = [];
     for(key in points) {
        /* var restCirc = {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
@@ -102,17 +105,14 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
         */
-        var restCirc = {
-            map : map,
-            position :  points[key].position,
-            shape : { 
-                type   : "circle",
-            }
-        }
+        heatData[key] = points[0].position
 
-        new google.maps.Marker(restCirc);
+//        new google.maps.Marker(restCirc);
     }
-
+    var heatMap = new google.maps.visualization.HeatmapLayer({
+          data: heatData
+    });
+    heatMap.setMap(map);
 }
 
 /** 
