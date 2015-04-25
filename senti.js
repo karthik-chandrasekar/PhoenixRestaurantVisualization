@@ -107,7 +107,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
         */
         heatData[key] = {
             location : points[key].position,
-            weight   : colorMapObj.getColor(points[key].magnitude),
+            weight   : points[key].magnitude
         }
 //        new google.maps.Marker(restCirc);
     }
