@@ -132,8 +132,26 @@ function initSenti() {
             center: sentiData.data[0].position,
             zoom: 10,
         };
+
+        var points = mapData.data; 
+
+        for(key in points) {
+            var restCirc = {
+                strokeColor : colorMapObj.getColor(points[key].magnitude),
+                fillColor : colorMapObj.getColor(points[key].magnitude),
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillOpacity: 0.35,
+                map : map,
+                center : points[key].position,
+                radius : 100,   
+            }
+
+            new google.maps.Circle(restCirc);
+        }
+
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
-        google.maps.event.addDomListener(window, 'load', drawRegionMap(map, sentiData, colorMapObj));
+  //      google.maps.event.addDomListener(window, 'load', drawRegionMap(map, sentiData, colorMapObj));
     }
 
     /**
@@ -143,6 +161,11 @@ function initSenti() {
 
         
     }
+
+    sentiObj.clearData = function() {
+
+    }
+
     return sentiObj;
 }
 
