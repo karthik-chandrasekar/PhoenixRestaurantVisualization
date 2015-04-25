@@ -105,7 +105,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
         */
-        heatData[key] = points[0].position
+        heatData[key] = points[key].position
 
 //        new google.maps.Marker(restCirc);
     }
