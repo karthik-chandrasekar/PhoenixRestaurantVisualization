@@ -81,6 +81,13 @@ function loadColorMap() {
 }
 
 
+function drawRegionMap1(map, circles) {
+
+    for(var circKey in circles) {
+        circles[circKey].setMap(map);
+    }
+}
+
 function drawRegionMap(map, mapData, colorMapObj) {
 
     var points = mapData.data; 
@@ -152,7 +159,7 @@ function initSenti() {
         }
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
-        google.maps.event.addDomListener(window, 'load', null);
+        google.maps.event.addDomListener(window, 'load', drawRegionMap1(circles));
     }
 
     /**
