@@ -80,14 +80,6 @@ function loadColorMap() {
     return colorObj;
 }
 
-
-function drawRegionMap1(map, circles) {
-
-    for(var circKey in circles) {
-        circles[circKey].setMap(map);
-    }
-}
-
 function drawRegionMap(map, mapData, colorMapObj) {
 
     var points = mapData.data; 
@@ -159,8 +151,7 @@ function initSenti() {
             circles.push(new google.maps.Circle(restCirc));
         }
 
-        console.log(circles);
-        google.maps.event.addDomListener(window, 'load', drawRegionMap1(circles));
+        google.maps.event.addDomListener(window, 'load', null);
     }
 
     /**
@@ -172,7 +163,9 @@ function initSenti() {
     }
 
     sentiObj.clearData = function() {
-
+        for(key in circles) {
+            circles[key].setMap(null);
+        }
     }
 
     return sentiObj;
@@ -188,7 +181,7 @@ function newpoint(pos, mag) {
 /**
  * Map loads the heat map realted stuff too as they are all one in our case.
  */
-function loadMap(csvToLoad, title, colorMapObj) {
+function loadMap(csvToLoad, title, colorMapObj, sentiObj) {
     var toLoad = {
         data : []
     } ;
@@ -214,7 +207,6 @@ function loadMap(csvToLoad, title, colorMapObj) {
         console.log("Min" + min);
         console.log("Max" + max);
         d3.select("#map-title").html("Top Restaurents for " + title);
-        var sentiObj = initSenti();
         toLoad.min = min;
         toLoad.max = max;
         sentiObj.loadData(toLoad);
@@ -224,7 +216,7 @@ function loadMap(csvToLoad, title, colorMapObj) {
 
 function drawAll() {
 
-    drawFilter();
+    return drawFilter();
 }
 
 function drawFilter() {
@@ -236,6 +228,7 @@ function drawFilter() {
     var currX = 10;
     var currY = 10;
     var colorMapObj = loadColorMap();
+    var sentiObj = initSenti();
 
     function addRow(rowName) {
 
@@ -251,7 +244,7 @@ function drawFilter() {
             .on("click", function() {
                 var group = d3.select(this).text() 
                 var fileName = "data/" + group + ".csv";   
-                loadMap(fileName, group, colorMapObj);
+                loadMap(fileName, group, colorMapObj, sentiObj);
             });
 
         gElem.append('circle').
@@ -278,5 +271,6 @@ function drawFilter() {
     addRow('service');
     addRow('ambience');
 
-    loadMap("data/ratings.csv", "ratings", colorMapObj);
+    loadMap("data/ratings.csv", "ratings", colorMapObj, sentiObj);
+    return sentiObj;
 }
