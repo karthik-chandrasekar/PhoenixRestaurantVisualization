@@ -133,7 +133,7 @@ function initSenti() {
             zoom: 10,
         };
 
-        var points = mapData.data; 
+        var points = sentiData.data; 
 
         for(key in points) {
             var restCirc = {
