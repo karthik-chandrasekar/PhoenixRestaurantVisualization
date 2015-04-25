@@ -91,7 +91,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
     for(key in points) {
-        var restCirc = {
+       /* var restCirc = {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
             fillColor : colorMapObj.getColor(points[key].magnitude),
             strokeOpacity: 0.8,
@@ -101,7 +101,16 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             center : points[key].position,
             radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
-        var restCirc = new google.maps.Circle(restCirc);
+        */
+        var restCirc = {
+            map : map,
+            position :  points[key].position,
+            shape : { 
+                type   : "circle",
+            }
+        }
+
+        new google.maps.Marker(restCirc);
     }
 
 }
