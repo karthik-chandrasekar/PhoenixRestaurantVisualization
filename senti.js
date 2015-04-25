@@ -143,6 +143,7 @@ function initSenti() {
 
         var points = sentiData.data; 
 
+        map = new google.maps.Map(document.getElementById(divName), mapOptions);
         for(key in points) {
             var restCirc = {
                 strokeColor : colorMapObj.getColor(points[key].magnitude),
@@ -159,7 +160,6 @@ function initSenti() {
         }
 
         console.log(circles);
-        map = new google.maps.Map(document.getElementById(divName), mapOptions);
         google.maps.event.addDomListener(window, 'load', drawRegionMap1(circles));
     }
 
