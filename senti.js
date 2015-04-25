@@ -111,7 +111,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             weight   : points[key].magnitude
         }
         */
-        new google.maps.Marker(restCirc);
+        new google.maps.Circle(restCirc);
     }
     /*
     var heatMap = new google.maps.visualization.HeatmapLayer({
