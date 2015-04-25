@@ -86,12 +86,15 @@ function drawRegionMap(divName, mapData, colorMapObj) {
     var points = mapData.data;
     var mapOptions = {
         center: points[0].position,
-        zoom: 12,
+        zoom: 10,
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
+
+
+    var heatData = [];
     for(key in points) {
-        var restCirc = {
+       var restCirc = {
             strokeColor : colorMapObj.getColor(points[key].magnitude),
             fillColor : colorMapObj.getColor(points[key].magnitude),
             strokeOpacity: 0.8,
@@ -101,9 +104,21 @@ function drawRegionMap(divName, mapData, colorMapObj) {
             center : points[key].position,
             radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
         }
-        var restCirc = new google.maps.Circle(restCirc);
+        
+        /*
+        heatData[key] = {
+            location : points[key].position,
+            weight   : points[key].magnitude
+        }
+        */
+        new google.maps.Circle(restCirc);
     }
-
+    /*
+    var heatMap = new google.maps.visualization.HeatmapLayer({
+          data: heatData
+    });
+    heatMap.setMap(map);
+    */
 }
 
 /** 
