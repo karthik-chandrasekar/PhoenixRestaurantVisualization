@@ -158,6 +158,7 @@ function initSenti() {
             circles.push(new google.maps.Circle(restCirc));
         }
 
+        console.log(circles);
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
         google.maps.event.addDomListener(window, 'load', drawRegionMap1(circles));
     }
