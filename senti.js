@@ -86,7 +86,7 @@ function drawRegionMap(divName, mapData, colorMapObj) {
     var points = mapData.data;
     var mapOptions = {
         center: points[0].position,
-        zoom: 12,
+        zoom: 10,
     };
     var map = new google.maps.Map(document.getElementById(divName), mapOptions);
     
