@@ -121,6 +121,7 @@ function initSenti() {
 
     var sentiData = [];
     var sentiObj = {};
+    var circles = [];
     var map = null;
     sentiObj.loadData = function(data) {
         sentiData = data;
@@ -147,7 +148,7 @@ function initSenti() {
                 radius : 100,   
             }
 
-            new google.maps.Circle(restCirc);
+            circles.push(new google.maps.Circle(restCirc));
         }
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
