@@ -1,1203 +1,1203 @@
 cuisine,id,value,name
-american (traditional),VF9wvcgVPDVa9LBDHPrXuw,15,Stackers Restaurant
-american (traditional),93hdmjYc8IXsf69VrkRHog,133,Good Fellas Grill
-american (traditional),d7V3ykQHqChv0KtXEanKLw,72,Rock Bottom Restaurant & Brewery
-american (traditional),0QEpZi6AelUOXfk3-lCd1A,9,Down South Restaurant
-american (traditional),SRaXY_h-PnoVkNamuGzAdQ,10,Hooters
-american (traditional),rLv5DPLnO67TCHIbbBWYPA,42,Native New Yorker
-american (traditional),7pj0w2wN4LWhvTCPz78h1Q,5,Rennick's Restaurant
-american (traditional),OL9p2tme85Sd3d8mCiSOxw,21,Fox Sports Grill
-american (traditional),P8YUA2bXP-wD3VOzWqKVyw,43,Sacred Hogan Navajo Frybread
-american (traditional),xdmT9sejRDEyud8YFbEcjg,51,Bill Johnsons Big Apple
-american (traditional),tWVuAPWXvW2g8ce0WWepXA,30,George's Famous Gyros & Pasta
-american (traditional),wmuYTDs5kVaPRdFjKGtk_w,9,Country Boys Restaurants
-american (traditional),kPh2gPvd8moVx6gNf2iHsA,29,Taberna del Tequila
-american (traditional),e0vubCKi8KD8zC2C6FdbuQ,34,Islands Restaurant
-american (traditional),tdlSjsWl9PYEUBhDXkIvXQ,12,Marston's Cafe
-american (traditional),PeC1ec6uyX3hlGIPORqs7w,11,Moon Valley Grill
-american (traditional),h1kwVr1eTpBK0rWfcm5QSg,84,Buffalo Wild Wings
-american (traditional),PkBkqQpAoeX3Ogo5HBthQg,22,Gallagher's
-american (traditional),Rj5gyaRIIwDX_OJa1LlE4A,33,Chick Rotisserie & Wine Bar
-american (traditional),To5CjntVFawXM_hpAhvVdQ,78,Wally's' American Pub N Grill
-american (traditional),QhZgTuDoGMXyLu2WzrPoyw,12,Village Inn
-american (traditional),8DKEWD2DaU6XlMNRN4QNlA,43,HEK Yeah BBQ
-american (traditional),BT2Vls7h6sWrCKa5gGXbKg,43,Long Wong's Restaurant
-american (traditional),3oZcTGb_oDHGwZFiP-7kxQ,613,Chelsea's Kitchen
-american (traditional),619v4z_tj2NiZWuX1tPdrw,25,Black Bear Diner
-american (traditional),-XlBQrxN_ZB3MZKxLBeAjA,3,Marie Callender's
-american (traditional),po5FyERB4lUZNnBIwnhFlg,15,Sonic Drive-In
-american (traditional),HmieoxfEuZT91ojxluadZg,13,Shenanigans Bar & Grill
-american (traditional),uECIvsUWlDWSiJ9jAfH_kQ,51,Texas Roadhouse
-american (traditional),DVYTS0ZLO-3ClAhMd99VYA,11,Chaka Chaka Urban Cuisine
-american (traditional),SAS7V55TcgZSTJ21ZnXqmQ,18,12th Fairway Bar & Grill
-american (traditional),Qchl3BUVrwGM7h8Qduw6Aw,8,Copper Door
-american (traditional),2gMx4KnXbNtpoCuVCmyo3g,8,Coco's Restaurant
-american (traditional),INMlF39JiK9buYVNUR6O7g,4,The Playa II Bar and Grill
-american (traditional),55seKyxRWUmHC1s52xk45g,62,Gallagher's
-american (traditional),WRjMDL79KQ0ZG5yCdfJiYA,39,Buffalo Wild Wings
-american (traditional),C_YBdVpxct0NqjrCJDBlxA,13,Sizzler
-american (traditional),E0fZHHInMb6xscHDrPlh4Q,15,The Art Of Soup
-american (traditional),vWcUrFcweGXAWsil_pfpjw,7,Whataburger
-american (traditional),ZJxs1L4oMhX9GW00ty0aAg,42,Buffalo Wild Wings
-american (traditional),psZF-7maJzwhtfesiSrACA,9,Whataburger
-american (traditional),faitVIiNezSN0ogZQSZPWQ,5,Lantana Grille
-american (traditional),UB2j_EV3CIM_E4LcpadKMQ,162,Salty Sow
-american (traditional),ET9VpUk1UgjMN5DJRV0yOw,7,Christopher's Fermier Brasserie & Paola's Wine Bar
-american (traditional),dVRRT0zVk8eFNx0Wv6gMmg,5,Chili's Grill & Bar
-american (traditional),QAqD40DAbYXBcw1oX3AJyw,4,Left Seat Restaurant & Lounge
-american (traditional),Xk3inJcuBGLhavUcdlINZA,161,Crudo
-american (traditional),nY2QBNMEfT3j68j-DHOGyg,26,Waffle House
-american (traditional),1-1VcGTL3GyCqUpXZLFTZA,61,Friday's Front Row Sports Grill
-american (traditional),0Apb1P7RzbQEkeJDuywlPQ,10,George & Dragon II English Restaurant Pub
-american (traditional),iins67bZVJeDrjiOTZh8DQ,21,Red Lobster
-american (traditional),PN3aQAH-RONnK-ahkNm0xg,77,Zipps Sports Grill
-american (traditional),qAORECtABjr_FsvSzy1apw,39,Smashburger
-american (traditional),SgTjnyElc26gPUghVuCuSQ,51,Keegan's Grill & Taproom Foothills
-american (traditional),fgVwzwERnAicqg38PawxsA,19,Applebee's
-american (traditional),YJJx6rYfHQtmBd3qq-Lcbw,9,Whataburger
-american (traditional),rVUEZpHQfWI_3kt0lBwaxQ,63,Keegan's Grill
-american (traditional),0RqNRc6RiILzZxK9J8Kqug,51,Red Robin Gourmet Burgers
-american (traditional),AVUpq52fSE9q3v9tO-i_3g,22,The Fry Bread House
-american (traditional),v96aR__oKt2aqT-azpcA6A,5,Phoenix All-stars Sports Bar & Grill
-american (traditional),0MQ3inDAuiq43TN9hw_Rbw,3,Sonic Drive-In
-american (traditional),Sodko0hlMg7F5doNJGKcWQ,59,Claim Jumper
-american (traditional),oCA2OZcd_Jo_ggVmUx3WVw,251,Alice Cooper'stown
-american (traditional),k6PuJ964NF2NEoXoOg0ijA,30,Caps Sports Grill
-american (traditional),Jj7bcQ6NDfKoz4TXwvYfMg,28,Fuddruckers
-american (traditional),pk0vem-ismpPnVeTIG0Q5g,5,Applebee's Neighborhood Grill & Bar
-american (traditional),2B0pIRjAt64mFMV-2ZRCfg,3,Arby's Roast Beef
-american (traditional),IW-NYIHk50mXV5Nz7nSGyw,33,Zipps Sports Grill
-american (traditional),N-hmuPPHrTxDA_pQXgt9zQ,11,O Bar & Grill
-american (traditional),8jTAfGcJMLs9VNcG4dndNQ,31,LongHorn Steakhouse
-american (traditional),Lk-FP6yxYRTcU52SaTx2EA,12,Cactus Jack's Bar & Grill
-american (traditional),0Jouvs4G3d6CcG3pYGZ20A,12,Lunch Box
-american (traditional),ykKSshfa9ANCZCuvM2LaWg,82,Culver's
-american (traditional),JW6fDZOuUKtJyZGeldh0xA,18,Chestnut Lane
-american (traditional),fDZzCjlxaA4OOmnFO-i0vw,157,The Oink Cafe
-american (traditional),g4y3_YqR4jmfCP9K0TzxrQ,9,Marcel's
-american (traditional),kvyYxHukGKi2ILJvDrLMsg,2,The Raven Grill
-american (traditional),oaakO-X7uOXNxqsxjDSKfg,101,Half Moon Sports Grill
-american (traditional),UUssRgBCO_riWg3chbv9Zg,61,Satisfied Frog On Bell
-american (traditional),wRWakw2wXmMEAe9FW9w1Pg,34,Native Grill and Wings
-american (traditional),bbiV-lPmRaK_gjzE77x_jA,8,South Bank Grill
-american (traditional),IURIbkgQgHXAgwX6hAgiNQ,107,Gertrude's
-american (traditional),2xczXFsc4GeilxL8B8R3Vg,26,Whataburger
-american (traditional),YUMvB8pA2yfVeAouAHzn7g,3,Denny's
-american (traditional),5QOitecMgPwjT8RbUAQdig,8,Red Lobster
-american (traditional),v48aS-Z-nw6o9qsHdHz8zA,68,Logan's Roadhouse
-american (traditional),gQjTs4BDNYSu9oJhkEsssw,40,Lone Star Steakhouse
-american (traditional),Lo0dRIDKXc5mlE-coVZrtQ,80,Chloe's Corner
-american (traditional),5XU8ys_TsulI-FJ5nzuNvg,66,U.S. Egg
-american (traditional),SfrBXbRdNB_gqPkIgJyKCg,13,Bitter Creek Cafe
-american (traditional),aqD66Sve2mE4cq021LWQmA,5,Segal's Oasis Grill
-american (traditional),0nGjXTpUtpIJl10PL0eBGg,120,Breakfast Club
-american (traditional),JbJDlfcnYiyZRXeHQcAVjg,73,Raising Cane's
-american (traditional),2I666dqzs1XB6xigIKa9bA,44,Tom's Tavern & 1929 Grill
-american (traditional),VFjeCLwVMguUNWH-DeOgyw,36,Fox News Sky Box
-american (traditional),qdI9KaRhOzaJRK0dvGUSaw,21,Coco's Family Restaurant
-american (traditional),GVUtuBmDdvXxXtjrvHHJnQ,11,The Flight Line Bar and Grill
-american (traditional),3Zsjlum5kl5N5KV712aTMQ,149,Different Pointe of View
-american (traditional),fG3yJmDXfSU8eW8HY1K3aQ,7,Whataburger
-american (traditional),pAHUC05ceak48e745i6G4g,207,Paradise Valley Burger Company
-american (traditional),fsQFHGMbqWf7MT6KYMuJxQ,8,Boston Market
-american (traditional),cIwMq5KNq0ASQzoTP1dE9Q,12,Boston Market
-american (traditional),r8CwFUEQtL8gAT9KHnNhuw,75,Teakwoods Tavern & Grill
-american (traditional),oIXw9z-OuDlMDKUBPRny2w,53,Uncle Bear's Brewhouse Grill
-american (traditional),YSQnaRE4Le6CaonZICFyVQ,2,Chili's Grill and Bar
-american (traditional),aZFihxH7QGWeIXw8uw_xDg,11,Hooters
-american (traditional),U-uTG4ofQoaCGGY5MVsJsA,18,LongHorn Steakhouse
-american (traditional),zj0BkAi54BGU_AK6AyvJDQ,151,Rusconi's American Kitchen
-american (traditional),t1ahkb3p7HsSC7sLkrcMfQ,18,Olive & Ivy Marketplace
-american (traditional),t_0576Esa58pcLHCEpj31A,119,Steve's Grill
-american (traditional),-zcZNlO0JwZHppan8rGkBQ,23,Chili's Too
-american (traditional),DDnmNTvIIQu2t3WZ2EQx-w,193,Sierra Bonita Grill
-american (traditional),nts2OALwvyvfNh9focRZ3w,216,Hillside Spot
-american (traditional),SgGINtDKQgoXoAnQgrDKDg,38,Native New Yorker
-american (traditional),Q5diW79GD0MSJ10j1HCf8Q,4,TGI Friday's
-american (traditional),tfVKzEDu8XYyP8KO1dsNvQ,82,Two Hippies Gnarly Burger Joint
-american (traditional),uflQ_lKBfS6WknNlm_HK8g,14,Sizzler
-american (traditional),MiajUnwoG7RGoaolO1rPaw,76,Ranch House Grille
-american (traditional),AaTC0a1gQ8Q6VJ6HQLYllg,3,Madi G's
-american (traditional),QXWXLEVGeONoZHLmHuFemQ,11,Sonic Drive-In
-american (traditional),NkGQRN6ahwQoFEAlHq8NHg,40,Blue 32 Sports Grill
-american (traditional),8FNO4D3eozpIjj0k3q5Zbg,42,Deer Valley Airport Restaurant
-american (traditional),Ane4XcpP7aWzhjd8SGiciQ,38,Red Robin Gourmet Burgers
-american (traditional),MU3i2uEyUBntebU6pEyMbw,40,McCormick & Schmicks Seafood Restaurant
-american (traditional),VuPhv9CNIHLOzS2JeDwLOA,2,Waffle House
-american (traditional),EmlgWjs1ZzZEpDjZCSPLmw,270,AMC Dine-in Theatres Esplanade 14
-american (traditional),mPMw_JxSRjzPXVdTjWmV6Q,3,Whataburger
-american (traditional),Vz-PukBDv5j1UDOYbMbb1w,26,Ruby Tuesday
-american (traditional),vYvT8J9uEh4Fqt7f9ILKlA,36,Azool Grill
-american (traditional),63cjAsO1jXvrwvjkUiEkVA,16,Casey Jones Grill
-american (traditional),gkv2XvXpFgiq4Bb2XK7YmQ,69,Hard Rock Cafe
-american (traditional),fmpEjlZhFlMHaGmsKJlUTg,27,The Other Q Bar and Grill
-american (traditional),9UgwLTF5mSf9ip2xEYYy2g,14,Ironworks Restaurant
-american (traditional),FqzgT9Y-Yu7jiWdHnGW-kQ,372,The Vig
-american (traditional),MXOdsPTLQPsQK9hUq01DWg,219,Arcadia Tavern
-american (traditional),qkhzmBKShH9QQwh16hMxQw,10,JB's Restaurant
-american (traditional),z3zcsnK26QhC7TqDX73zvA,44,Black Angus Steakhouse
-american (traditional),GDeu_BPyb4PBDZSv1J9-6A,7,On Deck Sports Grill
-american (traditional),hzUOqxpcnYYBgLlrgvjQYQ,40,Applebee's
-american (traditional),hvaOgvC3F9b0G1eefGlzNQ,29,Thunderbird Roadhouse
-american (traditional),cjFDprdEXbDDdraONMy5Pg,42,Pete's Fish And Chips
-american (traditional),0OjN8M62r8cJhSF1mGfsdg,4,Sonic Drive-In
-american (traditional),QG4qmOPBgNigdI4cUYhKJg,21,Native New Yorker
-american (traditional),m4Gw2d0_iWE3kyDhNtD0-g,38,Wingettes
-american (traditional),UScgPn6pIHuOmQJTsZQIOg,148,Corbin Bar & Grill
-american (traditional),GjvIDOEhdQB1oPrFeSpxBw,65,Gordon Biersch
-american (traditional),CNS4j16dzLWDPEV-UM9SLg,12,Jackalope Flats
-american (traditional),gPCUIvpMCXVDRqszO8v69w,23,SpoonZ Cafe
-american (traditional),1ulwCamdqoX-SdMTcOhHDw,14,The Courtyard Cafe
-american (traditional),y7A3nmvqtyfEysI9nGUiOA,14,Legends Sports Bar & Restaurant
-american (traditional),lnX2gaGdO0fNtykyFrp1AA,26,Mel's Diner
-american (traditional),avvNnkpGpGIS-2CClsduXA,10,Rimrock Bar & Grille
-american (traditional),oUpVWZv6Sa62wTkkS7V7qQ,5,Trails End Bar & Grill
-american (traditional),F-ykHfGY9lWr12OJ_Ofy7A,50,Gallagher's Sports Grill
-american (traditional),KwnYw_cLsYkUPA6ZUmqsYQ,3,Devil's Greens
-american (traditional),PdWe3jF9YEu5fWBiQXZIgg,72,Dave & Buster's
-american (traditional),iAYzRvyBrSkJDu_XZ-E1zQ,45,Fast Eddie's Diner
-american (traditional),2cMWbJvpxgmSAWoRQzcNIA,5,Bistro 202
-american (traditional),cTyBfWfmgL3vgRetyfmtyA,8,Sport Peppers Grill
-american (traditional),C37jakxE5TX6ccAfjp2kJA,4,Nixon's
-american (traditional),0kZ4aYmqf5fzTt9Yvz8Kvw,24,Waffle House
-american (traditional),JxgoluY8hnC34cys_f80xA,15,Deemos American Grill
-american (traditional),RUjaYACMwyQ2R7_Lz4p8Yg,20,North 51 Grill
-american (traditional),wn7GiuOQ_0VrPXNc1wVTDA,18,Fatburger
-american (traditional),D7uAJToqGk1hQxfZDO5ijg,9,Belvedere American Bar & Grill
-american (traditional),2r8jGeuYvMkyP2ik_X-Bxw,120,The Cheesecake Factory
-american (traditional),bKr2DfxkmVNSWM2ZrjMT_A,17,Golden Corral
-american (traditional),691w3FIZWH7cz3IYGor5Ag,23,Cafe Aroma
-american (traditional),Xta0mTpGJWC2yi6kiQm_vg,37,Melrose Kitchen
-american (traditional),-WZIxGXJHMGidZXRhKxP3w,49,Mimi's Cafe
-american (traditional),oJ1xS-B6FJis_8_jdMBPLQ,3,Chili's Grill & Bar
-american (traditional),Lm4rjgZlTtLfsriICKdD8A,20,Game Seven Grill
-american (traditional),FOfhEC6rN23RQaUlsR2byw,109,The Melting Pot
-american (traditional),YWDfUAPwScdW_9GmGskkZg,1,Coppers Sports Grill
-american (traditional),3E_toMWSUCuhRJzG1eml8Q,50,Smashburger
-american (traditional),KqsvvlzoJH3TUrk_vlbcsQ,35,Harem Lounge
-american (traditional),Y9D61SRDiTAYJeaVbqvbFg,113,Wolfley's Neighborhood Grill
-american (traditional),QdbZyl-LWFS54u93Vjd5SA,135,The Capital Grille
-american (traditional),PSAK5sUss8yiN7Q_72Zlxw,8,Boston Market
-american (traditional),8SoWH_iOdZD1OvebCwJUbg,13,Dennys
-american (traditional),CuLdSn4wFwog-z2OMSwBCQ,26,Skunk Creek Flats
-american (traditional),NX5YHSIyesufcsI7Rg5NLg,38,Mimi's Cafe
-american (traditional),7LGjM8HKJTwqfYU3C7N_0w,50,Rico's American Grill
-american (traditional),O-ylVyHn6e6kaoJO-jHj-w,43,Hole-in-the-Wall
-american (traditional),G4ZZHlp6CdYBZOirW2_PQA,128,Tilted Kilt Pub & Eatery
-american (traditional),ixTr1qXUFGTzyaZUuCDDvg,18,Whataburger
-american (traditional),4SwDarJGXaUPGv8QpmpHxQ,4,Ruby Tuesday
-american (traditional),oIkwj10HmUiognO68j7jOg,108,Kona Grill
-american (traditional),sspvIv6br3Vto2s5JkeiMw,10,Dick Clark's Bar and Grill
-american (traditional),OmxAvtMyIvCVm16NFIOOUA,19,TGI Friday's
-american (traditional),WoJrHOtrQ5R4jx80GwlnxA,17,Swensen's Grill &  Ice Cream Parlor
-american (traditional),E_wJCQ9L_0w5tJyrvr0lJQ,45,First Watch
-american (traditional),QlEU-1VCqJbTzSf8mFAZUg,13,Desert Springs Brewing Company
-american (traditional),4uvdld7zvWk05RZuI9rDPA,18,Bill Johnson's Big Apple Restaurants
-american (traditional),SZvYxcvYYVRue9MXcEDjsA,18,Coco's Family Restaurant
-american (traditional),4WcxnNv_lzCIG2eb8O5Mlg,7,The Brickhouse
-american (traditional),xmjv8g356v8Qo55ICjG8rg,106,CK's Tavern & Grill
-american (traditional),A-ZhvQa5A-XSqZB3HH6TVw,5,Sonic Drive-In
-american (traditional),-fA9y44FrK8nTRxjyntfTw,7,Charlie D's Catfish & Chicken
-american (traditional),M2Dw6a9MSIFUtVO3bF2ckw,17,Chili's Grill & Bar
-american (traditional),XWvht_1ZLdK7EHJ3jo4q0g,355,The White Chocolate Grill
-american (traditional),vBDVxjMtXzZ8GUhV-1L3Jw,27,Chili's Grill & Bar
-american (traditional),0xWF7PpTNl-awqg2YGxxFQ,20,IHOP
-american (traditional),mqQwChPNN4o4DhAzaGntIA,171,The Fry Bread House
-american (traditional),1LSxfyNIUFbQb-Ej0FDGTw,50,Mimi's Cafe
-american (traditional),2RxIERKZi5gjLW76MkFotQ,48,40th Street Cafe
-american (traditional),yLfYR-PvIzAv9DnEH68Rgw,8,The Bamboo Club
-american (traditional),2VU7F1oqCxpVPVlvpwvacw,42,Barfly
-american (traditional),F5vKD7ajS69CwuFyBVxA_g,5,Boston Market
-american (traditional),Y1jkxceoqE5LrTL5eqPXsA,10,Euro Grill
-american (traditional),PejTHpMkh8sJZGdGaZuPpw,20,Applebee's
-american (traditional),r9sGMJ084n4IS9eGmlCKjg,90,Feeney's Restaurant and Bar
-american (traditional),j_Id-xnaHfyJRV5FlciYhA,15,Smashburger
-american (traditional),jWuPCzdyM21_mBMwBhcXag,3,City Hall Grill
-american (traditional),JB9zRTOKSS1ApkF1T7_khw,9,Mid City Kitchen
-american (traditional),4FS5otEktCyI1aDpg_h03g,95,Kincaid's Classic American Dining
-american (traditional),TuCAYZ89lP_s6D7Y78xNhQ,134,Smashburger
-american (traditional),VFRfBYycuieR56jZ6dgVeg,16,Yoasis Ahwatukee
-american (traditional),W41CEzdKJe8wdDB-Rd6KJQ,15,Breakroom Bar & Grill
-american (traditional),5ipAMcjec7GH7tztXYLTgQ,9,IHop
-american (traditional),XMVetdmE2IzMcRbvjhVFnQ,5,Arizona Club
-american (traditional),hBodj_f6adUAnEVUb_he_A,2,Turk's Fish and Chips
-american (traditional),reMYkuDhLk4raAviOFtvOQ,46,Lenny's Burger Shop
-american (traditional),CqhsIZ7TzCfJTrZqg5-gqQ,122,Armadillo Grill
-american (traditional),cXx-fHY11Se8rFHkkUeaUg,40,16th Street Sports Bar & Grill
-american (traditional),qsWxbgQwuomXvMseg23DGg,58,Hooters
-american (traditional),cjUmPLRT43wN9Z87A9BOpg,34,Applebee's
-american (traditional),hNVcBhJSD5HyLKMf_Z7TaA,37,Islands Restaurant
-american (traditional),-JpZiiGPKOuCEiODGNyovw,8,Wendy's Old Fashioned Hamburgers
-american (traditional),vFJmFFfPVhHkC3bWOeZnNA,45,Casey Jones Grill
-american (traditional),77tMP3nG9TH0rrhf6G4g6A,4,Lager Fields' Micropub and Grill
-american (traditional),ziaSXim-Om_a62V7X0GSpQ,9,A-Town Grill & Eatery
-american (traditional),5GpvSL1tlAjpgdJKZ5eLpg,51,Texas Roadhouse
-american (traditional),ksD6Pv6wOocscrEMqfnYbA,15,The DawgFather Grill
-american (traditional),HQFscafV3wi5z4yOKdUGRg,86,5th Avenue Cafe
-american (traditional),tb24fvNJfHhyKEXkKn12Xw,167,Welcome Diner
-american (traditional),immAndhZ-o1qrlFrIw8YjQ,9,Village Inn
-american (traditional),-MaIpPCz4153Uh1pnzI3AA,9,Stonegrill
-american (traditional),qz4ZOcv-840UjfCEYI4qZg,53,Jt's Bar & Grill
-american (traditional),GAPqG0WNBBidKeZTMpEZ-w,139,Local Breeze
-american (traditional),hMd49yw32d7I0Kk1ZIOeXg,4,Arby's Roast Beef
-american (traditional),MLcXtnpzygZvQ9BtseLLlw,168,Farm At South Mountain
-american (traditional),w7SrsFV4FL04bhQr-B6-4w,66,Raising Cane's
-american (traditional),JImJictLIE48_O1z-l2TGw,30,Wagon Yard
-american (traditional),Upru5VE0jZ81ZQVVNCK_uA,4,Sonic Drive-In
-american (traditional),kjZJsF1juY_pTOw_A8Ve6w,24,Chili's Grill & Bar Catering
-american (traditional),K4VHuqUFwc4eeC8LkMLyTA,18,Waffle House
-american (traditional),BcuFT-gQj6Epl56ZAWJIdA,12,ZeeZ Grill
-american (traditional),s_cKw6m0Fw9jZbobRH0YSg,40,Rock Bottom Restaurant & Brewery
-american (traditional),A0c5KmspCG9TMOZkjLWaTA,1,Johnny's Uptown
-american (traditional),GTVneiUeIyRL8Wa_WmEQ0g,14,Whataburger
-american (traditional),45puCRQ6Vh_IIAy7kkfFDQ,135,Majerle's Sports Grill
-american (traditional),ot4Of_A9onKHoVt4XU7v5g,3,Sonic Drive-In
-american (traditional),nckQIGiiUxztAQ2Boo6Tlw,5,Ocotillo Sun
-american (traditional),XBpxFy0h7KE-GtKuCX2JQw,6,Sonic Drive-In
-american (traditional),JzKG_Upd49TVOneDmesELw,2,Monroe's Downtown
-american (traditional),uMxfxbqT27XDeU9UTXeErg,161,Bootleggers Modern American Smokehouse
-american (traditional),OE7RmfGvpvSEv4g3xDKfSw,128,Chelsea's Kitchen
-american (traditional),5WQhLNpG6xZryVCla4gMRA,17,Fry's Food Store
-american (traditional),aNuyJOFNrb-d71amzPpxlw,52,Twin Peaks
-american (traditional),K-FzqJUj6YpSLC_fyJRnlA,5,Coco's Family Restaurant
-american (traditional),-1bOb2izeJBZjHC7NWxiPA,68,First Watch
-american (traditional),__etvGuL2dh_a1LOT0gNYQ,38,Big Guy's Sports Grill
-italian,r3r_bAfa6pZKIhQB82FizQ,102,PastaBAR
-italian,kxDGexkbP30fBvxVI0CzFQ,80,Stumpys Pizza
-italian,p1sX2UVxEjPzd92LtP3c4g,43,Angie & Jimmie's Italian Pizza
-italian,DIYHTgM-YGKWOWLzQ4XVhA,24,Michelina's Ristorante Costa Campagnia
-italian,IZxdigPOncvAcqrFWB9wpQ,4,Trattoria Bianco
-italian,M_Aocl2RmEMCt-oO_wB1zA,3,Papa John's Pizza
-italian,VpW40mznMS43CqdbelX2wA,183,Giuseppe's On 28th
-italian,Cse5FvYuACIxljwaac2SZg,37,Cave & Ives
-italian,Fb5ZL4VkO2Yfx-bNJexAkg,103,Oregano's Pizza Bistro
-italian,OIBrslaVxFxaaGUsYFUujg,34,Olive Garden Italian Restaurant
-italian,hnOGdF42m6Cwuuh5iuaXbA,44,Romano's Macaroni Grill
-italian,9beCQ1vPk4cFSJp8Sb5-8Q,109,Cafepino
-italian,C7utE_DN2kgE-68_VF8ftw,17,Ristorante Tuscany
-italian,QFHqziOcSXsZTQ4QGIqmtQ,5,That Italian Place
-italian,i0sMoNwiNAo1--AsZJ3Nlw,23,DiVito's Pizzeria And Italian Restaurant
-italian,hIe65VALe8rxseYECVj08w,18,Streets of New York
-italian,3FhHnU7Mq8KcyWiWKH0RzA,18,Streets of New York
-italian,93fEJZYc3B-jOMaXce7G5A,72,Fired Pie
-italian,lM3q1N0lpxStCLYMCoqGhw,8,Carmella's Italian Kitchen and Bar
-italian,CSoURupWEyuyzkjMOExKPg,233,North Italia
-italian,kF8JDYpLnbf8AZS9gpHXJg,25,Joey's California Bistro
-italian,ZAgPh4v-oOb1g6cdlkKI0g,9,Phoenix House Of Pizza And Subs
-italian,RYZ08XAToBaN-bS5HHVEhQ,74,Nellos Pizza
-italian,lQ22GkzG0tIJRbzkpMbJxw,3,Pronto Pizza
-italian,QkyN2vqQidQhotvOtPIrkw,122,Humble Pie
-italian,cN4gmlntyQ-maTW4PdT-Kw,17,Streets of New York
-italian,D7d-X4fLvVIdsCDFGpqzmg,76,My Pie
-italian,If2DUhmWIvlu2JFc_rR-Bw,16,Papa Christo's
-italian,EQTdq1SJuU6bjC3myEfDWg,14,Barro's Pizza
-italian,uYj2NO1HZRNiD-de_pSdJA,61,Amano Pizza Bistro
-italian,VVeogjZya58oiTxK7qUjAQ,1066,Pizzeria Bianco
-italian,PwtYeGu-19v9bU4nbP9UbA,32,Calabria Italian Kitchen
-italian,gJmBto8IXwSBT4HTcL7cDw,16,Sano Brick Pizza
-italian,ImVx220_Pcp2iB5uworODw,58,Vincent's
-italian,9c8Q6sAWAL1MCRzJ7INQkg,8,Villa Italia Ristoranti
-italian,IuYs9ys6bwhK-s2_sUKsbQ,18,CiCi's Pizza
-italian,NNGJQF3WeIHzGzweCpZ-VA,91,La Piccola Cucina
-italian,PEHJjxdw11TGFma9Zhz3ng,75,Red Devil
-italian,k8JnZBspVOI8kLcQek-Chw,155,Mamma Mia Brick Oven Pizza & Pasta
-italian,GvwDppcJLm9lso9iS2hSIw,62,Pat's Pizza Plus
-italian,u5o4H8h0sIVhqa8Lcusi5g,57,Fatso's Pizza
-italian,hVDo35_OySCeFWYLFKM7WQ,8,Palermos Pizza
-italian,6TIaz7MG6qjX6ZaQe9cG2w,49,FIRED PIE
-italian,5BnsHDWrt2z-9d8AzSgkjw,72,Nick's
-italian,UexMw8s7B1J-RtFOQtCCsQ,41,Romano's Macaroni Grill
-italian,JvJjaTJCyUGu5SDpoJWvZg,9,Meatballz
-italian,QiBNnRkMZ5chmo_9eOzv5A,5,Picazzo's Organic Italian Kitchen
-italian,D_xWWPRdpZCC3XVJ61pSGg,35,The Skinny Italian Kitchen
-italian,MEraJIKYztC7IOzYwMe86g,14,Raimondo's
-italian,QdYrBxT8OV8qd7aENoBlsg,33,Isa's Pizza
-italian,yuS1qDTkido8zUFrfj8O0g,5,Cafe Roma
-italian,hqVbmZNLTdR2y7G7oJu9vg,77,Tutti Santi by Nina
-italian,eFA9dqXT5EA_TrMgbo03QQ,60,Crust Pizzeria & Ristorante
-italian,ILm0LCXrDGs_5aGa83dgfQ,23,Olive Garden Italian Restaurant
-italian,DcrM4hwDcU2G6vuh2cnaYQ,272,noca
-italian,C6lM880c3gEdk_9ZjtKYWA,12,Sam's Chicago Style Pizza & Wings
-italian,hgb1RihLYRSpFBjBhn8rZw,49,Bell' Italia Pizzeria
-italian,n-XTO7I2o2h06o-vyjtYfg,47,Raffaele's Pizza
-italian,3n9mSKySEv3G03YjcU-YOQ,512,Postino Central
-italian,OkXpdUozVS3vjSRtCoSIvw,8,Fusilli's
-italian,TqHTtjPANCBKGsjGBjDoQQ,106,NYPD Pizza
-italian,X3NvTA98paIkjT4-bcXpLA,4,Affinito's Bistro
-italian,4SEaQmnUIpqZXPyCmHZc1A,104,Nook
-italian,Xk3inJcuBGLhavUcdlINZA,161,Crudo
-italian,s0klhdxcAab0yEWw2Uuimw,52,Tomaso's
-italian,V3lQtk1LgwAEcF9j-BzchA,60,Famous Ray's Pizza
-italian,-AAig9FG0s8gYE4f8GfowQ,308,Pane Bianco
-italian,M4KIUu3-lAvD1xeWue7_OA,3,Jerry Tucci's Brick Oven Pizzeria
-italian,3yMneVFhBePIBtCGdboc7Q,41,Sardella's Pizza & Wings
-italian,ZRJwVLyzEJq1VAihDhYiow,139,Spinato's Pizzeria
-italian,3Zsjlum5kl5N5KV712aTMQ,149,Different Pointe of View
-italian,JN2qXIuDXnV2d8WnSqd28A,42,Streets of New York
-italian,ML1RJdeZ7bbfMrHvJ7m99A,222,Oregano's Pizza Bistro
-italian,le-4m9rKxHVPB2l8GWLYcw,33,Caffe Daniel
-italian,AkOruz5CrCxUmXe1p_WoRg,423,Cherryblossom Noodle Cafe
-italian,U_CvxSM9epIi8u5A0jOUVw,27,Barro's Pizza
-italian,e3izESeW0BUx0s96FdSLag,108,Va Bene
-italian,Zruvunhqw7cuyuoe7g09Gw,75,Picazzo's Organic Italian Kitchen
-italian,Lbue8gqRiBPEnA7g7H1qdw,131,Humble Pie
-italian,rqKvfrvfsM_TQMv4IP1YVw,14,Barro's Pizza
-italian,z_IfC-aIkKpuhGfX1yzdfg,55,Alexi's Grill
-italian,zwJX3eetOhpi-gv4-E4rcQ,4,Pizza Hut
-italian,FRiT2RI6Y1nds1jjZqvnXQ,49,Sauce - Pizza & Wine
-italian,Pg8OPh1D2ws0xO-I-8ppoA,186,Upper Crust Pizza
-italian,E0Gi93pSbrJVnQcV8JE8RQ,5,Red Tomato
-italian,nytd8aC5Y9et_iMCuas-vg,8,Streets of New York
-italian,MPmSoEd46WXqhN-5rw7Yqw,17,Amante Pizza and Pasta
-italian,Fa-zUFfIMIke1QLeeWT_6g,7,Tony Pizzeria Italian Restaurant
-italian,VK9AdK8hjxIWU3C2W9_k0w,4,Pasta Pomodoro
-italian,vvA3fbps4F9nGlAEYKk_sA,73,Avanti
-italian,zyvujnBGGpG3WWiDPkil9w,52,Spinato's Pizza
-italian,RE_avyJUm52qCTRAA2CbkQ,20,Le Ragazze
-italian,o4sPw8nO7GcNyKilWBgK_Q,40,Olive Garden Italian Restaurant
-italian,RGDyf8-PyzyS9Lzs9bkvgA,114,Babbo Italian Eatery
-italian,EpascFEAih49O5Un4f2AFw,16,Meatballz
-italian,SDwYQ6eSu1htn8vHWv128g,797,Postino Arcadia
-italian,pF7uRzygyZsltbmVpjIyvw,152,Spinato's Pizza
-italian,m9haUi2_1lHR2eAKBhKwDg,315,Federal Pizza
-italian,PAtgWCLCFRQd_fjnihISOg,44,L'amore
-italian,qFfEUJUIqfIYARCOF9Hgig,61,La Piazza Locale
-italian,J2LGgGy1b1V8e7yjDI_u7w,27,Olive Garden Italian Restaurant
-italian,pwpl-rxwNRQdgqFz_-qMPg,591,The Parlor
-italian,dmyytmVobrPfPO6IrKbjuQ,4,Gretalian
-italian,lTk4l6YgxNXNaMCD9mcD6Q,15,Vincent's Famous Pizza & Restaurant
-italian,VtHKaOSOPhZqDGf85X1oiw,13,Pasta and Sugo
-italian,udmb-UuD3xoueQ55INQFRw,47,Rosati's Pizza
-italian,umyo8MPjiZiDXHtvyaOi6g,52,Arrivederci Trattoria
-italian,0gQrhOYWdO0XVZEKtOrvaA,54,Red Devil
-italian,7CTf4W-KT4h6uA_zpGZp2Q,136,Central Bistro
-italian,ssSeK9MYRCUjoabppekwoA,39,Focaccia Fiorentina
-italian,V1nEpIRmEa1768oj_tuxeQ,882,Cibo
-italian,tDbXsDOecrv46J7YR2-FNw,5,Meatballz
-italian,S3FhtwXuiGMlGdBNtmiiSQ,50,Ruffino Italian Cuisine
-italian,FHA2j4ESBkgGe3NvOql4qQ,28,Barro's Pizza
-italian,vfLog2bLJGl6hAFtGtr0GQ,103,The Strand
-italian,MPziC5MO2QQiYVAMM3fdSw,51,La Fontanella Restaurant
-italian,VWcaFOSFcDwmFquycBzFyQ,18,Frank's Pizza & Wings
-italian,lF1917cvbCzQX7BcUvlooA,19,Uncle Tony's Pizza
-italian,UI5ghIUeHYxzwSfaDVUXOA,109,Aiello's
-italian,dKtbrGgg5fbl8MibhilP2A,119,La Grande Orange
-italian,b1aTHVkqCa4kZITbu9khtA,101,Harley's Italian Bistro
-italian,podj1OWSL3oEJsOpGj8SUw,107,Pino's Pizza Al Centro
-italian,unPzS1QJJctlZyLGFSk_HA,12,Tony's Italian Delicatessen
-italian,zSEknIqmkGL1pQt-ApEeoQ,32,Aiello's Salumeria
-italian,2J1DtN7FjGICQcgRei3jKA,14,Peter Piper Pizza
-italian,_RkvdDlzEFSRnGMrTRkVYA,15,Romano's Macaroni Grill
-italian,xqO1fp2zuxeeYjPeGP2Eaw,15,Brad's Place
-italian,vFtMSgQsd3Fwt3U7UJf5dQ,11,Rkidds Pizza & Wings
-italian,Tk2dSL0TwQeI_zNJmb442A,87,Luke's of Chicago's
-italian,rrWhi2TL0smrbihvavZxcg,148,Times Square Pizzeria
-italian,YBVQik4ySvAlvxobuFcXDA,11,Streets of New York
-italian,v6zRA0WqOODJjmpvstrpGQ,26,Neapolitan Wood Fired Italian
-italian,XkNQVTkCEzBrq7OlRHI11Q,210,Pizza a Metro
-italian,5ErKAS0rHOfU33CYjDh2Aw,40,Pizza by Napoli
-italian,mFBBtUrWMqikBS-Jn-RiIw,100,SOLO Trattoria
-italian,Jg3COi2_fHG7urLHTKvP1g,7,That's Italiano
-italian,jMzuQy104M0KU6uhdffsaQ,26,Streets of New York
-italian,jq_YnMQjcArdBWuwRospFg,45,Salute Ristorante Italiano
-italian,dsMvINhoQbIQgSRTBv2B6g,85,Caffe Boa Ahwatukee
-italian,DlCtdbceo4YNSI53cCL2lg,166,The Old Spaghetti Factory
-italian,YldXB1hRpnE1CWLF3mvgpQ,145,Spinato's Pizza
-italian,6j4hcNnLcDSWBwAdCi1mMQ,5,Cafe La Bella
-italian,QSCeI8HdUluG-YmbDWo-fw,17,Streets of New York
-italian,4iRPMiDQQWFA0IS8lWce0Q,4,The Italian Spoon
-italian,EfmR4e1tmjC5_ZQOgfnYrg,88,Roma Garden Ristorante
-italian,auorqdHiATGZHVd-sd79ZQ,118,Pizza Heaven Bistro
-italian,rGHktXbee4CErLsMrPqbrA,17,Streets of New York
-italian,xr2szu7jYIWbj4tlKef61w,36,Pezzano's Pizza
-italian,YxT-QYCAfg_jaS0g6Xx0Bw,32,Cafe Roma
-italian,lHKS896yFkmAuWyFnbNP3A,15,King Solomon's Pizza
-italian,3CSaqRNvYg7ZdN2zwxwzVw,50,Christos Ristorante
-italian,BPi1Q5wX0_o5VlO_XRyYuQ,177,Pizzeria Bianco
-italian,oinZM9-d2n5NvGuxvatDWA,14,Ray's Pizza
-italian,0AZiq_OMKs3I9lTmwd5PSg,37,Tommy V's Osteria and Pizzeria
-italian,N_n2jyCfpon3NzKERYT02Q,30,Pizza People Food Truck
-italian,t-uJbFctqW2eGtlAIAI60g,76,Gasper's Casual Italian Dining and Pizzeria
-italian,IpqgfODLFPww-6TxCk-LJQ,5,Daniel's Italian Cuisine
-italian,i0W4TZcoRbOYeRfDfQEX8g,34,Rinaldi's Italian Deli
-italian,HAMKYsgtJ6fEBUZzTMhZwA,31,Barro's Pizza
-italian,ubfD6-I73lP00v0fkx-keQ,75,Anzios Italian Restaurant
-italian,e34tIpveepWkpvOuv_boqw,168,Centurion
-italian,igD5We_87JFrtaaR7bh_Xg,54,Belfiore's Italian Ristorante
-italian,3Y4Bd9eWVMsgejx2bP3MVw,35,Spasso Pizza & Mozzarella Bar
-italian,fWjyVcu7IP3hl6u5VG2RQw,4,Carmine's Little Italy Pizza & Pasta
-italian,dG7KLQ1a584wI5jSADIPIg,60,Florencia Pizza Bistro
-italian,1xu5wFd0TeBg6xNBiRtknw,18,Dolce Espresso Video Coffee Bar
-italian,lBxBzvqWaiO4pa3YHh2dyQ,22,Our Family's Bistro
-italian,bDSqqGGzbglvJ0HkIW5j4Q,11,Miami Cafe
-italian,w5XcgWwGAN21Ly2HeU48IQ,60,Sauce Pizza & WIne
-italian,5_Il_eOuwOMMoiT8jGBxyQ,63,Il Posto
-italian,R7SVavAsjzN3wy825PiOEg,4,Papa John's Pizza
-italian,wCi6nBXnXf5PAHqJZP9dqA,28,Fiorella's
-italian,R2FuwuSjmyvzNWNfqzKUvw,67,Sauce
-italian,TLNP-IQrHw1PGu3w_qbhuA,4,Zella's Pizza And Cheesesteaks
-italian,XfVGU6WGZKc867spn2TImw,208,Pomo Pizzeria Napoletana
-italian,O4E5IXT6zVJ3VpbYHqxRug,10,Pizza Mia
-mexican,_nypuc5Ke462rFWKoZ_bDw,3,El Nuevo Taquito
-mexican,Hn7f_Gh5ffvns_7nU4Wqxg,25,Tortas el Rey
-mexican,aXRtJioBYidoHdS2GTTKhA,74,Fuego CityScape
-mexican,_Nx8hwTmjR_x62Byjav0Ew,7,La Olmeca Restaurant
-mexican,lRzoAhDhcyCeOGrWntXqsw,6,Julioberto's
-mexican,wdEnI9WTLHiqSCH1RdJ40w,14,Los Armandos
-mexican,s_rPbgLOpWDgulVn9wd7GQ,5,Chuy's Mesquite Broiler
-mexican,dnhQaZ4wpLPwSfCleCILTg,9,Carte Blanche Gourmet Taco
-mexican,oiLe3lqMFaZtsSpRuIUChw,72,Las Glorias Grill
-mexican,SAIgLz6EI7vJ9AkxjvpIeg,3,Tacos La Lomita
-mexican,oEjdNvlluW5_Ng9kewJFBg,8,Chevys Fresh Mex Restaurant
-mexican,YD0oiqWZyAi-lMw3TQ2TqA,3,Tortas Paquime
-mexican,v3_CQRKezq3JdX-xxWambA,7,Pancho Taqueria
-mexican,OT0gFIAr_c-d3i-IQ6TZQg,16,Baja Fresh Mexican Grill
-mexican,rAb_wfdKKPPbcIysjYcW4A,3,Pozoleria Guerrero
-mexican,IdnYOlL9aDfMu_S2kcaUkQ,139,Richardson's
-mexican,eP2WTbTQDCLj6FPNd6Il5Q,8,Taco Del Mar
-mexican,XIeteOw2pKgLiOP6_VzWzA,11,La Oaxaquena Mexican Restaurant
-mexican,wRYdSL-AI47fPW78Bh4Hww,4,Fiesta Grill
-mexican,4XJ8gO6cbS6PuZ9dzPsrBg,2,Taco Bell
-mexican,8nk--14Irg9PtpQLWg4peg,11,La Canasta
-mexican,1kMR_HUA8i-wYOJFZfLhBA,6,32nd Cafe
-mexican,ib-y5nsfn3unE0lLY1vfAw,111,Arriba Mexican Grill
-mexican,-UT6IHfVW_2yzz1bf8WI5g,21,Tediberto's
-mexican,t0HV1S6uhBxLB5IyZC5hMQ,9,La Cocina Economica
-mexican,HbzAtY5PD6rMifst65PzQg,3,On The Border Mexican Grill & Cantina
-mexican,7_y_M5wRaSvNXt-q4xvlEQ,28,La Canasta Capitolio
-mexican,4BcuZj2ETMxUs48PLPwKxQ,3,Hal O. Peno's Mexican Cafe
-mexican,JobP0ghILdh8S8l-LhHHxQ,18,Armando's Mexican Food
-mexican,zAoFrUwRVdSrvYWNB5e5Jw,45,Taberna Del Tequileria
-mexican,eHC_xNrT1SkJyC2oncJlhw,101,Asi Es La Vida
-mexican,WxpCYziMlEy8mrEa_VcB1w,51,La Parrilla Suiza
-mexican,24OmQWFTnbfGv-e8GyEMAw,106,Z'Tejas Grill
-mexican,VudqspJ-zQIlYRBTANgdzQ,5,Taco Bell
-mexican,ccC2ecxVEOF4t_kKce6f8Q,9,El Pollo Loco
-mexican,dKNLqQWUoWkEp0nF0Y8GYA,15,El Portal
-mexican,lHFsO4nIwwgjC_oQYqfAPg,7,Ramiro's Mexican Food
-mexican,1NZLxU5WvB5roPFzneAlLw,488,Barrio Café
-mexican,WzhHlaEyaHE4KIFfcqC_9g,16,Filiberto's Mexican Food Restaurant
-mexican,fE0zuDxZrJlQ7H91eY6UYA,28,Chipotle Mexican Grill
-mexican,-dunP-FvJHpQmx5qt5Qoqg,27,Popo's Fiesta Del Sol
-mexican,Dcs_jLOlNXd96LarVInFgg,12,Federico's Mexican Food
-mexican,ieYiA4L5gk7S3kZYK0l_dg,79,Carlos O'Brien's
-mexican,Wxt6FGF4vxsnKYksMZRoiA,20,Los Alamos Mexican Food
-mexican,rkzTvFSQoylgVc2oYohuDg,3,Santanas Mexican Food
-mexican,YaB2hKgWUaqAWnCA6YWD7g,5,El Pollo Loco
-mexican,hWhVP-28LYP3llaMlAJ_JA,109,Rosita's Place
-mexican,LE-1ZOsjpPh7p95H2l5Fww,24,Federicos Mexican Food
-mexican,SbieCdRBz33V_Hl0sU8HFg,4,Filiberto's Mexican Rest
-mexican,FG7Js2aMD6NtMMRI0C8Arw,15,Rubio's Fresh Mexican Grill
-mexican,X0BsBdPGAyo9gLPIRJ9PFw,18,La Salsita's Mexican Food
-mexican,T6dbW2UuWTKar_22zbbiUw,23,Polibertos
-mexican,r2S4arkHyRcUroRhggMIoA,125,Revo Burrito
-mexican,LQGQ1w4pYrf5in6LrU0BlQ,80,La Piñata
-mexican,wiNH-zH233_zQXKLMVlqeQ,3,Del Taco
-mexican,BbasiqJzUlZtldb0r7RvBQ,3,Romero's Mexican Food
-mexican,5UBAWhxukaPrc_0DalT-3w,6,Taco Bell
-mexican,iOITnizWLD3NlKxRtZd5AA,24,Rubio's Fresh Mexican Grill
-mexican,8s392ZpX8dfO5Ol2RdQISQ,6,El Pollo Loco
-mexican,FgAkF7fscCV4TmBitdsbLw,5,La Canasta
-mexican,glalhJa7wFWPIoJLBvKGfQ,78,The Original Garcia's
-mexican,I9klG3s-47t3zVLGoMkYOA,5,Filiberto's
-mexican,Q2FaJ3zB6ZuGgvqUqhdc_w,116,Milagro Grill
-mexican,5EWVJZd9cSAMwkrwgOFd6Q,7,El Gran Taco
-mexican,K9fIADfO_zKFPFm75A1Hxw,7,Taco Bell
-mexican,d2jNFmvjq-bi8MAd9dBzCw,3,Filiberto's
-mexican,ZRqpSeZEw6sy8r01TdCudQ,2,Salsas Y Sombreros
-mexican,ZQdSGPdEGXPbCWrmJSNm-Q,4,Oaxaca Restaurant
-mexican,DlLduXXSwjkm7OL4Z1iH1A,14,Federicos Mexican Food
-mexican,UNFcMOWOsr9ilM6lqXIC6w,12,Del Taco
-mexican,6YH9ezAC31gbpnT3bnZAsQ,14,La 15 Y Salsas
-mexican,2Yn5IgbAOtc7_bT0g47bQA,5,Taco Bell
-mexican,E3RjJH45EX6rHYDs0TYSRA,126,Valle Luna
-mexican,zp713qNhx8d9KCJJnrw1xA,419,La Santisima Gourmet Taco Shop
-mexican,mNjLNTOXSckssvYNn-ZFjg,5,Ramiro's Mexican Food
-mexican,j6VY9UwaQCiEWfQtNyEouQ,5,Panaderia Y Tortilleria
-mexican,WnJ9xlxdJwMti7blz4d45w,20,CC'S Mesquite Broiler
-mexican,-szHsdbd5-J0by2d62T3Hg,3,Pollo Correteado Restuarant El
-mexican,1cGZU2gDewDfEu-bBMZEgQ,16,Los Betos Mexican Food
-mexican,2rMf09C5uXzF2qIlD5F5BA,93,Secreto
-mexican,gw-V13MyfzFaCTbALfnn2Q,21,El Mesquite Restaurant
-mexican,SmX_sTfTI4Hhyj8Rbf9teg,20,Los Burritos
-mexican,50dKrWfqdotEddX-mCzypA,3,Taco Bell
-mexican,RGFKaBRV_HO-ZJb_euKdhQ,5,El Chiltepin Mexican Food
-mexican,g1BQtMfpjrQCVGPWogvjow,40,Rita's Mexican Food
-mexican,X84kGyCyBbPDhIb_l-N3xw,3,Angelinas Mexican Food
-mexican,oyzxIqrtzu-8sWlPhJVsLw,192,Carolina's
-mexican,KGX7O-_WqOIy9o7u9NOa9A,143,Sonora Mesquite Grill
-mexican,8dlyEiypNYB0sVfdzQll3A,27,Tacos Sahuayo
-mexican,neGAQFkBNI8-rpPBLBzNkw,6,Taco Bell
-mexican,CjFaf6r6iP1xcKcChKDgKA,1,Baja Fresh
-mexican,bzQPFOLLxuwx7K7dw8j7Zw,123,Cafe Los Dos Y Cantina
-mexican,JkxRvYg5hR1YsulxJhNNzg,4,Tacos La Lomita
-mexican,JqAI4UA2xXPYxvlhzG-i9A,8,Eribertos Mexican Food
-mexican,Ho1cBoj4aB7U0zJ4cAWHbA,3,La Sonorense Tortilla Factory
-mexican,XcwbN5fDlyl8qCttcdDGKA,12,Rolberto's
-mexican,3msnZ6oe0sslHsE1js1QUA,12,Baja Fresh Mexican Grill
-mexican,EX5QAAciXEwOQ1xnFlVLAA,4,Taco Bell
-mexican,CqRoozwTWAz4ufcsiJBRSw,13,Filiberto's
-mexican,0l9e2aBYZfogiSUyxJEL3Q,3,Manuel's Mexican Restaurant & Cantina
-mexican,pw80n0Tcq_PQSpVMmzfgeA,3,La Tradicion Restaurant
-mexican,fr_wn6YvyO3bJ5U4utetBw,5,Federico's Mexican Food
-mexican,lQSMn_SAIy5aBEKkqRtVYw,17,Baja Loco Mesquite Grill & Cantina
-mexican,rO3saNBRU2Pg16RyfEP6-g,141,Otro Cafe
-mexican,6S3zqOG3NyYTc8r6LwvM7g,20,Burrito Bandito
-mexican,KXvkoGg5Od9Iwk4LMBFJ4w,20,Federico's Mexican Food
-mexican,-b_VjHZmA7-8LVWp6z36VA,23,Mim's Burger & Mexican Food
-mexican,UCEAhciqe8avW1N-bWJ32g,120,Los Taquitos
-mexican,HRTg-u2fBf_XzBSUgd6sqQ,3,Mariscos Ensenada
-mexican,EKVrH21lOIRrXdLf-Dt5RQ,63,Chipotle Mexican Grill
-mexican,axE3XDEO5VfY4OztDich4Q,8,Armando's Mexican Food
-mexican,gc-QI_gGpjYusuGzDub1lQ,7,Birrieria Obregon
-mexican,OllL0G9Kh_k1lx-2vrFDXQ,143,America's Taco Shop
-mexican,vA8T8QXh78iSXhxShLNgQA,50,Tradiciones
-mexican,srElnEXI8Qq7DpHquTI8HQ,24,Oaxaca Restaurante Y Cantina
-mexican,QJP-bRQvtGvShgs4AnvZKw,19,Armando's Mexican Food
-mexican,90GJDqPDCOO6FBcnYXEQJg,3,El Mana Restaurant
-mexican,ZaS6zYn_Pb3QrGRZJfNyzA,11,Del Taco
-mexican,6BXkb7kOhzk9cV7s09CkEQ,46,Plaza Bonita
-mexican,14NSxaXBNspIVnsrMYJZVw,94,Poncho's Mexican Food
-mexican,gCQuajbLB3hQQbipYpEtYQ,9,Chuy's Mesquite Broiler
-mexican,PCThdYd_AbJed9hGDzpyUQ,3,Taqueria Y Birrieria Jalisco
-mexican,wUrTYqp9fHLJ8AR4lMxHGQ,83,Blanco Tacos And Tequila
-mexican,lmVcr5vBW8DJ7NT7xezynA,8,Del Taco
-mexican,UdEXv9VninWOB2iR0M-i7g,3,Pepe El Toro Mexican Food
-mexican,rDvz5jX65gpfONFu7er9Tw,290,Los Taquitos
-mexican,M_GnuvRXvWBl3YNxH-GYFg,16,Qdoba Mexican Grill
-mexican,RMzvWjF3K6GSnwBdRl-_ow,8,Rancho Papa Chulo's
-mexican,wqJ5dCAh2FGHEVtV1lGiEw,2,Torta Rica
-mexican,6Tt0mGKbMoAz1GsjkVhbMQ,110,The Original Burrito Co
-mexican,flMu0Tz5RsaMzr6K8kg1EA,6,Rolibertos Mexican Food
-mexican,BESmH-lmMm34_EefL8X9fQ,142,Comedor Guadalajara
-mexican,1B5vpxnZYXKil_k5d5MpEQ,7,Taco Bell
-mexican,0HDkCZtCvua-Wahio1-pBw,4,Two Hippies Groovy Beach House
-mexican,swdtXYtuCTyh-DMq9wV5Jg,13,Picosito Mexican Grill
-mexican,DXBPI8rR9f_IthOGPDWoIQ,28,Manuel's Mexican Restaurant
-mexican,sCa3a9H2Wz-HPL4NC8D3xA,3,Filibertos
-mexican,s87D-mtAuJ8BluKgYYsXGw,34,El Nopalito
-mexican,tNdb_01AHU3O1_ISE2Mf1w,8,Las Cazuelas Mexican Food Restaurant
-mexican,-j3BF7gOIi-1tAHoFA3WIw,16,La Parilla Villa Catering
-mexican,od49_DFUJY9louGx80My-A,23,Pancho's Mexican Buffet
-mexican,o3TruOSgOwNgx08QosuWTw,15,Julioberto's
-mexican,he_b4txorHTrKjH5DnnmdQ,7,Tortas El Güero
-mexican,4pBklPWQZSeuj5xynAEOYg,4,Los Portales
-mexican,_-9pMxBWtG_x8l4rHWBasg,81,Black Chile Mexican Grill
-mexican,tigIXsvKMb4xCiZP56oSPQ,11,Taqueria Guadalajara
-mexican,M69oTpIJPnKyXRgR-crF6w,2,Taqueria Yaqui
-mexican,oa8lhYj-mTKlL_amkJSu2Q,9,Mariscos Vuelve a La Vida
-mexican,7SoGPn8dvce7A1aHdBOGLA,11,Mariscos Acapulco
-mexican,yh01KxH3_IVI3zn3MV3N2A,5,Birria Estilo Michoacan
-mexican,OrF48GFHheuCie9cMYkldA,6,Amando's Bros
-mexican,qHjUo2foq-IXF6Tk1Iz3WQ,73,Carlos O'Briens
-mexican,Yon-x99Dvu6e-NSlCd8iaw,13,Mr Leno
-mexican,ShUDf64NVkwCe8izdUbYuw,8,Los Armandos Asadero Y Mariscos
-mexican,HRjDpeJOL02ZqwrYgtHV_A,5,Mercado Y Carniceria Sepulved A
-mexican,G--jKQu95BxPI5r3aTiYhg,2,Aya & Peilas
-mexican,dgARnB68TOefhXvfV4iRdA,18,Tacos Kissi
-mexican,d52zg-S0o940WUCK-nNiKw,292,Carolina's Mexican Food
-mexican,rIpOpzVNEBNZrRFu4n_JvQ,11,San Gabriel Mexican Café
-mexican,l8v1GHaB4CsryK6MioZ21A,8,Taco Bell
-mexican,0_3hrGrrP-J5eeHRwQfZ6w,32,Macayo's Mexican Kitchen
-mexican,kvRA6hu6FC51vBKY7Kp9GQ,42,Loco Patron
-mexican,FljU76i8DYJbNlpibaieGw,9,Mariscos Chihuahua
-mexican,PYfbYi0M_q8sTmVBaocyow,6,El Pollo Loco
-mexican,cne0A4qlWtahuzUSdzdalQ,8,Taco Mex
-mexican,GePBM2lae-fkAKHcfbXafA,5,Tacos Chava
-mexican,XMYZk-YPCIUvOXffzVw_1g,4,El Nuevo Taquito
-mexican,Cp6JGY5YIRncTV_My9nf9g,147,Mariscos Playa Hermosa
-mexican,xBCfrESSbroTjhVcRfG4NA,52,Mi Pueblo
-mexican,SaIX7eay0vV-FxGPqTk1yA,16,El Pollo Loco
-mexican,7Zo1DzdwZlGMxPu1AFMSsw,41,Bajio Mexican Grill
-mexican,8jo2gkJRkQFJsKm7g0EQ6Q,40,America's Taco Shop
-mexican,Np5XWa-SL9fpboELzJmemg,2,El Taco Feliz
-mexican,0hY0qoXHcI3czshcrZPpYg,6,Del Taco
-mexican,rr44srj5pxejML-W1Wx0IA,4,Taco Bell
-mexican,KVq-1WEJNKK2NqFC7nUoRg,29,Asadero Toro
-mexican,qlV4BAbAvnAEomGj2gudlQ,3,Chuy's Mesquite Broiler
-mexican,gA5CuBxF-0CnOpGnryWJdQ,8,La Paloma Mexican Food
-mexican,WEqppm3f_XWwUE58luAHNQ,4,filabertos
-mexican,X1jTnU6c9eloN2Bxs78uTg,21,Chipotle
-mexican,B8ujMtvvpHyEQ2r_QlAT2w,88,Richardson's Cuisine of New Mexico
-mexican,vz2zQQSjy-NnnKLZzjjoxA,107,Sylvia's La Canasta Mexican Restaurant
-mexican,oqZPXoenkQvAKQJ2pDCo0A,44,Julio G's Tatum
-mexican,AjE4uM-VaGP3QPCjSjIEaw,16,Rubio's Fresh Mexican Grill
-mexican,5CWKlH0uyOUF5EZIyewMXg,5,Chi Chi's Tacos
-mexican,fGZEYvCzqAiQEUYUMiq97g,5,Fresca's Mexican Grill
-mexican,85rx25T-XBIMpa6goTQS0g,6,Acapulco Mexican Grill
-mexican,vuTdngoxZdbJdbno8IK3Kw,23,Rolando's Mexican Food
-mexican,soiGohHtWOltGeomkSxzEw,190,Tee Pee Mexican Food
-mexican,2HHf0hiKtZm5nzt3irlaDA,39,Pepe's Taco Villa
-mexican,-d1I0dwtCg1IIjnI3DZ38Q,7,Susie's Mexican Cafe & Lounge
-mexican,Zx8_4zKdDBSO3qGrkukBIA,572,Chino Bandido
-mexican,3QtWG5sN3HJNBVKn_wHQEw,14,Oaxaca Sky Harbor
-mexican,E2BMYajnI3USNpABFdBn6Q,20,Macayo's Mexican Kitchen
-mexican,hkKvb6oXxn8ygoP5fFln1g,33,San Felipes Cantina
-mexican,qXyhCYV6cjojzy5rJKooMA,38,Luncha Libre Gourmet Food Truck
-mexican,v1aLzjTphPc6IGIy9k96vg,221,The Stand
-mexican,qw93CjlAZ6a4ff11Z-hF3Q,204,Crescent Ballroom
-mexican,I20sRbcEK8Ib1YFQFMoERg,41,El Norteño
-mexican,PzbEhqo8uz2D-3OchHIPzQ,31,Eribertos Mexican Food
-mexican,4zBdx_EZFaDFJ9MvqxYNeg,16,Gorditas El Tio
-mexican,apCfJVnRyaw6oVUBKujpUQ,127,La Tolteca Mexican Foods
-mexican,apEkYsUz31lI3tcJoC4HbA,30,Garcia's Mexican Restaurants
-mexican,mTc8M-drs2HSG8paNUTTQg,12,Julioberto's
-mexican,OPbWf_Dwzqda9sGVHQHtJw,3,Taco Bell
-mexican,nQUsMhT7qY6pPMvTT6xGcQ,178,Los Dos Molinos
-mexican,yN5MaHx7AGNhLMgUaQu0cA,14,Filiberto's Mexican Food
-mexican,7UTlEVHU5v2xBLdkGghyzQ,23,Chuy's Mesquite Broiler
-mexican,6Z6bvIHGpPlwpkZAwfXT1w,13,Mariscos Vuelve a La Vida
-mexican,BD74uSwDe175zEqfppDRvg,106,Valle Luna
-mexican,Xyrss3tjzUofEm-kZPus4A,46,Mi Familia Mexican Food
-mexican,fsxBliRs4rwxRXkZUVy62A,54,On The Border Mexican Grill & Cantina
-mexican,b5sP47L2NiBXqbsiOnR7cw,12,Mariscos Altata
-mexican,o2vKya6WSNcMNTxAcJsF1g,13,El Pacifico Restaurante Y Pescaderia
-mexican,9dn3AMdwvD2KXnTr6AJY1g,57,La Canasta Mexican Foods
-mexican,kIvIqHvvFOc6aCutFYIvNg,4,Taco Bell
-mexican,tyC0LaPJo3ct_0JEkTwZxw,11,Filiberto's Mexican Food
-mexican,ZShuQrMfLOmnUQbLP3dwpw,21,Los Compadres
-mexican,WCGU5Xn01lfNJG_LvEltzw,176,Taco Guild
-mexican,GGhyhajTNKm5yTxtAoaxIw,4,Kokopelli Mexican Grill
-mexican,DarcQlLpQOqMxi3tsdffNw,4,El Goloso Hot Dogs
-mexican,i3nnQl4pl2-ogZJdeSqWvA,5,Los Kikos
-mexican,_CIodPGuvPP2khYkDk1jKw,40,Taqueria Los Yaquis
-mexican,K2_Hmmo5crTYWiT_1sWnfQ,52,Chipotle Mexican Grill
-mexican,Z7ZxtGvUKiKThSfnaTj-pw,30,El Taco Tote
-mexican,Y293fHh5SZ0_9BZm4M6BCg,41,Matador Restaurant
-mexican,tvyOw9dBJ-ds5fEXMTjzfQ,23,Clarendon Kitchen + Bar C4
-mexican,Yl4wqDhNB-5TNURwQXoCFQ,5,Salsa Y Mas
-mexican,hZRLGfRrZTo9up2P-0aAHg,49,Verde
-mexican,dD2xiLM1_5Vg0pMvMIPZww,3,Baja Fresh Mexican Grill Mexican Grill
-mexican,aS2aNPE861FI4dRrz1Z7Ow,33,Sir Veza's Taco Garage
-mexican,__CQhr0M-OpKdu0DXgGcaQ,3,Sylvia's La Canasta
-mexican,K8GqMhhVvz8pqq9F7sE-Sg,14,Sinaloa
-mexican,pAHUC05ceak48e745i6G4g,207,Paradise Valley Burger Company
-mexican,PxUQyOAdK8c3P_WnrXuCUg,11,El Rinconcito Mexican Food
-mexican,P9z62hMP-QAGQt406dylpA,11,Two Hippies Beach House - Bell Road
-mexican,CFaRVxsnN4Zjf28cbORKIA,133,Via Delosantos
-mexican,DDnmNTvIIQu2t3WZ2EQx-w,193,Sierra Bonita Grill
-mexican,Bp9DYjh3_PnDOOG65SWRsQ,12,Ketzal Mexican Grill
-mexican,ZN-RG7wkT8MLsmaTPzIW5g,21,Sabroso Fresh Mexican Grill
-mexican,RWTE0VWMs6i-JIaBRc9JZw,30,Popo's Mexican Food
-mexican,cVejKU_SrdbvzIbQ4oPV0A,224,Mi Patio Mexican Restaurant
-mexican,0K35eGvzVRZEirNo5v_WfA,68,Ajo Al's Mexican Cafe
-mexican,XI-_Y2XRw03mozGx0Z90Gw,22,Baja Fresh Mexican Grill
-mexican,mBDhy9j4qwKRnf4h8UQnrQ,28,Julio's Too
-mexican,o1W6gwCqnJqvdCenLWz5GA,176,Gadzooks Enchiladas & Soup
-mexican,W9YAp6eFnl9bikN5Yh6_pg,3,Blanco Rapido
-mexican,JrIhyj-e3n77LeIOeErBJA,3,La Reina Michoacana
-mexican,Bv3g-9R5wUevZPP0jzihqg,17,Las Glorias Restaurant
-mexican,NYBx4sdSVrN-I5Q8RfLMPg,27,San Carlos Bay Seafood Restaurant
-mexican,bzDs0u8I-z231QVdIQWkrA,307,Los Reyes De La Torta
-mexican,b9dv7Q0A8XcJ44zzTDJeYw,28,Qdoba Mexican Grill
-mexican,ZI38b-iM_kHrOyjI5Pgrzw,11,Federico's Mexican Food
-mexican,-lOSaCuBRAvX5JBifx-EMw,67,Mi Amigo's Mexican Grill
-mexican,VQmgq4Dwwej5AwnHBmDIAg,17,International House of Food
-mexican,4y9s1y8WxumJB9ypewvXCA,12,Los Cerritos
-mexican,Xo9Im4LmIhQrzJcO4R3ZbA,132,Rito's Market & Mexican Take Out
-mexican,gg26wjL2eTRIvmdyb7RXAQ,3,Taco Bell
-mexican,ATeF8pmKd50Xx6Nkd_BsXw,3,Taco Bell
-mexican,1nsxori657cAx2hiyYb4rA,6,El Ranchero Mexican Restaurant
-mexican,edjCywtqffQ8__vM7POZbw,34,Rubio's Fresh Mexican Grill
-mexican,8SjO3b-87uN2jXVXYNn47g,23,Blanco
-mexican,4780MrclJEFGp8MDf9_U2g,2,Big Burrito Mexican Food
-mexican,10VZ8KEshqD5twjcmZ-eaw,7,El Portal Restaurant
-mexican,W-9YqWhkfeK-K3xGFvFeuw,6,Big Burrito
-mexican,G9LwkTSdKOyOGqd5BbuIkA,206,Aunt Chilada's
-mexican,4NMElef11_YmVzxOpcsALg,25,Pitic Restaurant
-mexican,psm1tqE9dxRWWictMCnLuQ,14,Filibertos Mexican Food
-mexican,-sC66z4SO3tR7nFCjfQwuQ,710,Gallo Blanco
-mexican,Fg5VkQsHRm7V1Hq9GEsUBg,28,Chili's Grill & Bar
-mexican,nB3pytYdmzKWfNtXyfNrpQ,52,The Tamale Store
-mexican,gKqsv37BaAT_jxfWgDlmVg,6,Burrito Bandito III
-mexican,W010P4plDADjo2SFq3OvXA,89,Modern Margarita
-mexican,iYr8t8RVPCiWABBO4I6HgA,14,Del Taco
-mexican,LM9d5wQcVqh97g7qpCQ88A,10,Lydias La Canasta  Mexican Restaurant
-mexican,pzJCv-ixgSL_z-46F74XrA,4,Taco Bell
-mexican,WOcf7AiIRL_wkYAnEF-vcw,3,Las Brazas
-mexican,4jxKmU2No9hGWCZuYPjeLQ,3,Taco Bell
-mexican,Yb2pNCxYR32XKmpirqJqeQ,35,Mi Pueblo Mexican Food
-mexican,D09yG6Z3gcsh24Qn7Y4gYA,56,Chico's Tacos
-mexican,HLQ2dpyfLcva120pCSLvfA,13,Humberto's Mexican Food
-mexican,5AQdjtfMzJYJe8A8rZU8Vw,4,Las Islas Del Capitan
-mexican,NnoEbaGnQa44CZE_A5tBTQ,2,Mama Lola's Tortillas
-mexican,aACW1qAdOfgcU8yX61dOFw,41,Macayo's Mexican Kitchen
-mexican,BFZHdg2TRrgw56CyqkSryA,103,Blue Agave Mexican Cantina
-mexican,uTW9SVXqxgjbnCTlEf9ONw,5,Rock-n-Taco
-mexican,wN_wAXWg8W94v04eqijy6g,281,Tacos Atoyac
-mexican,TBTaMIaeDw5B79hXDZBtrA,10,El Pollo Loco
-mexican,CHMSC8bSjXttB9Ei0scc_g,3,La Carreta De Lily
-mexican,mW1gB2DmBe__AEVgCoTgjw,17,Filiberto's Mexican Food
-mexican,ZOROJ4IV6V2sEAmh0v-w2A,29,Tortas Paquime
-mexican,KYbkCDAxScIuknxsp67oUw,21,Rubio's Fresh Mexican Grill
-mexican,xdv2kvaZodkWvTSV6pSSpA,42,La Barquita
-mexican,KnLsrf4P9GkWYLNRQLUgsA,35,Gordas Baja Taco
-mexican,5kRug3bEienrpovtPRVVwg,324,Rokerij
-mexican,1nq6zzJuVgwaHtXau97_Iw,19,Asadero Norte De Sonora
-mexican,ZD8xAsXsj8FRunJOP4fSrQ,8,Taco Feliz Mexican Food
-mexican,9N7E_6xGBmVZ6IETuTg03w,14,Qdoba Mexican Grill
-mexican,9Y5kXneSwv-l-8TODZWQAQ,14,Taco Bell
-mexican,9BJ5h9X1krpXFjKj0a6wbg,314,Dick's Hideaway
-mexican,b-t3nNmRw6alKw4aSqAgPg,85,Los Dos Molinos
-mexican,kPh2gPvd8moVx6gNf2iHsA,29,Taberna del Tequila
-mexican,TgxDGx7L_JICWbuBUCGVqw,107,Fajitas A Sizzlin Celebration
-mexican,69t2S1u7Rf6qM_c14b42xQ,32,Manuel's Mexican Restaurant
-mexican,iyc8liplbJCVxSl9mvel0A,4,Taco Bell
-mexican,d2AeNB4xw67E1Bzpo1Pm7Q,28,AZTECA Bakeries & Restaurant
-mexican,McdTNj-TUMOlfkHwQWs4rg,3,Tacos Mexico
-mexican,V5w1ThWfQdolgzIL3rWPTg,6,Filibertos Mexican Restaurant
-mexican,-vaGR2CXNS4NZrMdctSkGA,27,Los Reyes de la Torta
-mexican,ZcgzyGf-cAgc0JxFklpZLA,3,Mr. Triny Sonora Hot Dogs
-mexican,_oylByc6iTONI5lokMfYHQ,7,Armando's Mexican Food
-mexican,grk9RANQRR-IZouPFP3kgA,11,La Tortotota
-mexican,pARpNmERH5UNb9Sa3XQ7vA,5,Uno Mas Mexican Grill
-mexican,pLFxPgDiBJwJqgKlEEVw1g,47,Lenero Mexican Grill
-mexican,uevPN8zwJpBpnxRur1jUhw,51,Don Jose Mexican Food
-mexican,VlG9qxAc4d0em2djaU__xw,28,Jordan's Mexican Food
-mexican,N7oUi6aM01UlvrsIcTSqmg,23,Rubio's Fresh Mexican Grill
-mexican,YxLiLBNTm4cOg7OlKKLmVw,106,Arriba Mexican Grill
-mexican,scr5gHaPC_36GtaCxmJEHA,48,Caramba Fresh Mexican Food
-mexican,e5kc0CQ4R-PCCDgb274gSg,161,Canyon Cafe
-mexican,ho4Te6bO2tGs56h9PF2vuA,66,Los Dos Molinos
-mexican,KIbFaBrZDX7rrYJInkv5Kg,14,Del Taco
-mexican,3l72FflaaeI0tWEAWN3-gQ,293,America's Taco Shop
-mexican,I7IfnWW1nXljC4ZGqwPe-w,83,Manuel's Mexican Restaurant
-mexican,eK6KGMKqU_4nB9RdayZD7Q,17,Tee Pee Tap Room
-mexican,aVYFrGg51X0CD813ZkAb8Q,3,Dora's Kitchen
-mexican,pqnA2OyZelTuy46EV8VgEA,9,Corona Urban Cantina
-mexican,ydnc0p_oPL80BBKJNZGw_Q,5,Ramiros Mexican Food
-mexican,oWb5JjxoPaFSmpGwJ3-Ntg,53,Blue Burrito Grille
-mexican,RIP8nL2Gbiu0zb-nCgZnpw,18,Chipotle Mexican Grill
-mexican,KSKlspZY6FqTuYZvNbkecQ,2,La Huasteca Mexican Foods
-mexican,FTFxgoq7-4VhulbrtKFIJw,13,Tacos La Hacienda
-mexican,tIuw93p4MEsL2iFv7-0WDg,8,Filiberto's
-mexican,VKxn7zmp8nOYT-ZHFZTjgA,10,Mariscos Ensenada
-mexican,QNo69O4cy6a3HGb6RrGWzA,18,Roberto's Mexican Food
-mexican,GGXtuLHpWWhkUpVynhFHWw,4,Taco Bell
-mexican,hLAWdi804nVfTLF7T0rB1Q,16,La Salsita
-mexican,6TWRuHn24DL6vnW8Uyu4Vw,40,Chipotle
-mexican,RRg-Ju8NjcbB8Sm0OR0HEA,3,Maya Mexican Antonjitos Snacks
-mexican,0NlTmTzKYXbE6Hx2iGEb5A,63,El Encanto DOS
-mexican,i4X_iu_29PkhL2zsIRpueQ,3,Los DOS Amigos Restaurant
-mexican,H-02hZPbb7R6jfX2NgFH7Q,26,Garcia's Mexican Restaurant
-mexican,9xsmSRFD8riQF7UCBrD88g,36,La Parrilla Suiza
-mexican,KBoN62BQPvTVmcRz-Rb81Q,7,Cocina 10
-mexican,9NT8Ne1DICkv0ebX-gVK5g,22,Filiberto's Mexican Food
-mexican,pGrcODntgStT2ffCcHgmCg,2,Tortas El Tri
-mexican,Ddsln32r-uA7hq_0ksaNZA,20,Julioberto's
-mexican,sH17KGxbMVrlr66n92Qh8g,9,Del Taco
-mexican,QGZiJsrHVKFO_B3GLkph8A,34,Top Shelf
-mexican,6cy2C9aBXUwkrh4bY1DApw,25,Regio's Mexican Food
-mexican,JaNp5Cp-Bz3D5nMuzqpAAQ,22,Poblano
-mexican,QdlLtW6YAaDOFKihURosYQ,3,Garcia's Mexican Restaurants
-mexican,flUKBy7WHqYdfOrwU1A2SA,78,El Bravo
-mexican,DeAnVirgOxQnI36V1W158A,76,Juan's Authentic Mexican Food
-mexican,HHFjjljqoH5qs7Cy1i9R4A,8,Filiberto's Mexican Food
-mexican,LbcDWyqGgQdlwWfGO-whMw,106,Barrio Cafe
-mexican,fX2WvzDikMVd0wDzdDOLkw,19,El Conquistador
-mexican,11TvD4sCfA8GEqLDANpbSQ,12,Los Jarritos Restaurant
-mexican,9BJYR2o_PSniFnHTxpY1cw,4,Mariscos Ensenada 7
-mexican,eZXAQxBXReD78AWWf0_4ZA,15,Tacos Sonora Grill
-mexican,04HakCR6gEeRYNAoKxkppQ,5,Hacienda Restaurant
-mexican,UPbkeVTJR6C-1I7sCuUrmw,7,El Mas Sabroso Mexican Food
-mexican,cgNIBHS2mLdbTRiodAT6EQ,50,Tacos De Juarez
-mexican,A3lInLxP3KOECWPjQO9k6A,44,Blanco Tacos And Tequila
-mexican,NBwPgX7L2D-EZedgo3A-pw,31,Gil's Taste of Taos
-mexican,DRekXCjdmPESqDpwaQ0x2w,10,Tortas Paquime
-mexican,uBE07bU2QxgJ5jAMjPj2jA,5,Corazon Mexican Cocina
-mexican,O6-ZPDz_W_NwkCyf3UoPiw,5,Oasis Raspados
-mexican,ZhwoNt7dU6iA_wKmwe6qQA,8,Filiberto's Mexican Food
-mexican,5MlUPatQxg4GZhkPwGIvrQ,6,3 Margaritas
-mexican,adPVJMkRrS8_3VHQKw5-qw,29,La Frontera
-mexican,8_mbjbTK_Ci3DljpzdipuA,5,La Salsitas
-mexican,4Hi-45RQRl2FOkPhEgNTnA,12,Two Hippies Beach House
-mexican,oMycF1cQgR1UVkafXfof7A,54,Tortas El Guero
-mexican,WPSM_oTPceoSnwqQWfAsdg,21,Qdoba Mexican Grill
-mexican,CFdPTWukph1ownRkLiglJg,22,Jesters Mexican Grill
-mexican,cQZcWeIDKEF-7nWU3gJMUw,72,Cafe Rio Mexican Grill
-mexican,6nseTZb6WrGWcithRThfag,126,Padre's Modern Mexican Cuisine
-mexican,2MM1zXQotfBkW4YRMPY-ZA,12,Ketzal Mexican Grill
-mexican,syxUZu1GrJv0LYnV38hMug,6,Losbetos Mexican Food
-mexican,CHCm6hbR4KSstbifFdCOpw,11,Humberto's Mexican Food
-mexican,N-DFmcKLm5BxleZJGoJ-dg,7,Nogales Hot Dogs
-mexican,j0cSJ3AX6bKM9MmwQOSy1A,4,Taco Bell
-mexican,x8WoC_7WHzXNmt6J13Nbvw,2,Jordan's Mexican Food
-mexican,I4uDkxbTLt5l1JFkcG1e7g,17,Ta'Carbon
-mexican,WYk91WPklqRWuk9z9DsPDw,52,Vitamin T
-mexican,Ctac9HGdCAABBpAL0sycHQ,2,Chayo's Mexican Kitchen
-mexican,2DOJ2GyphXQf_f3OKJEPzw,36,El Bravo
-mexican,vYEUEID47mgenrTBsvL9Xw,9,El Patron
-mexican,W9oFbcGKloLUpuALxzcQdw,2,Taco Bell
-mexican,GoWTsb8sGyJ026a3cbw03Q,21,Vaqueros Carne Asada
-mexican,qlrZzAktK8wODSHxhLEK7w,145,Two Hippies Beach House Outrageous Tacos and Burritos
-mexican,aZe9f7korrhFTNMPxVbMXA,4,Vaquero's Carne Asada
-mexican,BM0-dgPJMBMmcmO9PVCJfQ,86,Los Compadres Mexican Food
-mexican,A6OstDz-flrI84-EW8aILg,11,Chuy's Mesquite Broiler
-mexican,jzPMl-NoB5F2fwoHX3hN8A,89,Macayo's Mexican Kitchen
-mexican,uaOePMfZb9v7fpzzxafnWg,3,Salsitas
-mexican,jtqPBGcsvmKI7VeHLG0KsQ,39,Barrio Cantina & Grill
-chinese,atbvu3MxnDgpQfZgvPZz2Q,4,Red Dragon Chinese and Mexican Food
-chinese,JmKgenzB37i3xcK0rJkDmQ,19,Great Wall Buffet
-chinese,Zx8_4zKdDBSO3qGrkukBIA,572,Chino Bandido
-chinese,ljv9jlYXFm_MzI9WmXc8EA,28,Asia Lee Chinese Restaurant
-chinese,TxDKDFQ3ovgzTaNcqKf2Uw,57,Li's Bowl
-chinese,0db71MbrvcJnyk71COCJBg,140,Great Wall Cuisine
-chinese,EWnSPExh_T5zTv6oMJOC5g,33,Mr Chao's Asian Bistro
-chinese,kCjR5nLyphuNKnDqRjurXQ,36,New China Super Buffet
-chinese,PsuvqWNmLBU8ABkch2d9vA,33,COFCO Chinese Culture Center
-chinese,qrapwnls-3IMg-iaXhkQKw,24,Canton Wong #8
-chinese,-3WVw1TNQbPBzaKCaQQ1AQ,198,China Chili
-chinese,pwsPmCKDMJQ9jTpdQFjFTA,9,Ninja Bowl
-chinese,Wns0UP_28xk6uZ-b6LrMnQ,8,New China Buffet
-chinese,bexPpkHMthuCaeC0g0Lrfg,6,Panda Express
-chinese,Pv1H9KIGZTDgSaCDuTUjdQ,20,North China Restaurant
-chinese,VTFx4ADDP6nPnlcMHB1-Ow,5,Panda Express
-chinese,FjSttKipz44vRwKpPwhh-Q,35,Hibachi Grill & Supreme Buffet
-chinese,BT2Vls7h6sWrCKa5gGXbKg,43,Long Wong's Restaurant
-chinese,4_xxWpQKhBWhAOvfVPmFXQ,36,Yan's Chinese Food #2
-chinese,Co-sJv4GNxILkF79ZMLq-Q,8,Panda Express
-chinese,KRqtYdnDpwqYfWkFhZYjow,26,Wang Express
-chinese,PkBqPU83bf1zArumGVHqcw,19,Bamboo China Restaurant
-chinese,Gly54cM3avJg9n2F0l8V-g,9,Panda Express
-chinese,FF5ztq7j7RWGIhpw1XB1zg,3,Garden Express
-chinese,2unQHR9uaRxk3dsW6f3MGA,38,Lao Ching Hing
-chinese,a4wVLeSHNSHyGGbanNuCUg,20,Chen Wok Express
-chinese,C0Oax-LBEFf0mmPSugymEQ,13,Lim's Chinese Restaurant
-chinese,F3SEkW6v2LJ5y6Ldo5pPaw,45,Super Dragon
-chinese,8ZQc4awuK6_yvcERvczR5g,17,Hong Kong Express
-chinese,oMtqDDzpMcFrQwHfeYc1iA,23,Dragon Bowl
-chinese,WJ7rJxbkXqr62koXzR8tXg,4,China Buffet
-chinese,q87ZzD_fNl5wtFoj8rbWbA,9,Panda Express
-chinese,nW_1gn19lMnS9IF1KlZ-aA,3,Pick Up Stix
-chinese,dCjIsHdc-IoOmfMt7qqZJA,6,Chinese Gourmet Buffet
-chinese,AYAb0qJX5wuT2sRtz4CjpA,20,The Wok Express
-chinese,EqyNGesG22jNfNT5pmfYgw,34,Shangri-La Chinese
-chinese,uFwC7N9APy8oTjhda3p9lw,24,Asian Cafe
-chinese,LYCaveWFti6kUHpMzYKLjA,10,Big Heng
-chinese,RIPnl1BAUaY2rSW8cPuQWQ,4,Star Wok
-chinese,tvBC1FNxX_quNv-4IkGzQw,34,101 Asian Buffet
-chinese,4nWKKGZGFc4nWUbJTunMAw,10,Asian Seafood Buffet
-chinese,naUFPFYH2CqHtTrV3IAJrQ,18,Crown China Super Buffet
-chinese,r3HWH8XeoV9uohlcrwrMSw,73,Sun Asian Kitchen
-chinese,Xsl-i1otDd3GXJEkkKJCaw,46,Diamond's Chinese Restaurant
-chinese,2CcO6bTk9Fs3sAwodab3-w,10,Hong Kong Chinese Cuisine
-chinese,GNZuoHxehd_3Kej7eXj8iQ,23,Good China Restaurant
-chinese,9LWHrYjDQNjFSNH6VbSFrg,25,Ming's Pagoda
-chinese,3tk6Syyz5i967Ifuz_4o3w,21,Oriental Express
-chinese,ykfTh6HI219NoMsWBxulxw,64,Gourmet House of Hong Kong
-chinese,NQepW13jaKEaADHUDOtkMg,20,Beijing Garden Chinese
-chinese,Y-pihdjUgiOrwYHgWd29tg,4,Panda Express
-chinese,ai4e0PDmLLrlieV1oeo3XA,6,Shanghai Express
-chinese,6FGwEHnoD-mM-PiXrhxOlw,37,Great Wok
-chinese,En4UyDiGgmQuWq__50RAgA,13,Great China Super Buffet
-chinese,Vb1tNz0Tlm1q41A4gjY-cg,8,Great Wall Buffet Two Corporation
-chinese,sMD2HPNh7m0hgCxHDzGTzQ,11,Golden Coin
-chinese,TqVjy0dxvNh51BF9KePCoQ,24,Chen & Wok
-chinese,7pxa5tueoEcmt6hztqsz2A,67,Pei Wei Asian Diner
-chinese,dxAlupwjiQH91m4cE9a17g,49,Wahsun Chinese Restaurant
-chinese,XHzZgNmJFVHeT3unDg2Qig,111,The Clever Koi
-chinese,R7YlKfLpoFDAJQB9hBcQJA,21,China Restaurant
-chinese,0LBv0QQK9L6ArPkO4eXjJA,13,Hong Kong Kitchen 3
-chinese,nLpV9fo8xml-QHOKyOje2A,9,Panda Express
-chinese,-7XuLxfYwZ9x72mEKXdv0A,9,Lin's Golden Chinese Restaurant
-chinese,Xr0SQ1i6vHgT0RBZfyzJ8Q,35,Lucky Kitchen
-chinese,PxqufEwqzIHAbQGRdZ3bUw,10,Pei Wei Asian Diner
-chinese,aqD66Sve2mE4cq021LWQmA,5,Segal's Oasis Grill
-chinese,FJgO8d_Lx0P1A0KOiRfuFg,3,China Buffet 2000
-chinese,-Ogv7rpcgUHkFaSy3vD8Sw,82,Hong Kong Gourmet Buffet
-chinese,lAGDe38li38fyf971CslFg,72,Dragon Palace
-chinese,3D8thbL2D2c3qTMeYROAOQ,28,Hsin Cafe
-chinese,3DMvGD8ZmlMQmhwV66hdSA,34,China Village
-chinese,lbECi2rbJPZWzHdmrC9xAA,13,Abacus Inn Chinese Restaurant
-chinese,cuxqnMMmbBV0iE2KJJy60Q,5,A A Wok
-chinese,QAUDLYNxhHGdUn5YP7au_w,10,China Star Super Buffet
-chinese,VDUwU8bHmeGgtJpe-rz3bQ,11,Yunan Wok
-chinese,Hlu6geDGG44x_Vk9sP_-Vg,10,Panda Express
-chinese,SPqPt-K6qzTutj_vWOgKGA,7,Marcia's Long Wongs
-chinese,51iJ7zyvay9N_COWV0is_g,20,Mister Wong
-chinese,yCQ2KC8OETCyQDCRw7mXrg,12,Golden China
-chinese,VWJqohlU4cXYIpNwYQY-wg,7,Flo's Shanghai Cafe
-chinese,0QTn4pMzKv1mnQifcP9YoQ,77,Autumn Court Chinese Restaurant
-chinese,z5r8zD7vGPCMpKljERvKqg,4,Royal Buffet
-chinese,4T-oySmxM_-ojR_nTqF7pA,6,Golden Bowl Chinese Food
-chinese,9tefv6uPxoHhp_OlQQJVXA,10,Canton Wong
-chinese,I3KRHQvoLB6O_MZ2-UpynQ,17,Pink Lotus Express
-chinese,JPRyCrWPIo_ujOszH1NRzg,77,Noodle & Rice
-chinese,LtdVdYhs7MAwwTBuHhdsFQ,3,Panda Express
-chinese,kktQXaj7zI_PGkH6SR2YPg,6,New Sun Star Super Buffet
-chinese,KHU2QER24Dbucct1dfEWGQ,14,Panda Express
-chinese,1vYaGPKQzMebBJXFCGTH2g,53,The Prime Chinese Restaurant
-chinese,RcufSDfRpeaxLm875axrDQ,3,Golden Nugget Chinese Buffet
-chinese,4l3eeM1sOACwdJAz4UyIPQ,3,China Inn
-chinese,yOYFhiTjT-SM4spKtDk92w,33,China Chan Restaurant
-chinese,zn_gLMU-Lr3wleSPd-nmbg,2,Chop Chop Chinese Kitchen
-chinese,BicQSnGZnY_yuGEDkhVfnA,31,Little Shanghai
-chinese,UxMnY3Dxafucv5cXHyfBSA,24,Hong Kong Restaurant
-chinese,IwhkOh4fPsiU7TThIsz6Og,30,Bamboo Grille
-chinese,XUYbXm4ZmF_IlZ440HZjpw,46,King Wong Chinese Food
-chinese,0LLaVEXjtW0aW0FzU9uRoA,11,Yin's Chinese Resturant
-chinese,TYxwexE7GDYDpIcdltwj6w,5,Panda Express
-chinese,7KB3eQJASverUUah-I_0ZA,12,Pei Wok
-chinese,wEsor9I2DcyYoR3brlqIMw,6,Panda Express
-chinese,VQtMFcgkRz7MCIo9sPDaeg,25,Golden Wok Chinese Restaurant
-chinese,3e00b3ic-7J7TcSklYVauw,4,Pick Up Stix
-chinese,VQmgq4Dwwej5AwnHBmDIAg,17,International House of Food
-chinese,yQONzVpX-DEpGSuKMIov6A,113,Szechwan Palace
-chinese,ysPpFXooSEtwHkIdcOd4Kg,8,Peter Wong Chinese Restaurant
-chinese,XbVqzUHS3c9FhG4lI13c3Q,99,Maxim Restaurant
-chinese,FmvqqBAU_IuMk5iGp4Y0JQ,13,Pick Up Stix
-chinese,sCv1wUWJhFmQEMw3A4lwXQ,41,Wong's Restaurant
-chinese,Jw1ucgEz9SlUKK7_7sqOdw,17,Tam's
-chinese,zTfBa__ldlTdbVgSl5h31Q,55,Bamboo House
-chinese,t30Ua_mSiClnpBqud84ygw,3,Imperial Garden Chinese Buffett
-chinese,gq_lS6RXen3z_SesgIrgXA,9,South China BBQ Hong Kong Style
-chinese,9Vu9KhK2-kBSM-FXvxXGNg,50,Pei Wei Asian Diner
-chinese,O7QQ_ThdvSWx0lR3CTRLOA,1,Wongs To Go
-chinese,EFxaUHb6UwOpsvIIdZk-Ng,19,China Harvest Buffet
-chinese,z-5F-tlpAUci4obI3Gl2ow,24,Jumbo Buffet
-chinese,LbLVO7yqAJGEQ1nK6rEvHA,70,Siu Wok
-chinese,Fb4iTDjDDgtz3ht-SfZ9mw,15,Dragon Island Chinese Restaurant
-chinese,NT0HMA345rSfJt9lqInMtg,2,Canton Wong #2
-chinese,PQ-6WWl4A0VkZzhRCEacVA,8,South China Buffet
-chinese,0nyaKW_6QHSJ74OVnDmyhA,3,China Super Buffet
-chinese,5npcHq7cvdJlgQen_1n80Q,36,Ling and Louie's Kitchen
-chinese,3fNGtIfuHwt0-DD9SSjO6Q,13,China Garden Restaurant
-chinese,mzbQCUmd135tsNW6hY3G6A,55,Chen & Wok
-chinese,a8yzGF79KcfyRye2R6wt3Q,43,Golden Phoenix Chinese Restaurant
-chinese,jbKVbSz51F8IcewsiRQu4A,112,Golden Buddha
-chinese,507GX11jtCsVYlzaur05_w,36,Panda Garden
-chinese,2POJy5LcLySLgkAxb4K54w,3,Hong Kong Express Chinese Food
-chinese,A5MadrE5Dd_usQUEKmW5pg,27,Hao Bao
-chinese,LqfCXOcyNPzDtBgy5M9VFA,38,Abacus Inn
-chinese,NaXqRvoW2Zg2wSghf9JqaA,14,Kwan & Wok Chinese Restaurant
-chinese,d1dwAa-FxyowEHMGSu_lNA,3,South China Express
-chinese,-nHYKkSJuQ7zzFZ1veRfPg,25,Little Peking
-chinese,ChmqODwuYP1ewjmWXtxtsg,99,Nee House Chinese Restaurant
-chinese,UK2LezJRdrNkmF_TH__rCg,29,Tasty House Chinese Restaurant
-chinese,DuaoskPAVBV55px_cwxIVw,22,E-Z Buffet
-chinese,LeTMz4hrsdHhiS-vNBj82A,12,Little Dragon Chinese Restaurant
-chinese,enbTOcl7WNgsjsAtmhvDRA,61,Mu Shu Asian Grill
-chinese,djaLlLr3jlPApAqL4exhxQ,4,Beijing Beijing
-chinese,t6lvhOMRI0_AJrEqA7cd3g,12,Dragon Chinese Restaurant
-chinese,XK5hwOMD3M-cjGVBsEmrIw,78,Pan Asia Sushi Chinese Fusion
-chinese,Bc5bgPG1MlTc75G0A-_7fg,7,Taiwan Express
-chinese,LGLOtR2e-v74MpB51k8hxQ,16,Lim's Chinese Buffet
-chinese,Y04chCG7J-yJ6ucEZ26IGA,11,Great Dragon Restaurant
-chinese,Ndk3mmxFthvuGO7LFKeUmQ,41,Pacific Gardens
-chinese,wccFOUVaqeNBRaY27wOCyg,32,Dao Kitchen Asian Bistro
-chinese,Dz7swOgFook-L89Y_M-aQA,50,Pei Wei Asian Market
-chinese,wLZ--5d4lXImxrG7VhdTyA,6,Panda Express
-chinese,a5ovPlhQkcA27FFu664xKA,7,Happy Food
-chinese,hic_sUwlw1NyAM6eG7x5RA,5,Liyuen
-chinese,6VaAYF0Pu1O3d-yrQSwk5w,23,Pong Pong
-chinese,gFGldPLVQdqbHQodU5TeUw,41,Pei Wei Asian Diner
-chinese,GrUh2Jo6sL3wllrtZY4zmg,7,Eastern Buffet
-chinese,nE-qMmKkYEuT0onFTLDFtg,11,May Garden Restaurant
-chinese,mXIgCWuu6Thb2mXluEYYig,7,Golden Moon Palace Restaurant
-chinese,VsO_rhXi5lgbaGxNwoEZsQ,78,Fate 905
-chinese,Cdnp0HbJ4wVlzffuueG45w,9,Happy Food
-chinese,4DDbIvNtzfhLRwz-EOLFDA,7,Panda Express
-chinese,YuEdJcnZQv8XXAoP6GgClg,10,Canton Dragon
-chinese,CKhtiDFAfr31jQIJrpehuw,176,Snoh Ice Shavery
-chinese,OTq55xUFMOz13DAi9D0_rw,100,Iron Chef
-chinese,z0xEfgr1-lDqVatrX-rf-A,10,Rice To You
-chinese,dvjYiddhJ2HrosdSBAqngg,23,Go Go China
-chinese,B5hhRbxDIADG-bFaQIEWag,41,New Asian Kitchen
-chinese,GHY7UYRnMhZnQ1FSIH20wg,36,Red Wok Buffet
-chinese,KkdkWeTMN8q-xpWD0ckx1Q,53,Shanghai Buffet
-chinese,R9U8bZ84V-xPx3udCcU5jQ,10,Best Wok Buffet
-chinese,aozcOaCMwOHG8s-lbZ6_gA,77,Flamingo Palace
-chinese,cpfqZ_968LCuIyHJ3X46NQ,10,China City Super Buffet
-chinese,eXALA0wNH2LdwpUlGvWsKw,5,China Olive
-chinese,KqYY2rwD8ymjU9mVJwiuRQ,4,Panda Gourmet
-chinese,3wkQh4bxR0Ao6rK21UIBXA,8,Jade Fine Chinese Dining
-chinese,SYSBZeffWbScfQsI_e4b0w,7,New King Wah Chinese Buffet
-chinese,lut0g04VsYRyblR1Ad-8HA,66,P F Chang's China Bistro
-chinese,hhaUz_YCmU7OfSR10uJGrQ,3,Panda Express
-chinese,_PSo13KRX_X7FQR5mtUCug,22,Hibachi Grill & Supreme Buffet
-chinese,ayTBDjx-S7TH4maWKBiAFw,28,Wong's Chinese Dining
-chinese,m2M7X5ItFvhOC7a6B7JcDg,51,George and Sons
-chinese,pa_Ft6pLLWo-w_iopBsu0g,6,Golden Panda
-chinese,-mz0Zr0Dw6ZASg7_ah1R8A,53,Sing High Chop Suey House
-chinese,m9Wqqma30o-hH2fAX7dnug,91,Desert Jade
-american (new),rZbHg4ACfN3iShdsT47WKQ,633,Bobby Q
-american (new),ALqygKZXxuVWGM23pFAiPQ,3,Dairy Queen
-american (new),rQ4z0EStSZE4acgkne6Hmg,282,Tuck Shop
-american (new),VXivZOUYeKBFFab9JVHOSA,35,The Market By Jennifer's
-american (new),aRkYtXfmEKYG-eTDf_qUsw,631,Lux
-american (new),jn3OgTqiQIFymRA9U0PTfQ,6,Arizona Baseball Club Restaurant
-american (new),CMaJOgyFrX6gVsJGm1bttw,48,Cafe Zupas
-american (new),7tTK3VPlFtBGBHm8-LZIUg,125,Timo Wine Bar
-american (new),ZHPRAv3k2q662Q8Qj6zByg,8,Chick-Fil-A
-american (new),pDXv67UQjBKScEgGhc5yLg,65,Catch 22 Sports Grill
-american (new),xHI3saK0sAJEHeMK4IGVvg,204,Short Leash Dogs Food Truck
-american (new),3m7khDnqH9QOg8gu3Ymumw,5,Oscar Taylor's
-american (new),fI47JKlBBwtqOgiZZb4hdQ,22,Peaks & Valleys Restaurant
-american (new),dnBtxFbV4qHXqntYGDUDxQ,8,12 East Cafe
-american (new),coXomDOValXzks6BwMHG1A,37,The Living Room Wine Cafe & Lounge
-american (new),WS1z1OAR0tRl4FsjdTGUFQ,294,The Vig Uptown
-american (new),EWMwV5V9BxNs_U6nNVMeqw,917,FEZ
-american (new),8cL7aJVKTYmLguzXEAS3Lw,165,Yard House
-american (new),Xq9tkiHhyN_aBFswFeGLvA,467,The Arrogant Butcher
-american (new),7aS0iFpab3XHFQrRGMOKXw,62,Pita Jungle
-american (new),K869zHqORZUhpbDOxsspuw,4,Wildberri
-american (new),AaKlegu7gmOCD4rEESF76Q,287,Maizie's Cafe & Bistro
-american (new),s9sTtT5tlqAMgR4gYvLogA,6,Chili's Grill & Bar
-american (new),Oq3JpmsRsNVKbwKScAP-nw,19,Blue Sage
-american (new),TgIJfXqEKE-JsD0QUoaC5Q,68,Spoke & Wheel
-american (new),7_7fxuG9ESAFmx-AiMsJHg,84,Bar Smith
-american (new),YJoph5UiUZ3BEb49vyFAuQ,136,Garage Wine and Tap
-american (new),cuMMU10KaD0cZ2WdK5XC1A,20,Old Country Buffet
-american (new),dVRRT0zVk8eFNx0Wv6gMmg,5,Chili's Grill & Bar
-american (new),83da7v9gQsWJegTW52qnuw,39,Gypsy Bar
-american (new),9-cRrGH5WmZKQ_O6LtfSbw,33,The Lounge
-american (new),e2oXHln1dux2ACR0QQGoeQ,86,Ingo's Tasty Food
-american (new),imvNxppzxkLUPH64pQsDQg,39,Wright's
-american (new),AVQMHeyByhkkYEeDbH9HbQ,26,Country Boys Restaurant
-american (new),TnkxapUN4nWMz_z5h3qMYg,176,Pita Jungle
-american (new),aUHHfCiFtGhN5R6KXCsBKw,9,Fenix Eatery & Bar
-american (new),SVSNsGZat2WjTBNCmJlsHA,3,Ed's
-american (new),mqLIvIVWmV00VWo3L5pj3Q,65,Cowboy Ciao
-american (new),TSg3URWOZ_I8vZGajxQ_6g,112,The Gladly
-american (new),FFdlPSZCGgTdg1CAfrlvlw,24,Native New Yorker
-american (new),5ALqZbLAonfCRZMY-X_MyQ,7,Mayo Clinic Hospital Cafeteria
-american (new),X_F-3w3Z1omxWpItnWDH9g,3,Let's DO Lunch
-american (new),1kMR_HUA8i-wYOJFZfLhBA,6,32nd Cafe
-american (new),hlekz2L2HV8cVSEkgMvuEA,75,The House at Secret Garden
-american (new),KgbCo7ZDFc5bY7w09PReGQ,31,Cafe At Desert Ridge
-american (new),pVnUE5EeIaIbjXzaH7sLyw,72,The Attic
-american (new),DcrM4hwDcU2G6vuh2cnaYQ,272,noca
-american (new),wNsmt1hF1uv3YvbwXZMAoQ,404,O.H.S.O. Eatery + nanoBrewery
-american (new),tvyOw9dBJ-ds5fEXMTjzfQ,23,Clarendon Kitchen + Bar C4
-american (new),j8nyAaN_w5t6wYv-ni23sg,69,Coach & Willies
-american (new),zG_wv69bsllw_PWhOmoAKQ,138,Tarbell's
-american (new),KSHdIbYNS2bNzq1BR5HwEA,2,Denny's Restaurant
-american (new),kvxrjOmicwb2njvXOJsZRw,18,Ammaccapane's Restaurant & Sports Bar
-american (new),qjmCVYkwP-HDa35jwYucbQ,527,True Food Kitchen
-american (new),MkQz_wPoaELPVy6Hwwf7Ug,29,Cafe Zupas
-american (new),tbt8TduAgw21YAr8uw_AYQ,27,Twenty Highland Tavern
-american (new),EmzaQR5hQlF0WIl24NxAZA,18,Sky Lounge
-american (new),fq3TCuBBaKtRnibcSoRHpQ,27,T.G.I. Friday's
-american (new),4SEaQmnUIpqZXPyCmHZc1A,104,Nook
-american (new),5tey93wPQOb7z6jOLJZ30w,91,Half Moon Sports Grill
-american (new),Q5diW79GD0MSJ10j1HCf8Q,4,TGI Friday's
-american (new),nENrnY-3ILrH9yPXV4tqmg,18,Vatra
-american (new),bSrl0gA6QS4oBcfTlQEjRw,8,The Mix Up Bar
-american (new),uKSX1n1RoAzGq4bV8GPHVg,654,St Francis Restaurant
-american (new),rJ7HH85lo0wTNr5BiYGQ4Q,16,Adobe Restaurant-Arizona Biltmore Golf Club
-american (new),nU1xvCBFBVkahDrZSoN2Rw,7,Denny's Restaurant
-american (new),PwxvN0SnAGPdqXdNEYVT3g,273,Bliss ReBAR
-american (new),cuLVubarNFQ7VjpT5k7DEQ,27,D'Lish Cafe
-american (new),2ZnCITVa0abGce4gZ6RhIw,6,Viad Tower Restaurants
-american (new),2VpSPb8IVXNqyVY5n7caGg,14,ASAP California Pizza Kitchen
-american (new),Vu8od1U-h5qqwj3Jf_Hnzg,16,Souper Salad
-american (new),sWvfFtgSQCALAE_yPYVaTA,60,Little Cleo's Seafood Legend
-american (new),QMN_F0PIReU6QbyEuGSYhg,52,New Orleans Sno Ball
-american (new),Dm5K0Zvw8mqrps-jFjgIaw,17,Palette
-american (new),M6fjHpkL9IRI-nI0BattRw,306,The Main Ingredient Ale House And Café
-american (new),-h-q6zTIdPlkz9BDP11sBg,215,Seasons 52
-american (new),zj0BkAi54BGU_AK6AyvJDQ,151,Rusconi's American Kitchen
-american (new),6P2DqisDHtmD4Lvs2sMP-A,22,The Lobby Grill
-american (new),QPheu9dnwdlaPwXofP8ijw,38,Sapna Café
-american (new),Dt8RITU4OmTbRaKKlZm_Pg,7,Sunshine and Spice
-american (new),_EdSQOkATuCtZ5y5A2m0rw,2,Arby's
-american (new),fVgrpVyp-nPLTac9YIjTug,166,T Cook's Restaurant
-american (new),l6C_jcDmKP6rfeNqHHrTAg,3,Phoenix Buffet
-american (new),kr3EFhoSwbJPrL_e_RD39g,162,Blue Hound Kitchen & Cocktails
-american (new),p9rysWzbd9eMDmxRH9y0fA,70,Chestnut Fine Foods & Provisions
-american (new),l5GGMobHJvzaQO2rZFwdTQ,75,The Compound Grill
-american (new),VQTjhYGMIyqSRJHgHLFvjg,10,Sonoma Casual Dining
-american (new),NWtC07BxIqQp76kugbvynA,9,5 & Diner Deer Valley
-american (new),RDX_MLThtKVPb22TvJh9rQ,6,7th Heaven Eatery
-american (new),T11YSYqwlRDC48V8-W1GRw,14,Café Allegro at MIM
-american (new),QzXFdjIbFRGhzL83goPPLA,77,Elephant Bar Restaurant
-american (new),yPfvOB63thP5t3pGZPJExA,83,The Wrigley Mansion Club
-american (new),4TqCyWoWmUpghIVAiSo--g,21,Basis New American
-american (new),m3-p0XIYBQdR4VzbHpUpXQ,14,Genie G's
-american (new),r-a-Cn9hxdEnYTtVTB5bMQ,277,The Grind
-american (new),I4L_MJOZsnux3xCU2bLP8Q,7,Cranberry Hills Eatery & Catering
-american (new),GjvIDOEhdQB1oPrFeSpxBw,65,Gordon Biersch
-american (new),IUnRnZHmA56Tgr2acpHRow,48,Four Peaks Brewing Company
-american (new),UpYva_zhJ6pRGfdTruIYIg,48,California Pizza Kitchen
-american (new),zMa6YoEekpABg1HZnnTZdg,266,Hillstone
-american (new),PY1Wd9Vj7caMGt4u-t1t2w,2,Karla's Sports Lounge & Restaurant
-american (new),Aisjvk-fZVwAcGsN4NlviA,8,Kozy Cactus
-american (new),Pfb6VOIiroqDWOebfgWGPQ,163,Phoenix City Grille
-american (new),SGGZ6l345YTww09IHxtoew,61,Ezekiel's Restaurant
-american (new),4waggbCK-MSE9dbIdSMfPA,102,Compass Arizona Grill
-american (new),FURgKkRFtMK5yKbjYZVVwA,474,Windsor
-american (new),YYm1mnmE36Ne7d5sT9huZQ,120,Short Leash Hot Dogs
-american (new),os_r5fCkmjeP980CLv20MQ,12,The Place
-american (new),2r8jGeuYvMkyP2ik_X-Bxw,120,The Cheesecake Factory
-american (new),UIfORCz28cEGMr_9p0eJ5g,51,25 Degrees
-american (new),eqbpaxfx2DHhG-cj9L8tVg,48,Perfect Pear Bistro
-american (new),5npcHq7cvdJlgQen_1n80Q,36,Ling and Louie's Kitchen
-american (new),XiCnbGY6R92Ji7r38jceZA,31,Chick-Fil-A
-american (new),4r9-iKOagzn5oUvPE9Bz4Q,110,Province Restaurant
-american (new),aNuyJOFNrb-d71amzPpxlw,52,Twin Peaks
-american (new),8SoWH_iOdZD1OvebCwJUbg,13,Dennys
-american (new),5-X03Zc0nN7U5eoe8uFUdw,149,Coronado Cafe
-american (new),EQgMEDJ3Tkln-8UBlOuKwg,5,Moga Crepes
-american (new),cp39VURFby4A6u9m2It8jg,385,Zinburger
-american (new),vlxMPuG6LYJ-c0yjd6AW3A,79,The Little Woody
-american (new),5XIvwfbIa-vuFEkkeCQ6kQ,9,Jackson's On 3rd
-american (new),GYPHQGaB4Oeq9veH-p2nKA,83,Thirteen North
-american (new),nS9Dgj0a5o4Et80jFXBlrw,2,Martini Bistro
-american (new),KoJ4jNSmqYbmKqcoh-2dNA,20,Arizona Roadhouse 66
-american (new),xY5BFKQFo5iLDhXxihkduQ,1,Pollo Sabroso
-american (new),1hcGT6I1vAIH_pZuyud0HQ,2,Brickyard Sports Bar and Grill
-american (new),w19cemjVR8u02PgjFpJ7Mw,211,Pita Jungle
-american (new),Ta-fY1c_E8qHBBDQGyxPkg,24,Bistro 24
-american (new),fP-BPL6iRu2tbcvlnjRshw,171,Copper Blues
-american (new),dsMvINhoQbIQgSRTBv2B6g,85,Caffe Boa Ahwatukee
-american (new),setfRzkAcOPxKH5TZLTqJQ,33,Olive & Ivy
-american (new),MEKk3J63dU3GBDg9SHuq7A,73,Lustre Bar
-american (new),PdRzCJWP7nPdYoHPdd5SOQ,77,Portland's Restaurant & Wine Bar
-american (new),rluuxDPHiP9Z4qtNO66eTw,19,Daily Bistro
-american (new),6L9McpPjh3UzZxvR1cf1Lw,11,Vinery 214 Bistro
-american (new),cSA2pB43cv71ffdIvaEodA,26,Cafeteria on Thomas
-american (new),vBDVxjMtXzZ8GUhV-1L3Jw,27,Chili's Grill & Bar
-american (new),SfVsLCVap7VlF3GLUI8PlQ,3,RBG Bar & Grill
-american (new),supigcPNO9IKo6olaTNV-g,100,1130 The Restaurant
-american (new),IVc23uY-36WUNYoIbz42Fg,446,Switch Restaurant & Wine Bar
-american (new),41j3GB7M-Lwq284Pfb9zgw,294,Angels Trumpet Ale House
-american (new),9ziO3NpoNTKHvIKCBFB_fQ,209,District American Kitchen and Wine Bar
-american (new),7cP7WFmWiTVh-raIL3N_Vw,181,The Roosevelt
-american (new),Fn8hc8b3357nDJfFksdcbg,11,Zest - Spirited Dining
-american (new),gY6AhCy22G9yFlAGu9vMFQ,78,Floyd's Kitchen
-american (new),lQSMn_SAIy5aBEKkqRtVYw,17,Baja Loco Mesquite Grill & Cantina
-american (new),eOug4Lp-b5-jrtkoLMQq2g,2,Circa 1900
-american (new),2gMx4KnXbNtpoCuVCmyo3g,8,Coco's Restaurant
-american (new),guLkdetJ603Bw_A6tuecIg,157,The Henry
-american (new),kJFS_3WlP6TFdNUYt6V6FA,12,Cycle
-american (new),neEGFNmmKibjExB4_215ZA,113,Brick
-american (new),ut-kla-EA23nJOij_dcL0Q,50,California Pizza Kitchen
-american (new),ttLtsY1S2Angj6hvEdzwDQ,110,Blue Martini Lounge
-american (new),_OYlq2UoKPQO_ElqhC3a8w,113,Lucky Strike
-american (new),WjtJAtp19nA61b8LT9uLrA,113,Bink's Midtown
-american (new),6xDQaprsX-GMl6umXeILPw,8,101 Bistro
-american (new),VapdXuC8X-Q3T_wgA6yCAg,89,Pizza People Pub
-american (new),wl51t6lT7leiX64SlkOx6g,185,Pita Jungle
-american (new),4Y9-JiDz9EVR_-UkUv4dYg,107,Culinary Dropout
-american (new),qbEJeRvytnBo5BGG1R5kGg,107,Daily Dose Midtown
-american (new),HrSowDDXw71VD_d-4g7I5g,209,The Yard
-american (new),yC6OzkWd3bzHfcMZm7WpWQ,91,The Vig Fillmore
-american (new),-yxfBYGB6SEqszmxJxd97A,114,Quiessence Restaurant
-american (new),NcAI7SE1SNlrOEfFg9Wzuw,30,Ghost Lounge
-american (new),5niUestkeI0tBcBAv4SyKw,98,Pita Jungle
-american (new),ekguRa1QybpUaMHqc5vmAw,14,Antars Sports Bistro
-american (new),i98vDwJCbC4RHvDo0_XQuw,7,Dennys
-american (new),Ou5Moz82ivJ6-UUsNuy1Wg,2,Great American Grill
-american (new),6R64RobXc6wzbKHmZtGo_A,30,Coach's Corner Grill
-american (new),Ydc74ermKp1L4fYOrPvzXw,13,Stoudemire's Downtown
-american (new),aZe9f7korrhFTNMPxVbMXA,4,Vaquero's Carne Asada
-american (new),JUXPQQshoOV5LUKLtCrOtw,21,Our Gang Sports Saloon & Grill
-american (new),TCqkBVN84Ek0oLmZGAX5xA,46,Lisa G Cafe and Wine Bar
-american (new),k_aOcqWOHWprjs7ykdzlAQ,53,Jose Roux
-american (new),GHYOl_cnERMOhkCK_mGAlA,138,Kitchen 56
-american (new),3EEVGDngt4DEhoOQZIUNUw,25,Arcadia Farms Cafe
-american (new),muCl5p-9ut1sY0aKeUeRhw,170,Cheuvront
-american (new),I4bSn5gXsHuSPu7L-d_8nQ,457,Beckett's Table
-american (new),adEJYiysRmK8eDqnHP9N6A,5,Carl's Jr 7091
-american (new),i213sY5rhkfCO8cD-FPr1A,115,BJ's Restaurant & Brewhouse
-american (new),klCQ1ytgmCgJ1KvlR5Y0_w,53,GreenMix
+american (traditional),VF9wvcgVPDVa9LBDHPrXuw,0.882352941176,Stackers Restaurant
+american (traditional),93hdmjYc8IXsf69VrkRHog,0.886666666667,Good Fellas Grill
+american (traditional),d7V3ykQHqChv0KtXEanKLw,0.923076923077,Rock Bottom Restaurant & Brewery
+american (traditional),0QEpZi6AelUOXfk3-lCd1A,0.9,Down South Restaurant
+american (traditional),SRaXY_h-PnoVkNamuGzAdQ,0.909090909091,Hooters
+american (traditional),rLv5DPLnO67TCHIbbBWYPA,0.875,Native New Yorker
+american (traditional),7pj0w2wN4LWhvTCPz78h1Q,1.0,Rennick's Restaurant
+american (traditional),OL9p2tme85Sd3d8mCiSOxw,1.0,Fox Sports Grill
+american (traditional),P8YUA2bXP-wD3VOzWqKVyw,0.895833333333,Sacred Hogan Navajo Frybread
+american (traditional),xdmT9sejRDEyud8YFbEcjg,0.927272727273,Bill Johnsons Big Apple
+american (traditional),tWVuAPWXvW2g8ce0WWepXA,0.882352941176,George's Famous Gyros & Pasta
+american (traditional),wmuYTDs5kVaPRdFjKGtk_w,1.0,Country Boys Restaurants
+american (traditional),kPh2gPvd8moVx6gNf2iHsA,0.878787878788,Taberna del Tequila
+american (traditional),e0vubCKi8KD8zC2C6FdbuQ,0.894736842105,Islands Restaurant
+american (traditional),tdlSjsWl9PYEUBhDXkIvXQ,0.857142857143,Marston's Cafe
+american (traditional),PeC1ec6uyX3hlGIPORqs7w,0.846153846154,Moon Valley Grill
+american (traditional),h1kwVr1eTpBK0rWfcm5QSg,0.865979381443,Buffalo Wild Wings
+american (traditional),PkBkqQpAoeX3Ogo5HBthQg,0.88,Gallagher's
+american (traditional),Rj5gyaRIIwDX_OJa1LlE4A,0.942857142857,Chick Rotisserie & Wine Bar
+american (traditional),To5CjntVFawXM_hpAhvVdQ,0.951219512195,Wally's' American Pub N Grill
+american (traditional),QhZgTuDoGMXyLu2WzrPoyw,1.0,Village Inn
+american (traditional),8DKEWD2DaU6XlMNRN4QNlA,0.877551020408,HEK Yeah BBQ
+american (traditional),BT2Vls7h6sWrCKa5gGXbKg,0.914893617021,Long Wong's Restaurant
+american (traditional),3oZcTGb_oDHGwZFiP-7kxQ,0.910846953938,Chelsea's Kitchen
+american (traditional),619v4z_tj2NiZWuX1tPdrw,0.892857142857,Black Bear Diner
+american (traditional),-XlBQrxN_ZB3MZKxLBeAjA,0.75,Marie Callender's
+american (traditional),po5FyERB4lUZNnBIwnhFlg,0.9375,Sonic Drive-In
+american (traditional),HmieoxfEuZT91ojxluadZg,0.866666666667,Shenanigans Bar & Grill
+american (traditional),uECIvsUWlDWSiJ9jAfH_kQ,0.864406779661,Texas Roadhouse
+american (traditional),DVYTS0ZLO-3ClAhMd99VYA,1.0,Chaka Chaka Urban Cuisine
+american (traditional),SAS7V55TcgZSTJ21ZnXqmQ,0.9,12th Fairway Bar & Grill
+american (traditional),Qchl3BUVrwGM7h8Qduw6Aw,1.0,Copper Door
+american (traditional),2gMx4KnXbNtpoCuVCmyo3g,0.888888888889,Coco's Restaurant
+american (traditional),INMlF39JiK9buYVNUR6O7g,1.0,The Playa II Bar and Grill
+american (traditional),55seKyxRWUmHC1s52xk45g,0.898550724638,Gallagher's
+american (traditional),WRjMDL79KQ0ZG5yCdfJiYA,0.928571428571,Buffalo Wild Wings
+american (traditional),C_YBdVpxct0NqjrCJDBlxA,0.866666666667,Sizzler
+american (traditional),E0fZHHInMb6xscHDrPlh4Q,0.882352941176,The Art Of Soup
+american (traditional),vWcUrFcweGXAWsil_pfpjw,0.875,Whataburger
+american (traditional),ZJxs1L4oMhX9GW00ty0aAg,0.875,Buffalo Wild Wings
+american (traditional),psZF-7maJzwhtfesiSrACA,1.0,Whataburger
+american (traditional),faitVIiNezSN0ogZQSZPWQ,0.714285714286,Lantana Grille
+american (traditional),UB2j_EV3CIM_E4LcpadKMQ,0.885245901639,Salty Sow
+american (traditional),ET9VpUk1UgjMN5DJRV0yOw,0.875,Christopher's Fermier Brasserie & Paola's Wine Bar
+american (traditional),dVRRT0zVk8eFNx0Wv6gMmg,1.0,Chili's Grill & Bar
+american (traditional),QAqD40DAbYXBcw1oX3AJyw,1.0,Left Seat Restaurant & Lounge
+american (traditional),Xk3inJcuBGLhavUcdlINZA,0.947058823529,Crudo
+american (traditional),nY2QBNMEfT3j68j-DHOGyg,0.896551724138,Waffle House
+american (traditional),1-1VcGTL3GyCqUpXZLFTZA,0.938461538462,Friday's Front Row Sports Grill
+american (traditional),0Apb1P7RzbQEkeJDuywlPQ,1.0,George & Dragon II English Restaurant Pub
+american (traditional),iins67bZVJeDrjiOTZh8DQ,0.954545454545,Red Lobster
+american (traditional),PN3aQAH-RONnK-ahkNm0xg,0.895348837209,Zipps Sports Grill
+american (traditional),qAORECtABjr_FsvSzy1apw,0.928571428571,Smashburger
+american (traditional),SgTjnyElc26gPUghVuCuSQ,0.83606557377,Keegan's Grill & Taproom Foothills
+american (traditional),fgVwzwERnAicqg38PawxsA,0.95,Applebee's
+american (traditional),YJJx6rYfHQtmBd3qq-Lcbw,0.9,Whataburger
+american (traditional),rVUEZpHQfWI_3kt0lBwaxQ,0.969230769231,Keegan's Grill
+american (traditional),0RqNRc6RiILzZxK9J8Kqug,0.927272727273,Red Robin Gourmet Burgers
+american (traditional),AVUpq52fSE9q3v9tO-i_3g,0.95652173913,The Fry Bread House
+american (traditional),v96aR__oKt2aqT-azpcA6A,1.0,Phoenix All-stars Sports Bar & Grill
+american (traditional),0MQ3inDAuiq43TN9hw_Rbw,1.0,Sonic Drive-In
+american (traditional),Sodko0hlMg7F5doNJGKcWQ,0.936507936508,Claim Jumper
+american (traditional),oCA2OZcd_Jo_ggVmUx3WVw,0.919413919414,Alice Cooper'stown
+american (traditional),k6PuJ964NF2NEoXoOg0ijA,0.909090909091,Caps Sports Grill
+american (traditional),Jj7bcQ6NDfKoz4TXwvYfMg,0.903225806452,Fuddruckers
+american (traditional),pk0vem-ismpPnVeTIG0Q5g,0.833333333333,Applebee's Neighborhood Grill & Bar
+american (traditional),2B0pIRjAt64mFMV-2ZRCfg,1.0,Arby's Roast Beef
+american (traditional),IW-NYIHk50mXV5Nz7nSGyw,0.916666666667,Zipps Sports Grill
+american (traditional),N-hmuPPHrTxDA_pQXgt9zQ,0.846153846154,O Bar & Grill
+american (traditional),8jTAfGcJMLs9VNcG4dndNQ,0.911764705882,LongHorn Steakhouse
+american (traditional),Lk-FP6yxYRTcU52SaTx2EA,0.923076923077,Cactus Jack's Bar & Grill
+american (traditional),0Jouvs4G3d6CcG3pYGZ20A,1.0,Lunch Box
+american (traditional),ykKSshfa9ANCZCuvM2LaWg,0.891304347826,Culver's
+american (traditional),JW6fDZOuUKtJyZGeldh0xA,0.9,Chestnut Lane
+american (traditional),fDZzCjlxaA4OOmnFO-i0vw,0.907514450867,The Oink Cafe
+american (traditional),g4y3_YqR4jmfCP9K0TzxrQ,0.818181818182,Marcel's
+american (traditional),kvyYxHukGKi2ILJvDrLMsg,0.666666666667,The Raven Grill
+american (traditional),oaakO-X7uOXNxqsxjDSKfg,0.885964912281,Half Moon Sports Grill
+american (traditional),UUssRgBCO_riWg3chbv9Zg,0.910447761194,Satisfied Frog On Bell
+american (traditional),wRWakw2wXmMEAe9FW9w1Pg,0.944444444444,Native Grill and Wings
+american (traditional),bbiV-lPmRaK_gjzE77x_jA,0.727272727273,South Bank Grill
+american (traditional),IURIbkgQgHXAgwX6hAgiNQ,0.862903225806,Gertrude's
+american (traditional),2xczXFsc4GeilxL8B8R3Vg,1.0,Whataburger
+american (traditional),YUMvB8pA2yfVeAouAHzn7g,0.6,Denny's
+american (traditional),5QOitecMgPwjT8RbUAQdig,1.0,Red Lobster
+american (traditional),v48aS-Z-nw6o9qsHdHz8zA,0.894736842105,Logan's Roadhouse
+american (traditional),gQjTs4BDNYSu9oJhkEsssw,0.909090909091,Lone Star Steakhouse
+american (traditional),Lo0dRIDKXc5mlE-coVZrtQ,0.941176470588,Chloe's Corner
+american (traditional),5XU8ys_TsulI-FJ5nzuNvg,0.891891891892,U.S. Egg
+american (traditional),SfrBXbRdNB_gqPkIgJyKCg,1.0,Bitter Creek Cafe
+american (traditional),aqD66Sve2mE4cq021LWQmA,1.0,Segal's Oasis Grill
+american (traditional),0nGjXTpUtpIJl10PL0eBGg,0.909090909091,Breakfast Club
+american (traditional),JbJDlfcnYiyZRXeHQcAVjg,0.924050632911,Raising Cane's
+american (traditional),2I666dqzs1XB6xigIKa9bA,0.916666666667,Tom's Tavern & 1929 Grill
+american (traditional),VFjeCLwVMguUNWH-DeOgyw,1.0,Fox News Sky Box
+american (traditional),qdI9KaRhOzaJRK0dvGUSaw,0.875,Coco's Family Restaurant
+american (traditional),GVUtuBmDdvXxXtjrvHHJnQ,0.785714285714,The Flight Line Bar and Grill
+american (traditional),3Zsjlum5kl5N5KV712aTMQ,0.861271676301,Different Pointe of View
+american (traditional),fG3yJmDXfSU8eW8HY1K3aQ,1.0,Whataburger
+american (traditional),pAHUC05ceak48e745i6G4g,0.877118644068,Paradise Valley Burger Company
+american (traditional),fsQFHGMbqWf7MT6KYMuJxQ,1.0,Boston Market
+american (traditional),cIwMq5KNq0ASQzoTP1dE9Q,0.8,Boston Market
+american (traditional),r8CwFUEQtL8gAT9KHnNhuw,0.986842105263,Teakwoods Tavern & Grill
+american (traditional),oIXw9z-OuDlMDKUBPRny2w,0.883333333333,Uncle Bear's Brewhouse Grill
+american (traditional),YSQnaRE4Le6CaonZICFyVQ,0.666666666667,Chili's Grill and Bar
+american (traditional),aZFihxH7QGWeIXw8uw_xDg,1.0,Hooters
+american (traditional),U-uTG4ofQoaCGGY5MVsJsA,0.947368421053,LongHorn Steakhouse
+american (traditional),zj0BkAi54BGU_AK6AyvJDQ,0.932098765432,Rusconi's American Kitchen
+american (traditional),t1ahkb3p7HsSC7sLkrcMfQ,1.0,Olive & Ivy Marketplace
+american (traditional),t_0576Esa58pcLHCEpj31A,0.937007874016,Steve's Grill
+american (traditional),-zcZNlO0JwZHppan8rGkBQ,0.884615384615,Chili's Too
+american (traditional),DDnmNTvIIQu2t3WZ2EQx-w,0.897674418605,Sierra Bonita Grill
+american (traditional),nts2OALwvyvfNh9focRZ3w,0.885245901639,Hillside Spot
+american (traditional),SgGINtDKQgoXoAnQgrDKDg,0.926829268293,Native New Yorker
+american (traditional),Q5diW79GD0MSJ10j1HCf8Q,0.8,TGI Friday's
+american (traditional),tfVKzEDu8XYyP8KO1dsNvQ,0.942528735632,Two Hippies Gnarly Burger Joint
+american (traditional),uflQ_lKBfS6WknNlm_HK8g,1.0,Sizzler
+american (traditional),MiajUnwoG7RGoaolO1rPaw,0.962025316456,Ranch House Grille
+american (traditional),AaTC0a1gQ8Q6VJ6HQLYllg,0.75,Madi G's
+american (traditional),QXWXLEVGeONoZHLmHuFemQ,1.0,Sonic Drive-In
+american (traditional),NkGQRN6ahwQoFEAlHq8NHg,0.952380952381,Blue 32 Sports Grill
+american (traditional),8FNO4D3eozpIjj0k3q5Zbg,0.857142857143,Deer Valley Airport Restaurant
+american (traditional),Ane4XcpP7aWzhjd8SGiciQ,0.926829268293,Red Robin Gourmet Burgers
+american (traditional),MU3i2uEyUBntebU6pEyMbw,0.888888888889,McCormick & Schmicks Seafood Restaurant
+american (traditional),VuPhv9CNIHLOzS2JeDwLOA,0.666666666667,Waffle House
+american (traditional),EmlgWjs1ZzZEpDjZCSPLmw,0.924657534247,AMC Dine-in Theatres Esplanade 14
+american (traditional),mPMw_JxSRjzPXVdTjWmV6Q,1.0,Whataburger
+american (traditional),Vz-PukBDv5j1UDOYbMbb1w,0.866666666667,Ruby Tuesday
+american (traditional),vYvT8J9uEh4Fqt7f9ILKlA,0.9,Azool Grill
+american (traditional),63cjAsO1jXvrwvjkUiEkVA,0.842105263158,Casey Jones Grill
+american (traditional),gkv2XvXpFgiq4Bb2XK7YmQ,0.896103896104,Hard Rock Cafe
+american (traditional),fmpEjlZhFlMHaGmsKJlUTg,0.964285714286,The Other Q Bar and Grill
+american (traditional),9UgwLTF5mSf9ip2xEYYy2g,0.823529411765,Ironworks Restaurant
+american (traditional),FqzgT9Y-Yu7jiWdHnGW-kQ,0.914004914005,The Vig
+american (traditional),MXOdsPTLQPsQK9hUq01DWg,0.908713692946,Arcadia Tavern
+american (traditional),qkhzmBKShH9QQwh16hMxQw,0.769230769231,JB's Restaurant
+american (traditional),z3zcsnK26QhC7TqDX73zvA,0.916666666667,Black Angus Steakhouse
+american (traditional),GDeu_BPyb4PBDZSv1J9-6A,1.0,On Deck Sports Grill
+american (traditional),hzUOqxpcnYYBgLlrgvjQYQ,0.975609756098,Applebee's
+american (traditional),hvaOgvC3F9b0G1eefGlzNQ,0.935483870968,Thunderbird Roadhouse
+american (traditional),cjFDprdEXbDDdraONMy5Pg,0.893617021277,Pete's Fish And Chips
+american (traditional),0OjN8M62r8cJhSF1mGfsdg,1.0,Sonic Drive-In
+american (traditional),QG4qmOPBgNigdI4cUYhKJg,0.875,Native New Yorker
+american (traditional),m4Gw2d0_iWE3kyDhNtD0-g,0.974358974359,Wingettes
+american (traditional),UScgPn6pIHuOmQJTsZQIOg,0.942675159236,Corbin Bar & Grill
+american (traditional),GjvIDOEhdQB1oPrFeSpxBw,0.878378378378,Gordon Biersch
+american (traditional),CNS4j16dzLWDPEV-UM9SLg,0.857142857143,Jackalope Flats
+american (traditional),gPCUIvpMCXVDRqszO8v69w,0.958333333333,SpoonZ Cafe
+american (traditional),1ulwCamdqoX-SdMTcOhHDw,1.0,The Courtyard Cafe
+american (traditional),y7A3nmvqtyfEysI9nGUiOA,0.933333333333,Legends Sports Bar & Restaurant
+american (traditional),lnX2gaGdO0fNtykyFrp1AA,0.866666666667,Mel's Diner
+american (traditional),avvNnkpGpGIS-2CClsduXA,0.909090909091,Rimrock Bar & Grille
+american (traditional),oUpVWZv6Sa62wTkkS7V7qQ,0.833333333333,Trails End Bar & Grill
+american (traditional),F-ykHfGY9lWr12OJ_Ofy7A,0.943396226415,Gallagher's Sports Grill
+american (traditional),KwnYw_cLsYkUPA6ZUmqsYQ,1.0,Devil's Greens
+american (traditional),PdWe3jF9YEu5fWBiQXZIgg,0.867469879518,Dave & Buster's
+american (traditional),iAYzRvyBrSkJDu_XZ-E1zQ,0.9,Fast Eddie's Diner
+american (traditional),2cMWbJvpxgmSAWoRQzcNIA,0.833333333333,Bistro 202
+american (traditional),cTyBfWfmgL3vgRetyfmtyA,1.0,Sport Peppers Grill
+american (traditional),C37jakxE5TX6ccAfjp2kJA,1.0,Nixon's
+american (traditional),0kZ4aYmqf5fzTt9Yvz8Kvw,0.888888888889,Waffle House
+american (traditional),JxgoluY8hnC34cys_f80xA,0.882352941176,Deemos American Grill
+american (traditional),RUjaYACMwyQ2R7_Lz4p8Yg,0.952380952381,North 51 Grill
+american (traditional),wn7GiuOQ_0VrPXNc1wVTDA,0.947368421053,Fatburger
+american (traditional),D7uAJToqGk1hQxfZDO5ijg,0.9,Belvedere American Bar & Grill
+american (traditional),2r8jGeuYvMkyP2ik_X-Bxw,0.89552238806,The Cheesecake Factory
+american (traditional),bKr2DfxkmVNSWM2ZrjMT_A,0.85,Golden Corral
+american (traditional),691w3FIZWH7cz3IYGor5Ag,0.884615384615,Cafe Aroma
+american (traditional),Xta0mTpGJWC2yi6kiQm_vg,0.860465116279,Melrose Kitchen
+american (traditional),-WZIxGXJHMGidZXRhKxP3w,0.924528301887,Mimi's Cafe
+american (traditional),oJ1xS-B6FJis_8_jdMBPLQ,0.75,Chili's Grill & Bar
+american (traditional),Lm4rjgZlTtLfsriICKdD8A,0.869565217391,Game Seven Grill
+american (traditional),FOfhEC6rN23RQaUlsR2byw,0.908333333333,The Melting Pot
+american (traditional),YWDfUAPwScdW_9GmGskkZg,0.5,Coppers Sports Grill
+american (traditional),3E_toMWSUCuhRJzG1eml8Q,0.892857142857,Smashburger
+american (traditional),KqsvvlzoJH3TUrk_vlbcsQ,0.921052631579,Harem Lounge
+american (traditional),Y9D61SRDiTAYJeaVbqvbFg,0.889763779528,Wolfley's Neighborhood Grill
+american (traditional),QdbZyl-LWFS54u93Vjd5SA,0.906040268456,The Capital Grille
+american (traditional),PSAK5sUss8yiN7Q_72Zlxw,1.0,Boston Market
+american (traditional),8SoWH_iOdZD1OvebCwJUbg,1.0,Dennys
+american (traditional),CuLdSn4wFwog-z2OMSwBCQ,0.962962962963,Skunk Creek Flats
+american (traditional),NX5YHSIyesufcsI7Rg5NLg,0.863636363636,Mimi's Cafe
+american (traditional),7LGjM8HKJTwqfYU3C7N_0w,0.892857142857,Rico's American Grill
+american (traditional),O-ylVyHn6e6kaoJO-jHj-w,0.955555555556,Hole-in-the-Wall
+american (traditional),G4ZZHlp6CdYBZOirW2_PQA,0.914285714286,Tilted Kilt Pub & Eatery
+american (traditional),ixTr1qXUFGTzyaZUuCDDvg,0.947368421053,Whataburger
+american (traditional),4SwDarJGXaUPGv8QpmpHxQ,1.0,Ruby Tuesday
+american (traditional),oIkwj10HmUiognO68j7jOg,0.939130434783,Kona Grill
+american (traditional),sspvIv6br3Vto2s5JkeiMw,1.0,Dick Clark's Bar and Grill
+american (traditional),OmxAvtMyIvCVm16NFIOOUA,0.863636363636,TGI Friday's
+american (traditional),WoJrHOtrQ5R4jx80GwlnxA,0.894736842105,Swensen's Grill &  Ice Cream Parlor
+american (traditional),E_wJCQ9L_0w5tJyrvr0lJQ,0.9,First Watch
+american (traditional),QlEU-1VCqJbTzSf8mFAZUg,1.0,Desert Springs Brewing Company
+american (traditional),4uvdld7zvWk05RZuI9rDPA,0.857142857143,Bill Johnson's Big Apple Restaurants
+american (traditional),SZvYxcvYYVRue9MXcEDjsA,1.0,Coco's Family Restaurant
+american (traditional),4WcxnNv_lzCIG2eb8O5Mlg,1.0,The Brickhouse
+american (traditional),xmjv8g356v8Qo55ICjG8rg,0.929824561404,CK's Tavern & Grill
+american (traditional),A-ZhvQa5A-XSqZB3HH6TVw,0.833333333333,Sonic Drive-In
+american (traditional),-fA9y44FrK8nTRxjyntfTw,0.875,Charlie D's Catfish & Chicken
+american (traditional),M2Dw6a9MSIFUtVO3bF2ckw,0.894736842105,Chili's Grill & Bar
+american (traditional),XWvht_1ZLdK7EHJ3jo4q0g,0.901015228426,The White Chocolate Grill
+american (traditional),vBDVxjMtXzZ8GUhV-1L3Jw,0.9,Chili's Grill & Bar
+american (traditional),0xWF7PpTNl-awqg2YGxxFQ,0.869565217391,IHOP
+american (traditional),mqQwChPNN4o4DhAzaGntIA,0.914438502674,The Fry Bread House
+american (traditional),1LSxfyNIUFbQb-Ej0FDGTw,0.877192982456,Mimi's Cafe
+american (traditional),2RxIERKZi5gjLW76MkFotQ,0.941176470588,40th Street Cafe
+american (traditional),yLfYR-PvIzAv9DnEH68Rgw,0.727272727273,The Bamboo Club
+american (traditional),2VU7F1oqCxpVPVlvpwvacw,0.976744186047,Barfly
+american (traditional),F5vKD7ajS69CwuFyBVxA_g,1.0,Boston Market
+american (traditional),Y1jkxceoqE5LrTL5eqPXsA,0.909090909091,Euro Grill
+american (traditional),PejTHpMkh8sJZGdGaZuPpw,0.869565217391,Applebee's
+american (traditional),r9sGMJ084n4IS9eGmlCKjg,0.882352941176,Feeney's Restaurant and Bar
+american (traditional),j_Id-xnaHfyJRV5FlciYhA,0.789473684211,Smashburger
+american (traditional),jWuPCzdyM21_mBMwBhcXag,1.0,City Hall Grill
+american (traditional),JB9zRTOKSS1ApkF1T7_khw,1.0,Mid City Kitchen
+american (traditional),4FS5otEktCyI1aDpg_h03g,0.863636363636,Kincaid's Classic American Dining
+american (traditional),TuCAYZ89lP_s6D7Y78xNhQ,0.864516129032,Smashburger
+american (traditional),VFRfBYycuieR56jZ6dgVeg,0.842105263158,Yoasis Ahwatukee
+american (traditional),W41CEzdKJe8wdDB-Rd6KJQ,0.882352941176,Breakroom Bar & Grill
+american (traditional),5ipAMcjec7GH7tztXYLTgQ,0.9,IHop
+american (traditional),XMVetdmE2IzMcRbvjhVFnQ,0.833333333333,Arizona Club
+american (traditional),hBodj_f6adUAnEVUb_he_A,0.666666666667,Turk's Fish and Chips
+american (traditional),reMYkuDhLk4raAviOFtvOQ,0.938775510204,Lenny's Burger Shop
+american (traditional),CqhsIZ7TzCfJTrZqg5-gqQ,0.910447761194,Armadillo Grill
+american (traditional),cXx-fHY11Se8rFHkkUeaUg,0.952380952381,16th Street Sports Bar & Grill
+american (traditional),qsWxbgQwuomXvMseg23DGg,0.878787878788,Hooters
+american (traditional),cjUmPLRT43wN9Z87A9BOpg,0.944444444444,Applebee's
+american (traditional),hNVcBhJSD5HyLKMf_Z7TaA,0.925,Islands Restaurant
+american (traditional),-JpZiiGPKOuCEiODGNyovw,1.0,Wendy's Old Fashioned Hamburgers
+american (traditional),vFJmFFfPVhHkC3bWOeZnNA,0.978260869565,Casey Jones Grill
+american (traditional),77tMP3nG9TH0rrhf6G4g6A,0.666666666667,Lager Fields' Micropub and Grill
+american (traditional),ziaSXim-Om_a62V7X0GSpQ,1.0,A-Town Grill & Eatery
+american (traditional),5GpvSL1tlAjpgdJKZ5eLpg,0.879310344828,Texas Roadhouse
+american (traditional),ksD6Pv6wOocscrEMqfnYbA,0.882352941176,The DawgFather Grill
+american (traditional),HQFscafV3wi5z4yOKdUGRg,0.895833333333,5th Avenue Cafe
+american (traditional),tb24fvNJfHhyKEXkKn12Xw,0.917582417582,Welcome Diner
+american (traditional),immAndhZ-o1qrlFrIw8YjQ,1.0,Village Inn
+american (traditional),-MaIpPCz4153Uh1pnzI3AA,0.818181818182,Stonegrill
+american (traditional),qz4ZOcv-840UjfCEYI4qZg,0.898305084746,Jt's Bar & Grill
+american (traditional),GAPqG0WNBBidKeZTMpEZ-w,0.874213836478,Local Breeze
+american (traditional),hMd49yw32d7I0Kk1ZIOeXg,1.0,Arby's Roast Beef
+american (traditional),MLcXtnpzygZvQ9BtseLLlw,0.933333333333,Farm At South Mountain
+american (traditional),w7SrsFV4FL04bhQr-B6-4w,0.825,Raising Cane's
+american (traditional),JImJictLIE48_O1z-l2TGw,0.909090909091,Wagon Yard
+american (traditional),Upru5VE0jZ81ZQVVNCK_uA,0.8,Sonic Drive-In
+american (traditional),kjZJsF1juY_pTOw_A8Ve6w,0.857142857143,Chili's Grill & Bar Catering
+american (traditional),K4VHuqUFwc4eeC8LkMLyTA,0.9,Waffle House
+american (traditional),BcuFT-gQj6Epl56ZAWJIdA,1.0,ZeeZ Grill
+american (traditional),s_cKw6m0Fw9jZbobRH0YSg,0.952380952381,Rock Bottom Restaurant & Brewery
+american (traditional),A0c5KmspCG9TMOZkjLWaTA,1.0,Johnny's Uptown
+american (traditional),GTVneiUeIyRL8Wa_WmEQ0g,0.875,Whataburger
+american (traditional),45puCRQ6Vh_IIAy7kkfFDQ,0.944055944056,Majerle's Sports Grill
+american (traditional),ot4Of_A9onKHoVt4XU7v5g,0.75,Sonic Drive-In
+american (traditional),nckQIGiiUxztAQ2Boo6Tlw,1.0,Ocotillo Sun
+american (traditional),XBpxFy0h7KE-GtKuCX2JQw,1.0,Sonic Drive-In
+american (traditional),JzKG_Upd49TVOneDmesELw,0.666666666667,Monroe's Downtown
+american (traditional),uMxfxbqT27XDeU9UTXeErg,0.914772727273,Bootleggers Modern American Smokehouse
+american (traditional),OE7RmfGvpvSEv4g3xDKfSw,0.927536231884,Chelsea's Kitchen
+american (traditional),5WQhLNpG6xZryVCla4gMRA,0.739130434783,Fry's Food Store
+american (traditional),aNuyJOFNrb-d71amzPpxlw,0.912280701754,Twin Peaks
+american (traditional),K-FzqJUj6YpSLC_fyJRnlA,0.833333333333,Coco's Family Restaurant
+american (traditional),-1bOb2izeJBZjHC7NWxiPA,0.918918918919,First Watch
+american (traditional),__etvGuL2dh_a1LOT0gNYQ,0.76,Big Guy's Sports Grill
+italian,r3r_bAfa6pZKIhQB82FizQ,0.944444444444,PastaBAR
+italian,kxDGexkbP30fBvxVI0CzFQ,0.879120879121,Stumpys Pizza
+italian,p1sX2UVxEjPzd92LtP3c4g,0.914893617021,Angie & Jimmie's Italian Pizza
+italian,DIYHTgM-YGKWOWLzQ4XVhA,0.888888888889,Michelina's Ristorante Costa Campagnia
+italian,IZxdigPOncvAcqrFWB9wpQ,0.666666666667,Trattoria Bianco
+italian,M_Aocl2RmEMCt-oO_wB1zA,1.0,Papa John's Pizza
+italian,VpW40mznMS43CqdbelX2wA,0.948186528497,Giuseppe's On 28th
+italian,Cse5FvYuACIxljwaac2SZg,0.925,Cave & Ives
+italian,Fb5ZL4VkO2Yfx-bNJexAkg,0.880341880342,Oregano's Pizza Bistro
+italian,OIBrslaVxFxaaGUsYFUujg,0.871794871795,Olive Garden Italian Restaurant
+italian,hnOGdF42m6Cwuuh5iuaXbA,0.936170212766,Romano's Macaroni Grill
+italian,9beCQ1vPk4cFSJp8Sb5-8Q,0.923728813559,Cafepino
+italian,C7utE_DN2kgE-68_VF8ftw,1.0,Ristorante Tuscany
+italian,QFHqziOcSXsZTQ4QGIqmtQ,0.833333333333,That Italian Place
+italian,i0sMoNwiNAo1--AsZJ3Nlw,1.0,DiVito's Pizzeria And Italian Restaurant
+italian,hIe65VALe8rxseYECVj08w,1.0,Streets of New York
+italian,3FhHnU7Mq8KcyWiWKH0RzA,0.9,Streets of New York
+italian,93fEJZYc3B-jOMaXce7G5A,0.9,Fired Pie
+italian,lM3q1N0lpxStCLYMCoqGhw,0.8,Carmella's Italian Kitchen and Bar
+italian,CSoURupWEyuyzkjMOExKPg,0.939516129032,North Italia
+italian,kF8JDYpLnbf8AZS9gpHXJg,0.892857142857,Joey's California Bistro
+italian,ZAgPh4v-oOb1g6cdlkKI0g,0.9,Phoenix House Of Pizza And Subs
+italian,RYZ08XAToBaN-bS5HHVEhQ,0.870588235294,Nellos Pizza
+italian,lQ22GkzG0tIJRbzkpMbJxw,1.0,Pronto Pizza
+italian,QkyN2vqQidQhotvOtPIrkw,0.877697841727,Humble Pie
+italian,cN4gmlntyQ-maTW4PdT-Kw,0.894736842105,Streets of New York
+italian,D7d-X4fLvVIdsCDFGpqzmg,0.904761904762,My Pie
+italian,If2DUhmWIvlu2JFc_rR-Bw,0.8,Papa Christo's
+italian,EQTdq1SJuU6bjC3myEfDWg,1.0,Barro's Pizza
+italian,uYj2NO1HZRNiD-de_pSdJA,0.871428571429,Amano Pizza Bistro
+italian,VVeogjZya58oiTxK7qUjAQ,0.904923599321,Pizzeria Bianco
+italian,PwtYeGu-19v9bU4nbP9UbA,0.914285714286,Calabria Italian Kitchen
+italian,gJmBto8IXwSBT4HTcL7cDw,0.941176470588,Sano Brick Pizza
+italian,ImVx220_Pcp2iB5uworODw,0.816901408451,Vincent's
+italian,9c8Q6sAWAL1MCRzJ7INQkg,0.888888888889,Villa Italia Ristoranti
+italian,IuYs9ys6bwhK-s2_sUKsbQ,1.0,CiCi's Pizza
+italian,NNGJQF3WeIHzGzweCpZ-VA,0.858490566038,La Piccola Cucina
+italian,PEHJjxdw11TGFma9Zhz3ng,0.903614457831,Red Devil
+italian,k8JnZBspVOI8kLcQek-Chw,0.875706214689,Mamma Mia Brick Oven Pizza & Pasta
+italian,GvwDppcJLm9lso9iS2hSIw,0.953846153846,Pat's Pizza Plus
+italian,u5o4H8h0sIVhqa8Lcusi5g,0.876923076923,Fatso's Pizza
+italian,hVDo35_OySCeFWYLFKM7WQ,1.0,Palermos Pizza
+italian,6TIaz7MG6qjX6ZaQe9cG2w,0.907407407407,FIRED PIE
+italian,5BnsHDWrt2z-9d8AzSgkjw,0.935064935065,Nick's
+italian,UexMw8s7B1J-RtFOQtCCsQ,0.891304347826,Romano's Macaroni Grill
+italian,JvJjaTJCyUGu5SDpoJWvZg,0.9,Meatballz
+italian,QiBNnRkMZ5chmo_9eOzv5A,0.833333333333,Picazzo's Organic Italian Kitchen
+italian,D_xWWPRdpZCC3XVJ61pSGg,0.921052631579,The Skinny Italian Kitchen
+italian,MEraJIKYztC7IOzYwMe86g,0.875,Raimondo's
+italian,QdYrBxT8OV8qd7aENoBlsg,0.846153846154,Isa's Pizza
+italian,yuS1qDTkido8zUFrfj8O0g,1.0,Cafe Roma
+italian,hqVbmZNLTdR2y7G7oJu9vg,0.939024390244,Tutti Santi by Nina
+italian,eFA9dqXT5EA_TrMgbo03QQ,0.857142857143,Crust Pizzeria & Ristorante
+italian,ILm0LCXrDGs_5aGa83dgfQ,0.884615384615,Olive Garden Italian Restaurant
+italian,DcrM4hwDcU2G6vuh2cnaYQ,0.915824915825,noca
+italian,C6lM880c3gEdk_9ZjtKYWA,0.923076923077,Sam's Chicago Style Pizza & Wings
+italian,hgb1RihLYRSpFBjBhn8rZw,0.890909090909,Bell' Italia Pizzeria
+italian,n-XTO7I2o2h06o-vyjtYfg,0.959183673469,Raffaele's Pizza
+italian,3n9mSKySEv3G03YjcU-YOQ,0.90780141844,Postino Central
+italian,OkXpdUozVS3vjSRtCoSIvw,0.8,Fusilli's
+italian,TqHTtjPANCBKGsjGBjDoQQ,0.929824561404,NYPD Pizza
+italian,X3NvTA98paIkjT4-bcXpLA,0.8,Affinito's Bistro
+italian,4SEaQmnUIpqZXPyCmHZc1A,0.954128440367,Nook
+italian,Xk3inJcuBGLhavUcdlINZA,0.947058823529,Crudo
+italian,s0klhdxcAab0yEWw2Uuimw,0.945454545455,Tomaso's
+italian,V3lQtk1LgwAEcF9j-BzchA,0.882352941176,Famous Ray's Pizza
+italian,-AAig9FG0s8gYE4f8GfowQ,0.919402985075,Pane Bianco
+italian,M4KIUu3-lAvD1xeWue7_OA,1.0,Jerry Tucci's Brick Oven Pizzeria
+italian,3yMneVFhBePIBtCGdboc7Q,0.891304347826,Sardella's Pizza & Wings
+italian,ZRJwVLyzEJq1VAihDhYiow,0.908496732026,Spinato's Pizzeria
+italian,3Zsjlum5kl5N5KV712aTMQ,0.861271676301,Different Pointe of View
+italian,JN2qXIuDXnV2d8WnSqd28A,0.913043478261,Streets of New York
+italian,ML1RJdeZ7bbfMrHvJ7m99A,0.895161290323,Oregano's Pizza Bistro
+italian,le-4m9rKxHVPB2l8GWLYcw,0.942857142857,Caffe Daniel
+italian,AkOruz5CrCxUmXe1p_WoRg,0.92967032967,Cherryblossom Noodle Cafe
+italian,U_CvxSM9epIi8u5A0jOUVw,1.0,Barro's Pizza
+italian,e3izESeW0BUx0s96FdSLag,0.9,Va Bene
+italian,Zruvunhqw7cuyuoe7g09Gw,0.892857142857,Picazzo's Organic Italian Kitchen
+italian,Lbue8gqRiBPEnA7g7H1qdw,0.861842105263,Humble Pie
+italian,rqKvfrvfsM_TQMv4IP1YVw,1.0,Barro's Pizza
+italian,z_IfC-aIkKpuhGfX1yzdfg,0.916666666667,Alexi's Grill
+italian,zwJX3eetOhpi-gv4-E4rcQ,1.0,Pizza Hut
+italian,FRiT2RI6Y1nds1jjZqvnXQ,0.942307692308,Sauce - Pizza & Wine
+italian,Pg8OPh1D2ws0xO-I-8ppoA,0.920792079208,Upper Crust Pizza
+italian,E0Gi93pSbrJVnQcV8JE8RQ,1.0,Red Tomato
+italian,nytd8aC5Y9et_iMCuas-vg,0.8,Streets of New York
+italian,MPmSoEd46WXqhN-5rw7Yqw,0.894736842105,Amante Pizza and Pasta
+italian,Fa-zUFfIMIke1QLeeWT_6g,0.875,Tony Pizzeria Italian Restaurant
+italian,VK9AdK8hjxIWU3C2W9_k0w,1.0,Pasta Pomodoro
+italian,vvA3fbps4F9nGlAEYKk_sA,0.935897435897,Avanti
+italian,zyvujnBGGpG3WWiDPkil9w,0.896551724138,Spinato's Pizza
+italian,RE_avyJUm52qCTRAA2CbkQ,0.952380952381,Le Ragazze
+italian,o4sPw8nO7GcNyKilWBgK_Q,0.909090909091,Olive Garden Italian Restaurant
+italian,RGDyf8-PyzyS9Lzs9bkvgA,0.904761904762,Babbo Italian Eatery
+italian,EpascFEAih49O5Un4f2AFw,0.941176470588,Meatballz
+italian,SDwYQ6eSu1htn8vHWv128g,0.924593967517,Postino Arcadia
+italian,pF7uRzygyZsltbmVpjIyvw,0.910179640719,Spinato's Pizza
+italian,m9haUi2_1lHR2eAKBhKwDg,0.905172413793,Federal Pizza
+italian,PAtgWCLCFRQd_fjnihISOg,0.862745098039,L'amore
+italian,qFfEUJUIqfIYARCOF9Hgig,0.953125,La Piazza Locale
+italian,J2LGgGy1b1V8e7yjDI_u7w,0.964285714286,Olive Garden Italian Restaurant
+italian,pwpl-rxwNRQdgqFz_-qMPg,0.909230769231,The Parlor
+italian,dmyytmVobrPfPO6IrKbjuQ,1.0,Gretalian
+italian,lTk4l6YgxNXNaMCD9mcD6Q,0.9375,Vincent's Famous Pizza & Restaurant
+italian,VtHKaOSOPhZqDGf85X1oiw,0.866666666667,Pasta and Sugo
+italian,udmb-UuD3xoueQ55INQFRw,0.903846153846,Rosati's Pizza
+italian,umyo8MPjiZiDXHtvyaOi6g,0.912280701754,Arrivederci Trattoria
+italian,0gQrhOYWdO0XVZEKtOrvaA,0.857142857143,Red Devil
+italian,7CTf4W-KT4h6uA_zpGZp2Q,0.918918918919,Central Bistro
+italian,ssSeK9MYRCUjoabppekwoA,0.866666666667,Focaccia Fiorentina
+italian,V1nEpIRmEa1768oj_tuxeQ,0.914937759336,Cibo
+italian,tDbXsDOecrv46J7YR2-FNw,1.0,Meatballz
+italian,S3FhtwXuiGMlGdBNtmiiSQ,0.909090909091,Ruffino Italian Cuisine
+italian,FHA2j4ESBkgGe3NvOql4qQ,0.875,Barro's Pizza
+italian,vfLog2bLJGl6hAFtGtr0GQ,0.911504424779,The Strand
+italian,MPziC5MO2QQiYVAMM3fdSw,0.944444444444,La Fontanella Restaurant
+italian,VWcaFOSFcDwmFquycBzFyQ,0.947368421053,Frank's Pizza & Wings
+italian,lF1917cvbCzQX7BcUvlooA,0.904761904762,Uncle Tony's Pizza
+italian,UI5ghIUeHYxzwSfaDVUXOA,0.931623931624,Aiello's
+italian,dKtbrGgg5fbl8MibhilP2A,0.959677419355,La Grande Orange
+italian,b1aTHVkqCa4kZITbu9khtA,0.893805309735,Harley's Italian Bistro
+italian,podj1OWSL3oEJsOpGj8SUw,0.91452991453,Pino's Pizza Al Centro
+italian,unPzS1QJJctlZyLGFSk_HA,0.857142857143,Tony's Italian Delicatessen
+italian,zSEknIqmkGL1pQt-ApEeoQ,0.969696969697,Aiello's Salumeria
+italian,2J1DtN7FjGICQcgRei3jKA,1.0,Peter Piper Pizza
+italian,_RkvdDlzEFSRnGMrTRkVYA,0.9375,Romano's Macaroni Grill
+italian,xqO1fp2zuxeeYjPeGP2Eaw,0.789473684211,Brad's Place
+italian,vFtMSgQsd3Fwt3U7UJf5dQ,0.916666666667,Rkidds Pizza & Wings
+italian,Tk2dSL0TwQeI_zNJmb442A,0.90625,Luke's of Chicago's
+italian,rrWhi2TL0smrbihvavZxcg,0.90243902439,Times Square Pizzeria
+italian,YBVQik4ySvAlvxobuFcXDA,0.733333333333,Streets of New York
+italian,v6zRA0WqOODJjmpvstrpGQ,0.764705882353,Neapolitan Wood Fired Italian
+italian,XkNQVTkCEzBrq7OlRHI11Q,0.909090909091,Pizza a Metro
+italian,5ErKAS0rHOfU33CYjDh2Aw,0.833333333333,Pizza by Napoli
+italian,mFBBtUrWMqikBS-Jn-RiIw,0.900900900901,SOLO Trattoria
+italian,Jg3COi2_fHG7urLHTKvP1g,0.875,That's Italiano
+italian,jMzuQy104M0KU6uhdffsaQ,0.866666666667,Streets of New York
+italian,jq_YnMQjcArdBWuwRospFg,0.9375,Salute Ristorante Italiano
+italian,dsMvINhoQbIQgSRTBv2B6g,0.923913043478,Caffe Boa Ahwatukee
+italian,DlCtdbceo4YNSI53cCL2lg,0.954022988506,The Old Spaghetti Factory
+italian,YldXB1hRpnE1CWLF3mvgpQ,0.911949685535,Spinato's Pizza
+italian,6j4hcNnLcDSWBwAdCi1mMQ,1.0,Cafe La Bella
+italian,QSCeI8HdUluG-YmbDWo-fw,0.85,Streets of New York
+italian,4iRPMiDQQWFA0IS8lWce0Q,0.8,The Italian Spoon
+italian,EfmR4e1tmjC5_ZQOgfnYrg,0.838095238095,Roma Garden Ristorante
+italian,auorqdHiATGZHVd-sd79ZQ,0.921875,Pizza Heaven Bistro
+italian,rGHktXbee4CErLsMrPqbrA,1.0,Streets of New York
+italian,xr2szu7jYIWbj4tlKef61w,0.947368421053,Pezzano's Pizza
+italian,YxT-QYCAfg_jaS0g6Xx0Bw,0.864864864865,Cafe Roma
+italian,lHKS896yFkmAuWyFnbNP3A,0.833333333333,King Solomon's Pizza
+italian,3CSaqRNvYg7ZdN2zwxwzVw,0.862068965517,Christos Ristorante
+italian,BPi1Q5wX0_o5VlO_XRyYuQ,0.912371134021,Pizzeria Bianco
+italian,oinZM9-d2n5NvGuxvatDWA,0.933333333333,Ray's Pizza
+italian,0AZiq_OMKs3I9lTmwd5PSg,0.90243902439,Tommy V's Osteria and Pizzeria
+italian,N_n2jyCfpon3NzKERYT02Q,0.9375,Pizza People Food Truck
+italian,t-uJbFctqW2eGtlAIAI60g,0.962025316456,Gasper's Casual Italian Dining and Pizzeria
+italian,IpqgfODLFPww-6TxCk-LJQ,1.0,Daniel's Italian Cuisine
+italian,i0W4TZcoRbOYeRfDfQEX8g,0.829268292683,Rinaldi's Italian Deli
+italian,HAMKYsgtJ6fEBUZzTMhZwA,0.96875,Barro's Pizza
+italian,ubfD6-I73lP00v0fkx-keQ,0.882352941176,Anzios Italian Restaurant
+italian,e34tIpveepWkpvOuv_boqw,0.923076923077,Centurion
+italian,igD5We_87JFrtaaR7bh_Xg,0.885245901639,Belfiore's Italian Ristorante
+italian,3Y4Bd9eWVMsgejx2bP3MVw,0.921052631579,Spasso Pizza & Mozzarella Bar
+italian,fWjyVcu7IP3hl6u5VG2RQw,1.0,Carmine's Little Italy Pizza & Pasta
+italian,dG7KLQ1a584wI5jSADIPIg,0.923076923077,Florencia Pizza Bistro
+italian,1xu5wFd0TeBg6xNBiRtknw,0.818181818182,Dolce Espresso Video Coffee Bar
+italian,lBxBzvqWaiO4pa3YHh2dyQ,0.846153846154,Our Family's Bistro
+italian,bDSqqGGzbglvJ0HkIW5j4Q,0.846153846154,Miami Cafe
+italian,w5XcgWwGAN21Ly2HeU48IQ,0.89552238806,Sauce Pizza & WIne
+italian,5_Il_eOuwOMMoiT8jGBxyQ,0.926470588235,Il Posto
+italian,R7SVavAsjzN3wy825PiOEg,1.0,Papa John's Pizza
+italian,wCi6nBXnXf5PAHqJZP9dqA,0.965517241379,Fiorella's
+italian,R2FuwuSjmyvzNWNfqzKUvw,0.87012987013,Sauce
+italian,TLNP-IQrHw1PGu3w_qbhuA,0.8,Zella's Pizza And Cheesesteaks
+italian,XfVGU6WGZKc867spn2TImw,0.936936936937,Pomo Pizzeria Napoletana
+italian,O4E5IXT6zVJ3VpbYHqxRug,0.909090909091,Pizza Mia
+mexican,_nypuc5Ke462rFWKoZ_bDw,1.0,El Nuevo Taquito
+mexican,Hn7f_Gh5ffvns_7nU4Wqxg,0.892857142857,Tortas el Rey
+mexican,aXRtJioBYidoHdS2GTTKhA,0.913580246914,Fuego CityScape
+mexican,_Nx8hwTmjR_x62Byjav0Ew,0.777777777778,La Olmeca Restaurant
+mexican,lRzoAhDhcyCeOGrWntXqsw,1.0,Julioberto's
+mexican,wdEnI9WTLHiqSCH1RdJ40w,0.875,Los Armandos
+mexican,s_rPbgLOpWDgulVn9wd7GQ,1.0,Chuy's Mesquite Broiler
+mexican,dnhQaZ4wpLPwSfCleCILTg,0.9,Carte Blanche Gourmet Taco
+mexican,oiLe3lqMFaZtsSpRuIUChw,0.972972972973,Las Glorias Grill
+mexican,SAIgLz6EI7vJ9AkxjvpIeg,1.0,Tacos La Lomita
+mexican,oEjdNvlluW5_Ng9kewJFBg,0.888888888889,Chevys Fresh Mex Restaurant
+mexican,YD0oiqWZyAi-lMw3TQ2TqA,0.75,Tortas Paquime
+mexican,v3_CQRKezq3JdX-xxWambA,0.777777777778,Pancho Taqueria
+mexican,OT0gFIAr_c-d3i-IQ6TZQg,0.941176470588,Baja Fresh Mexican Grill
+mexican,rAb_wfdKKPPbcIysjYcW4A,1.0,Pozoleria Guerrero
+mexican,IdnYOlL9aDfMu_S2kcaUkQ,0.896774193548,Richardson's
+mexican,eP2WTbTQDCLj6FPNd6Il5Q,1.0,Taco Del Mar
+mexican,XIeteOw2pKgLiOP6_VzWzA,0.846153846154,La Oaxaquena Mexican Restaurant
+mexican,wRYdSL-AI47fPW78Bh4Hww,1.0,Fiesta Grill
+mexican,4XJ8gO6cbS6PuZ9dzPsrBg,0.666666666667,Taco Bell
+mexican,8nk--14Irg9PtpQLWg4peg,0.785714285714,La Canasta
+mexican,1kMR_HUA8i-wYOJFZfLhBA,1.0,32nd Cafe
+mexican,ib-y5nsfn3unE0lLY1vfAw,0.895161290323,Arriba Mexican Grill
+mexican,-UT6IHfVW_2yzz1bf8WI5g,0.913043478261,Tediberto's
+mexican,t0HV1S6uhBxLB5IyZC5hMQ,0.9,La Cocina Economica
+mexican,HbzAtY5PD6rMifst65PzQg,0.75,On The Border Mexican Grill & Cantina
+mexican,7_y_M5wRaSvNXt-q4xvlEQ,0.875,La Canasta Capitolio
+mexican,4BcuZj2ETMxUs48PLPwKxQ,0.75,Hal O. Peno's Mexican Cafe
+mexican,JobP0ghILdh8S8l-LhHHxQ,0.818181818182,Armando's Mexican Food
+mexican,zAoFrUwRVdSrvYWNB5e5Jw,0.882352941176,Taberna Del Tequileria
+mexican,eHC_xNrT1SkJyC2oncJlhw,0.926605504587,Asi Es La Vida
+mexican,WxpCYziMlEy8mrEa_VcB1w,0.894736842105,La Parrilla Suiza
+mexican,24OmQWFTnbfGv-e8GyEMAw,0.890756302521,Z'Tejas Grill
+mexican,VudqspJ-zQIlYRBTANgdzQ,0.833333333333,Taco Bell
+mexican,ccC2ecxVEOF4t_kKce6f8Q,0.9,El Pollo Loco
+mexican,dKNLqQWUoWkEp0nF0Y8GYA,0.75,El Portal
+mexican,lHFsO4nIwwgjC_oQYqfAPg,0.875,Ramiro's Mexican Food
+mexican,1NZLxU5WvB5roPFzneAlLw,0.917293233083,Barrio Café
+mexican,WzhHlaEyaHE4KIFfcqC_9g,0.842105263158,Filiberto's Mexican Food Restaurant
+mexican,fE0zuDxZrJlQ7H91eY6UYA,0.933333333333,Chipotle Mexican Grill
+mexican,-dunP-FvJHpQmx5qt5Qoqg,0.84375,Popo's Fiesta Del Sol
+mexican,Dcs_jLOlNXd96LarVInFgg,1.0,Federico's Mexican Food
+mexican,ieYiA4L5gk7S3kZYK0l_dg,0.929411764706,Carlos O'Brien's
+mexican,Wxt6FGF4vxsnKYksMZRoiA,0.952380952381,Los Alamos Mexican Food
+mexican,rkzTvFSQoylgVc2oYohuDg,0.75,Santanas Mexican Food
+mexican,YaB2hKgWUaqAWnCA6YWD7g,0.833333333333,El Pollo Loco
+mexican,hWhVP-28LYP3llaMlAJ_JA,0.908333333333,Rosita's Place
+mexican,LE-1ZOsjpPh7p95H2l5Fww,0.857142857143,Federicos Mexican Food
+mexican,SbieCdRBz33V_Hl0sU8HFg,0.8,Filiberto's Mexican Rest
+mexican,FG7Js2aMD6NtMMRI0C8Arw,0.9375,Rubio's Fresh Mexican Grill
+mexican,X0BsBdPGAyo9gLPIRJ9PFw,0.9,La Salsita's Mexican Food
+mexican,T6dbW2UuWTKar_22zbbiUw,0.958333333333,Polibertos
+mexican,r2S4arkHyRcUroRhggMIoA,0.961538461538,Revo Burrito
+mexican,LQGQ1w4pYrf5in6LrU0BlQ,0.941176470588,La Piñata
+mexican,wiNH-zH233_zQXKLMVlqeQ,1.0,Del Taco
+mexican,BbasiqJzUlZtldb0r7RvBQ,1.0,Romero's Mexican Food
+mexican,5UBAWhxukaPrc_0DalT-3w,1.0,Taco Bell
+mexican,iOITnizWLD3NlKxRtZd5AA,0.96,Rubio's Fresh Mexican Grill
+mexican,8s392ZpX8dfO5Ol2RdQISQ,1.0,El Pollo Loco
+mexican,FgAkF7fscCV4TmBitdsbLw,0.833333333333,La Canasta
+mexican,glalhJa7wFWPIoJLBvKGfQ,0.896551724138,The Original Garcia's
+mexican,I9klG3s-47t3zVLGoMkYOA,0.833333333333,Filiberto's
+mexican,Q2FaJ3zB6ZuGgvqUqhdc_w,0.899224806202,Milagro Grill
+mexican,5EWVJZd9cSAMwkrwgOFd6Q,0.875,El Gran Taco
+mexican,K9fIADfO_zKFPFm75A1Hxw,0.875,Taco Bell
+mexican,d2jNFmvjq-bi8MAd9dBzCw,1.0,Filiberto's
+mexican,ZRqpSeZEw6sy8r01TdCudQ,1.0,Salsas Y Sombreros
+mexican,ZQdSGPdEGXPbCWrmJSNm-Q,1.0,Oaxaca Restaurant
+mexican,DlLduXXSwjkm7OL4Z1iH1A,0.823529411765,Federicos Mexican Food
+mexican,UNFcMOWOsr9ilM6lqXIC6w,0.923076923077,Del Taco
+mexican,6YH9ezAC31gbpnT3bnZAsQ,1.0,La 15 Y Salsas
+mexican,2Yn5IgbAOtc7_bT0g47bQA,0.833333333333,Taco Bell
+mexican,E3RjJH45EX6rHYDs0TYSRA,0.913043478261,Valle Luna
+mexican,zp713qNhx8d9KCJJnrw1xA,0.903017241379,La Santisima Gourmet Taco Shop
+mexican,mNjLNTOXSckssvYNn-ZFjg,1.0,Ramiro's Mexican Food
+mexican,j6VY9UwaQCiEWfQtNyEouQ,1.0,Panaderia Y Tortilleria
+mexican,WnJ9xlxdJwMti7blz4d45w,0.869565217391,CC'S Mesquite Broiler
+mexican,-szHsdbd5-J0by2d62T3Hg,1.0,Pollo Correteado Restuarant El
+mexican,1cGZU2gDewDfEu-bBMZEgQ,0.941176470588,Los Betos Mexican Food
+mexican,2rMf09C5uXzF2qIlD5F5BA,0.894230769231,Secreto
+mexican,gw-V13MyfzFaCTbALfnn2Q,0.84,El Mesquite Restaurant
+mexican,SmX_sTfTI4Hhyj8Rbf9teg,0.909090909091,Los Burritos
+mexican,50dKrWfqdotEddX-mCzypA,1.0,Taco Bell
+mexican,RGFKaBRV_HO-ZJb_euKdhQ,0.833333333333,El Chiltepin Mexican Food
+mexican,g1BQtMfpjrQCVGPWogvjow,0.909090909091,Rita's Mexican Food
+mexican,X84kGyCyBbPDhIb_l-N3xw,1.0,Angelinas Mexican Food
+mexican,oyzxIqrtzu-8sWlPhJVsLw,0.918660287081,Carolina's
+mexican,KGX7O-_WqOIy9o7u9NOa9A,0.928571428571,Sonora Mesquite Grill
+mexican,8dlyEiypNYB0sVfdzQll3A,1.0,Tacos Sahuayo
+mexican,neGAQFkBNI8-rpPBLBzNkw,1.0,Taco Bell
+mexican,CjFaf6r6iP1xcKcChKDgKA,1.0,Baja Fresh
+mexican,bzQPFOLLxuwx7K7dw8j7Zw,0.931818181818,Cafe Los Dos Y Cantina
+mexican,JkxRvYg5hR1YsulxJhNNzg,0.8,Tacos La Lomita
+mexican,JqAI4UA2xXPYxvlhzG-i9A,0.8,Eribertos Mexican Food
+mexican,Ho1cBoj4aB7U0zJ4cAWHbA,0.75,La Sonorense Tortilla Factory
+mexican,XcwbN5fDlyl8qCttcdDGKA,0.857142857143,Rolberto's
+mexican,3msnZ6oe0sslHsE1js1QUA,1.0,Baja Fresh Mexican Grill
+mexican,EX5QAAciXEwOQ1xnFlVLAA,0.8,Taco Bell
+mexican,CqRoozwTWAz4ufcsiJBRSw,0.866666666667,Filiberto's
+mexican,0l9e2aBYZfogiSUyxJEL3Q,1.0,Manuel's Mexican Restaurant & Cantina
+mexican,pw80n0Tcq_PQSpVMmzfgeA,1.0,La Tradicion Restaurant
+mexican,fr_wn6YvyO3bJ5U4utetBw,1.0,Federico's Mexican Food
+mexican,lQSMn_SAIy5aBEKkqRtVYw,1.0,Baja Loco Mesquite Grill & Cantina
+mexican,rO3saNBRU2Pg16RyfEP6-g,0.903846153846,Otro Cafe
+mexican,6S3zqOG3NyYTc8r6LwvM7g,0.909090909091,Burrito Bandito
+mexican,KXvkoGg5Od9Iwk4LMBFJ4w,0.952380952381,Federico's Mexican Food
+mexican,-b_VjHZmA7-8LVWp6z36VA,0.92,Mim's Burger & Mexican Food
+mexican,UCEAhciqe8avW1N-bWJ32g,0.909090909091,Los Taquitos
+mexican,HRTg-u2fBf_XzBSUgd6sqQ,1.0,Mariscos Ensenada
+mexican,EKVrH21lOIRrXdLf-Dt5RQ,0.913043478261,Chipotle Mexican Grill
+mexican,axE3XDEO5VfY4OztDich4Q,0.8,Armando's Mexican Food
+mexican,gc-QI_gGpjYusuGzDub1lQ,1.0,Birrieria Obregon
+mexican,OllL0G9Kh_k1lx-2vrFDXQ,0.928571428571,America's Taco Shop
+mexican,vA8T8QXh78iSXhxShLNgQA,0.862068965517,Tradiciones
+mexican,srElnEXI8Qq7DpHquTI8HQ,0.827586206897,Oaxaca Restaurante Y Cantina
+mexican,QJP-bRQvtGvShgs4AnvZKw,0.95,Armando's Mexican Food
+mexican,90GJDqPDCOO6FBcnYXEQJg,1.0,El Mana Restaurant
+mexican,ZaS6zYn_Pb3QrGRZJfNyzA,0.916666666667,Del Taco
+mexican,6BXkb7kOhzk9cV7s09CkEQ,0.92,Plaza Bonita
+mexican,14NSxaXBNspIVnsrMYJZVw,0.912621359223,Poncho's Mexican Food
+mexican,gCQuajbLB3hQQbipYpEtYQ,1.0,Chuy's Mesquite Broiler
+mexican,PCThdYd_AbJed9hGDzpyUQ,1.0,Taqueria Y Birrieria Jalisco
+mexican,wUrTYqp9fHLJ8AR4lMxHGQ,0.912087912088,Blanco Tacos And Tequila
+mexican,lmVcr5vBW8DJ7NT7xezynA,0.888888888889,Del Taco
+mexican,UdEXv9VninWOB2iR0M-i7g,1.0,Pepe El Toro Mexican Food
+mexican,rDvz5jX65gpfONFu7er9Tw,0.909090909091,Los Taquitos
+mexican,M_GnuvRXvWBl3YNxH-GYFg,0.941176470588,Qdoba Mexican Grill
+mexican,RMzvWjF3K6GSnwBdRl-_ow,0.8,Rancho Papa Chulo's
+mexican,wqJ5dCAh2FGHEVtV1lGiEw,0.5,Torta Rica
+mexican,6Tt0mGKbMoAz1GsjkVhbMQ,0.940170940171,The Original Burrito Co
+mexican,flMu0Tz5RsaMzr6K8kg1EA,0.857142857143,Rolibertos Mexican Food
+mexican,BESmH-lmMm34_EefL8X9fQ,0.953020134228,Comedor Guadalajara
+mexican,1B5vpxnZYXKil_k5d5MpEQ,0.875,Taco Bell
+mexican,0HDkCZtCvua-Wahio1-pBw,1.0,Two Hippies Groovy Beach House
+mexican,swdtXYtuCTyh-DMq9wV5Jg,1.0,Picosito Mexican Grill
+mexican,DXBPI8rR9f_IthOGPDWoIQ,0.903225806452,Manuel's Mexican Restaurant
+mexican,sCa3a9H2Wz-HPL4NC8D3xA,1.0,Filibertos
+mexican,s87D-mtAuJ8BluKgYYsXGw,0.971428571429,El Nopalito
+mexican,tNdb_01AHU3O1_ISE2Mf1w,0.888888888889,Las Cazuelas Mexican Food Restaurant
+mexican,-j3BF7gOIi-1tAHoFA3WIw,0.941176470588,La Parilla Villa Catering
+mexican,od49_DFUJY9louGx80My-A,0.793103448276,Pancho's Mexican Buffet
+mexican,o3TruOSgOwNgx08QosuWTw,0.9375,Julioberto's
+mexican,he_b4txorHTrKjH5DnnmdQ,0.875,Tortas El Güero
+mexican,4pBklPWQZSeuj5xynAEOYg,1.0,Los Portales
+mexican,_-9pMxBWtG_x8l4rHWBasg,0.910112359551,Black Chile Mexican Grill
+mexican,tigIXsvKMb4xCiZP56oSPQ,0.733333333333,Taqueria Guadalajara
+mexican,M69oTpIJPnKyXRgR-crF6w,1.0,Taqueria Yaqui
+mexican,oa8lhYj-mTKlL_amkJSu2Q,0.818181818182,Mariscos Vuelve a La Vida
+mexican,7SoGPn8dvce7A1aHdBOGLA,0.916666666667,Mariscos Acapulco
+mexican,yh01KxH3_IVI3zn3MV3N2A,1.0,Birria Estilo Michoacan
+mexican,OrF48GFHheuCie9cMYkldA,0.857142857143,Amando's Bros
+mexican,qHjUo2foq-IXF6Tk1Iz3WQ,0.960526315789,Carlos O'Briens
+mexican,Yon-x99Dvu6e-NSlCd8iaw,0.866666666667,Mr Leno
+mexican,ShUDf64NVkwCe8izdUbYuw,1.0,Los Armandos Asadero Y Mariscos
+mexican,HRjDpeJOL02ZqwrYgtHV_A,0.833333333333,Mercado Y Carniceria Sepulved A
+mexican,G--jKQu95BxPI5r3aTiYhg,0.5,Aya & Peilas
+mexican,dgARnB68TOefhXvfV4iRdA,0.857142857143,Tacos Kissi
+mexican,d52zg-S0o940WUCK-nNiKw,0.909657320872,Carolina's Mexican Food
+mexican,rIpOpzVNEBNZrRFu4n_JvQ,1.0,San Gabriel Mexican Café
+mexican,l8v1GHaB4CsryK6MioZ21A,1.0,Taco Bell
+mexican,0_3hrGrrP-J5eeHRwQfZ6w,0.914285714286,Macayo's Mexican Kitchen
+mexican,kvRA6hu6FC51vBKY7Kp9GQ,0.857142857143,Loco Patron
+mexican,FljU76i8DYJbNlpibaieGw,0.9,Mariscos Chihuahua
+mexican,PYfbYi0M_q8sTmVBaocyow,1.0,El Pollo Loco
+mexican,cne0A4qlWtahuzUSdzdalQ,1.0,Taco Mex
+mexican,GePBM2lae-fkAKHcfbXafA,1.0,Tacos Chava
+mexican,XMYZk-YPCIUvOXffzVw_1g,1.0,El Nuevo Taquito
+mexican,Cp6JGY5YIRncTV_My9nf9g,0.913043478261,Mariscos Playa Hermosa
+mexican,xBCfrESSbroTjhVcRfG4NA,0.852459016393,Mi Pueblo
+mexican,SaIX7eay0vV-FxGPqTk1yA,0.888888888889,El Pollo Loco
+mexican,7Zo1DzdwZlGMxPu1AFMSsw,0.891304347826,Bajio Mexican Grill
+mexican,8jo2gkJRkQFJsKm7g0EQ6Q,0.869565217391,America's Taco Shop
+mexican,Np5XWa-SL9fpboELzJmemg,0.4,El Taco Feliz
+mexican,0hY0qoXHcI3czshcrZPpYg,1.0,Del Taco
+mexican,rr44srj5pxejML-W1Wx0IA,0.8,Taco Bell
+mexican,KVq-1WEJNKK2NqFC7nUoRg,0.828571428571,Asadero Toro
+mexican,qlV4BAbAvnAEomGj2gudlQ,1.0,Chuy's Mesquite Broiler
+mexican,gA5CuBxF-0CnOpGnryWJdQ,0.727272727273,La Paloma Mexican Food
+mexican,WEqppm3f_XWwUE58luAHNQ,1.0,filabertos
+mexican,X1jTnU6c9eloN2Bxs78uTg,1.0,Chipotle
+mexican,B8ujMtvvpHyEQ2r_QlAT2w,0.94623655914,Richardson's Cuisine of New Mexico
+mexican,vz2zQQSjy-NnnKLZzjjoxA,0.946902654867,Sylvia's La Canasta Mexican Restaurant
+mexican,oqZPXoenkQvAKQJ2pDCo0A,0.936170212766,Julio G's Tatum
+mexican,AjE4uM-VaGP3QPCjSjIEaw,1.0,Rubio's Fresh Mexican Grill
+mexican,5CWKlH0uyOUF5EZIyewMXg,0.833333333333,Chi Chi's Tacos
+mexican,fGZEYvCzqAiQEUYUMiq97g,1.0,Fresca's Mexican Grill
+mexican,85rx25T-XBIMpa6goTQS0g,1.0,Acapulco Mexican Grill
+mexican,vuTdngoxZdbJdbno8IK3Kw,0.884615384615,Rolando's Mexican Food
+mexican,soiGohHtWOltGeomkSxzEw,0.855855855856,Tee Pee Mexican Food
+mexican,2HHf0hiKtZm5nzt3irlaDA,0.866666666667,Pepe's Taco Villa
+mexican,-d1I0dwtCg1IIjnI3DZ38Q,0.875,Susie's Mexican Cafe & Lounge
+mexican,Zx8_4zKdDBSO3qGrkukBIA,0.934640522876,Chino Bandido
+mexican,3QtWG5sN3HJNBVKn_wHQEw,0.933333333333,Oaxaca Sky Harbor
+mexican,E2BMYajnI3USNpABFdBn6Q,0.909090909091,Macayo's Mexican Kitchen
+mexican,hkKvb6oXxn8ygoP5fFln1g,1.0,San Felipes Cantina
+mexican,qXyhCYV6cjojzy5rJKooMA,0.904761904762,Luncha Libre Gourmet Food Truck
+mexican,v1aLzjTphPc6IGIy9k96vg,0.873517786561,The Stand
+mexican,qw93CjlAZ6a4ff11Z-hF3Q,0.894736842105,Crescent Ballroom
+mexican,I20sRbcEK8Ib1YFQFMoERg,0.911111111111,El Norteño
+mexican,PzbEhqo8uz2D-3OchHIPzQ,0.861111111111,Eribertos Mexican Food
+mexican,4zBdx_EZFaDFJ9MvqxYNeg,1.0,Gorditas El Tio
+mexican,apCfJVnRyaw6oVUBKujpUQ,0.92700729927,La Tolteca Mexican Foods
+mexican,apEkYsUz31lI3tcJoC4HbA,0.9375,Garcia's Mexican Restaurants
+mexican,mTc8M-drs2HSG8paNUTTQg,0.666666666667,Julioberto's
+mexican,OPbWf_Dwzqda9sGVHQHtJw,1.0,Taco Bell
+mexican,nQUsMhT7qY6pPMvTT6xGcQ,0.859903381643,Los Dos Molinos
+mexican,yN5MaHx7AGNhLMgUaQu0cA,1.0,Filiberto's Mexican Food
+mexican,7UTlEVHU5v2xBLdkGghyzQ,1.0,Chuy's Mesquite Broiler
+mexican,6Z6bvIHGpPlwpkZAwfXT1w,1.0,Mariscos Vuelve a La Vida
+mexican,BD74uSwDe175zEqfppDRvg,0.898305084746,Valle Luna
+mexican,Xyrss3tjzUofEm-kZPus4A,0.867924528302,Mi Familia Mexican Food
+mexican,fsxBliRs4rwxRXkZUVy62A,0.947368421053,On The Border Mexican Grill & Cantina
+mexican,b5sP47L2NiBXqbsiOnR7cw,0.923076923077,Mariscos Altata
+mexican,o2vKya6WSNcMNTxAcJsF1g,1.0,El Pacifico Restaurante Y Pescaderia
+mexican,9dn3AMdwvD2KXnTr6AJY1g,0.98275862069,La Canasta Mexican Foods
+mexican,kIvIqHvvFOc6aCutFYIvNg,0.5,Taco Bell
+mexican,tyC0LaPJo3ct_0JEkTwZxw,0.6875,Filiberto's Mexican Food
+mexican,ZShuQrMfLOmnUQbLP3dwpw,0.913043478261,Los Compadres
+mexican,WCGU5Xn01lfNJG_LvEltzw,0.936170212766,Taco Guild
+mexican,GGhyhajTNKm5yTxtAoaxIw,1.0,Kokopelli Mexican Grill
+mexican,DarcQlLpQOqMxi3tsdffNw,1.0,El Goloso Hot Dogs
+mexican,i3nnQl4pl2-ogZJdeSqWvA,1.0,Los Kikos
+mexican,_CIodPGuvPP2khYkDk1jKw,0.888888888889,Taqueria Los Yaquis
+mexican,K2_Hmmo5crTYWiT_1sWnfQ,0.912280701754,Chipotle Mexican Grill
+mexican,Z7ZxtGvUKiKThSfnaTj-pw,0.909090909091,El Taco Tote
+mexican,Y293fHh5SZ0_9BZm4M6BCg,0.836734693878,Matador Restaurant
+mexican,tvyOw9dBJ-ds5fEXMTjzfQ,0.851851851852,Clarendon Kitchen + Bar C4
+mexican,Yl4wqDhNB-5TNURwQXoCFQ,1.0,Salsa Y Mas
+mexican,hZRLGfRrZTo9up2P-0aAHg,0.924528301887,Verde
+mexican,dD2xiLM1_5Vg0pMvMIPZww,0.6,Baja Fresh Mexican Grill Mexican Grill
+mexican,aS2aNPE861FI4dRrz1Z7Ow,0.825,Sir Veza's Taco Garage
+mexican,__CQhr0M-OpKdu0DXgGcaQ,1.0,Sylvia's La Canasta
+mexican,K8GqMhhVvz8pqq9F7sE-Sg,1.0,Sinaloa
+mexican,pAHUC05ceak48e745i6G4g,0.877118644068,Paradise Valley Burger Company
+mexican,PxUQyOAdK8c3P_WnrXuCUg,0.785714285714,El Rinconcito Mexican Food
+mexican,P9z62hMP-QAGQt406dylpA,0.846153846154,Two Hippies Beach House - Bell Road
+mexican,CFaRVxsnN4Zjf28cbORKIA,0.91095890411,Via Delosantos
+mexican,DDnmNTvIIQu2t3WZ2EQx-w,0.897674418605,Sierra Bonita Grill
+mexican,Bp9DYjh3_PnDOOG65SWRsQ,0.923076923077,Ketzal Mexican Grill
+mexican,ZN-RG7wkT8MLsmaTPzIW5g,0.875,Sabroso Fresh Mexican Grill
+mexican,RWTE0VWMs6i-JIaBRc9JZw,0.833333333333,Popo's Mexican Food
+mexican,cVejKU_SrdbvzIbQ4oPV0A,0.918032786885,Mi Patio Mexican Restaurant
+mexican,0K35eGvzVRZEirNo5v_WfA,0.931506849315,Ajo Al's Mexican Cafe
+mexican,XI-_Y2XRw03mozGx0Z90Gw,0.88,Baja Fresh Mexican Grill
+mexican,mBDhy9j4qwKRnf4h8UQnrQ,0.965517241379,Julio's Too
+mexican,o1W6gwCqnJqvdCenLWz5GA,0.875621890547,Gadzooks Enchiladas & Soup
+mexican,W9YAp6eFnl9bikN5Yh6_pg,1.0,Blanco Rapido
+mexican,JrIhyj-e3n77LeIOeErBJA,1.0,La Reina Michoacana
+mexican,Bv3g-9R5wUevZPP0jzihqg,1.0,Las Glorias Restaurant
+mexican,NYBx4sdSVrN-I5Q8RfLMPg,0.9,San Carlos Bay Seafood Restaurant
+mexican,bzDs0u8I-z231QVdIQWkrA,0.908284023669,Los Reyes De La Torta
+mexican,b9dv7Q0A8XcJ44zzTDJeYw,0.903225806452,Qdoba Mexican Grill
+mexican,ZI38b-iM_kHrOyjI5Pgrzw,1.0,Federico's Mexican Food
+mexican,-lOSaCuBRAvX5JBifx-EMw,0.817073170732,Mi Amigo's Mexican Grill
+mexican,VQmgq4Dwwej5AwnHBmDIAg,1.0,International House of Food
+mexican,4y9s1y8WxumJB9ypewvXCA,0.8,Los Cerritos
+mexican,Xo9Im4LmIhQrzJcO4R3ZbA,0.904109589041,Rito's Market & Mexican Take Out
+mexican,gg26wjL2eTRIvmdyb7RXAQ,1.0,Taco Bell
+mexican,ATeF8pmKd50Xx6Nkd_BsXw,1.0,Taco Bell
+mexican,1nsxori657cAx2hiyYb4rA,1.0,El Ranchero Mexican Restaurant
+mexican,edjCywtqffQ8__vM7POZbw,0.871794871795,Rubio's Fresh Mexican Grill
+mexican,8SjO3b-87uN2jXVXYNn47g,0.851851851852,Blanco
+mexican,4780MrclJEFGp8MDf9_U2g,1.0,Big Burrito Mexican Food
+mexican,10VZ8KEshqD5twjcmZ-eaw,0.875,El Portal Restaurant
+mexican,W-9YqWhkfeK-K3xGFvFeuw,0.75,Big Burrito
+mexican,G9LwkTSdKOyOGqd5BbuIkA,0.940639269406,Aunt Chilada's
+mexican,4NMElef11_YmVzxOpcsALg,0.862068965517,Pitic Restaurant
+mexican,psm1tqE9dxRWWictMCnLuQ,0.933333333333,Filibertos Mexican Food
+mexican,-sC66z4SO3tR7nFCjfQwuQ,0.893081761006,Gallo Blanco
+mexican,Fg5VkQsHRm7V1Hq9GEsUBg,0.903225806452,Chili's Grill & Bar
+mexican,nB3pytYdmzKWfNtXyfNrpQ,0.928571428571,The Tamale Store
+mexican,gKqsv37BaAT_jxfWgDlmVg,0.857142857143,Burrito Bandito III
+mexican,W010P4plDADjo2SFq3OvXA,0.908163265306,Modern Margarita
+mexican,iYr8t8RVPCiWABBO4I6HgA,0.823529411765,Del Taco
+mexican,LM9d5wQcVqh97g7qpCQ88A,0.909090909091,Lydias La Canasta  Mexican Restaurant
+mexican,pzJCv-ixgSL_z-46F74XrA,1.0,Taco Bell
+mexican,WOcf7AiIRL_wkYAnEF-vcw,0.75,Las Brazas
+mexican,4jxKmU2No9hGWCZuYPjeLQ,1.0,Taco Bell
+mexican,Yb2pNCxYR32XKmpirqJqeQ,0.875,Mi Pueblo Mexican Food
+mexican,D09yG6Z3gcsh24Qn7Y4gYA,0.949152542373,Chico's Tacos
+mexican,HLQ2dpyfLcva120pCSLvfA,0.928571428571,Humberto's Mexican Food
+mexican,5AQdjtfMzJYJe8A8rZU8Vw,0.8,Las Islas Del Capitan
+mexican,NnoEbaGnQa44CZE_A5tBTQ,1.0,Mama Lola's Tortillas
+mexican,aACW1qAdOfgcU8yX61dOFw,0.953488372093,Macayo's Mexican Kitchen
+mexican,BFZHdg2TRrgw56CyqkSryA,0.911504424779,Blue Agave Mexican Cantina
+mexican,uTW9SVXqxgjbnCTlEf9ONw,1.0,Rock-n-Taco
+mexican,wN_wAXWg8W94v04eqijy6g,0.897763578275,Tacos Atoyac
+mexican,TBTaMIaeDw5B79hXDZBtrA,0.769230769231,El Pollo Loco
+mexican,CHMSC8bSjXttB9Ei0scc_g,1.0,La Carreta De Lily
+mexican,mW1gB2DmBe__AEVgCoTgjw,1.0,Filiberto's Mexican Food
+mexican,ZOROJ4IV6V2sEAmh0v-w2A,0.90625,Tortas Paquime
+mexican,KYbkCDAxScIuknxsp67oUw,0.913043478261,Rubio's Fresh Mexican Grill
+mexican,xdv2kvaZodkWvTSV6pSSpA,0.893617021277,La Barquita
+mexican,KnLsrf4P9GkWYLNRQLUgsA,0.897435897436,Gordas Baja Taco
+mexican,5kRug3bEienrpovtPRVVwg,0.895027624309,Rokerij
+mexican,1nq6zzJuVgwaHtXau97_Iw,0.863636363636,Asadero Norte De Sonora
+mexican,ZD8xAsXsj8FRunJOP4fSrQ,1.0,Taco Feliz Mexican Food
+mexican,9N7E_6xGBmVZ6IETuTg03w,0.933333333333,Qdoba Mexican Grill
+mexican,9Y5kXneSwv-l-8TODZWQAQ,0.875,Taco Bell
+mexican,9BJ5h9X1krpXFjKj0a6wbg,0.907514450867,Dick's Hideaway
+mexican,b-t3nNmRw6alKw4aSqAgPg,0.876288659794,Los Dos Molinos
+mexican,kPh2gPvd8moVx6gNf2iHsA,0.878787878788,Taberna del Tequila
+mexican,TgxDGx7L_JICWbuBUCGVqw,0.930434782609,Fajitas A Sizzlin Celebration
+mexican,69t2S1u7Rf6qM_c14b42xQ,0.820512820513,Manuel's Mexican Restaurant
+mexican,iyc8liplbJCVxSl9mvel0A,1.0,Taco Bell
+mexican,d2AeNB4xw67E1Bzpo1Pm7Q,0.823529411765,AZTECA Bakeries & Restaurant
+mexican,McdTNj-TUMOlfkHwQWs4rg,1.0,Tacos Mexico
+mexican,V5w1ThWfQdolgzIL3rWPTg,0.857142857143,Filibertos Mexican Restaurant
+mexican,-vaGR2CXNS4NZrMdctSkGA,0.964285714286,Los Reyes de la Torta
+mexican,ZcgzyGf-cAgc0JxFklpZLA,0.75,Mr. Triny Sonora Hot Dogs
+mexican,_oylByc6iTONI5lokMfYHQ,0.777777777778,Armando's Mexican Food
+mexican,grk9RANQRR-IZouPFP3kgA,0.846153846154,La Tortotota
+mexican,pARpNmERH5UNb9Sa3XQ7vA,0.833333333333,Uno Mas Mexican Grill
+mexican,pLFxPgDiBJwJqgKlEEVw1g,0.839285714286,Lenero Mexican Grill
+mexican,uevPN8zwJpBpnxRur1jUhw,0.927272727273,Don Jose Mexican Food
+mexican,VlG9qxAc4d0em2djaU__xw,0.848484848485,Jordan's Mexican Food
+mexican,N7oUi6aM01UlvrsIcTSqmg,0.958333333333,Rubio's Fresh Mexican Grill
+mexican,YxLiLBNTm4cOg7OlKKLmVw,0.905982905983,Arriba Mexican Grill
+mexican,scr5gHaPC_36GtaCxmJEHA,0.96,Caramba Fresh Mexican Food
+mexican,e5kc0CQ4R-PCCDgb274gSg,0.93063583815,Canyon Cafe
+mexican,ho4Te6bO2tGs56h9PF2vuA,0.891891891892,Los Dos Molinos
+mexican,KIbFaBrZDX7rrYJInkv5Kg,1.0,Del Taco
+mexican,3l72FflaaeI0tWEAWN3-gQ,0.921383647799,America's Taco Shop
+mexican,I7IfnWW1nXljC4ZGqwPe-w,0.912087912088,Manuel's Mexican Restaurant
+mexican,eK6KGMKqU_4nB9RdayZD7Q,0.894736842105,Tee Pee Tap Room
+mexican,aVYFrGg51X0CD813ZkAb8Q,1.0,Dora's Kitchen
+mexican,pqnA2OyZelTuy46EV8VgEA,1.0,Corona Urban Cantina
+mexican,ydnc0p_oPL80BBKJNZGw_Q,0.714285714286,Ramiros Mexican Food
+mexican,oWb5JjxoPaFSmpGwJ3-Ntg,0.898305084746,Blue Burrito Grille
+mexican,RIP8nL2Gbiu0zb-nCgZnpw,0.947368421053,Chipotle Mexican Grill
+mexican,KSKlspZY6FqTuYZvNbkecQ,0.5,La Huasteca Mexican Foods
+mexican,FTFxgoq7-4VhulbrtKFIJw,1.0,Tacos La Hacienda
+mexican,tIuw93p4MEsL2iFv7-0WDg,1.0,Filiberto's
+mexican,VKxn7zmp8nOYT-ZHFZTjgA,0.909090909091,Mariscos Ensenada
+mexican,QNo69O4cy6a3HGb6RrGWzA,0.818181818182,Roberto's Mexican Food
+mexican,GGXtuLHpWWhkUpVynhFHWw,1.0,Taco Bell
+mexican,hLAWdi804nVfTLF7T0rB1Q,1.0,La Salsita
+mexican,6TWRuHn24DL6vnW8Uyu4Vw,0.851063829787,Chipotle
+mexican,RRg-Ju8NjcbB8Sm0OR0HEA,1.0,Maya Mexican Antonjitos Snacks
+mexican,0NlTmTzKYXbE6Hx2iGEb5A,0.875,El Encanto DOS
+mexican,i4X_iu_29PkhL2zsIRpueQ,1.0,Los DOS Amigos Restaurant
+mexican,H-02hZPbb7R6jfX2NgFH7Q,0.866666666667,Garcia's Mexican Restaurant
+mexican,9xsmSRFD8riQF7UCBrD88g,0.923076923077,La Parrilla Suiza
+mexican,KBoN62BQPvTVmcRz-Rb81Q,0.875,Cocina 10
+mexican,9NT8Ne1DICkv0ebX-gVK5g,0.95652173913,Filiberto's Mexican Food
+mexican,pGrcODntgStT2ffCcHgmCg,0.666666666667,Tortas El Tri
+mexican,Ddsln32r-uA7hq_0ksaNZA,0.869565217391,Julioberto's
+mexican,sH17KGxbMVrlr66n92Qh8g,1.0,Del Taco
+mexican,QGZiJsrHVKFO_B3GLkph8A,0.918918918919,Top Shelf
+mexican,6cy2C9aBXUwkrh4bY1DApw,0.925925925926,Regio's Mexican Food
+mexican,JaNp5Cp-Bz3D5nMuzqpAAQ,0.95652173913,Poblano
+mexican,QdlLtW6YAaDOFKihURosYQ,1.0,Garcia's Mexican Restaurants
+mexican,flUKBy7WHqYdfOrwU1A2SA,0.896551724138,El Bravo
+mexican,DeAnVirgOxQnI36V1W158A,0.883720930233,Juan's Authentic Mexican Food
+mexican,HHFjjljqoH5qs7Cy1i9R4A,1.0,Filiberto's Mexican Food
+mexican,LbcDWyqGgQdlwWfGO-whMw,0.876033057851,Barrio Cafe
+mexican,fX2WvzDikMVd0wDzdDOLkw,0.826086956522,El Conquistador
+mexican,11TvD4sCfA8GEqLDANpbSQ,0.923076923077,Los Jarritos Restaurant
+mexican,9BJYR2o_PSniFnHTxpY1cw,0.8,Mariscos Ensenada 7
+mexican,eZXAQxBXReD78AWWf0_4ZA,0.9375,Tacos Sonora Grill
+mexican,04HakCR6gEeRYNAoKxkppQ,1.0,Hacienda Restaurant
+mexican,UPbkeVTJR6C-1I7sCuUrmw,0.777777777778,El Mas Sabroso Mexican Food
+mexican,cgNIBHS2mLdbTRiodAT6EQ,0.862068965517,Tacos De Juarez
+mexican,A3lInLxP3KOECWPjQO9k6A,0.897959183673,Blanco Tacos And Tequila
+mexican,NBwPgX7L2D-EZedgo3A-pw,0.861111111111,Gil's Taste of Taos
+mexican,DRekXCjdmPESqDpwaQ0x2w,1.0,Tortas Paquime
+mexican,uBE07bU2QxgJ5jAMjPj2jA,1.0,Corazon Mexican Cocina
+mexican,O6-ZPDz_W_NwkCyf3UoPiw,1.0,Oasis Raspados
+mexican,ZhwoNt7dU6iA_wKmwe6qQA,1.0,Filiberto's Mexican Food
+mexican,5MlUPatQxg4GZhkPwGIvrQ,1.0,3 Margaritas
+mexican,adPVJMkRrS8_3VHQKw5-qw,1.0,La Frontera
+mexican,8_mbjbTK_Ci3DljpzdipuA,0.714285714286,La Salsitas
+mexican,4Hi-45RQRl2FOkPhEgNTnA,0.857142857143,Two Hippies Beach House
+mexican,oMycF1cQgR1UVkafXfof7A,0.981818181818,Tortas El Guero
+mexican,WPSM_oTPceoSnwqQWfAsdg,0.913043478261,Qdoba Mexican Grill
+mexican,CFdPTWukph1ownRkLiglJg,0.95652173913,Jesters Mexican Grill
+mexican,cQZcWeIDKEF-7nWU3gJMUw,0.857142857143,Cafe Rio Mexican Grill
+mexican,6nseTZb6WrGWcithRThfag,0.906474820144,Padre's Modern Mexican Cuisine
+mexican,2MM1zXQotfBkW4YRMPY-ZA,0.75,Ketzal Mexican Grill
+mexican,syxUZu1GrJv0LYnV38hMug,1.0,Losbetos Mexican Food
+mexican,CHCm6hbR4KSstbifFdCOpw,0.916666666667,Humberto's Mexican Food
+mexican,N-DFmcKLm5BxleZJGoJ-dg,1.0,Nogales Hot Dogs
+mexican,j0cSJ3AX6bKM9MmwQOSy1A,0.666666666667,Taco Bell
+mexican,x8WoC_7WHzXNmt6J13Nbvw,1.0,Jordan's Mexican Food
+mexican,I4uDkxbTLt5l1JFkcG1e7g,1.0,Ta'Carbon
+mexican,WYk91WPklqRWuk9z9DsPDw,0.912280701754,Vitamin T
+mexican,Ctac9HGdCAABBpAL0sycHQ,0.666666666667,Chayo's Mexican Kitchen
+mexican,2DOJ2GyphXQf_f3OKJEPzw,0.923076923077,El Bravo
+mexican,vYEUEID47mgenrTBsvL9Xw,0.9,El Patron
+mexican,W9oFbcGKloLUpuALxzcQdw,0.666666666667,Taco Bell
+mexican,GoWTsb8sGyJ026a3cbw03Q,0.875,Vaqueros Carne Asada
+mexican,qlrZzAktK8wODSHxhLEK7w,0.90625,Two Hippies Beach House Outrageous Tacos and Burritos
+mexican,aZe9f7korrhFTNMPxVbMXA,1.0,Vaquero's Carne Asada
+mexican,BM0-dgPJMBMmcmO9PVCJfQ,0.914893617021,Los Compadres Mexican Food
+mexican,A6OstDz-flrI84-EW8aILg,0.916666666667,Chuy's Mesquite Broiler
+mexican,jzPMl-NoB5F2fwoHX3hN8A,0.824074074074,Macayo's Mexican Kitchen
+mexican,uaOePMfZb9v7fpzzxafnWg,1.0,Salsitas
+mexican,jtqPBGcsvmKI7VeHLG0KsQ,0.886363636364,Barrio Cantina & Grill
+chinese,atbvu3MxnDgpQfZgvPZz2Q,1.0,Red Dragon Chinese and Mexican Food
+chinese,JmKgenzB37i3xcK0rJkDmQ,0.95,Great Wall Buffet
+chinese,Zx8_4zKdDBSO3qGrkukBIA,0.934640522876,Chino Bandido
+chinese,ljv9jlYXFm_MzI9WmXc8EA,0.903225806452,Asia Lee Chinese Restaurant
+chinese,TxDKDFQ3ovgzTaNcqKf2Uw,0.904761904762,Li's Bowl
+chinese,0db71MbrvcJnyk71COCJBg,0.909090909091,Great Wall Cuisine
+chinese,EWnSPExh_T5zTv6oMJOC5g,0.942857142857,Mr Chao's Asian Bistro
+chinese,kCjR5nLyphuNKnDqRjurXQ,0.972972972973,New China Super Buffet
+chinese,PsuvqWNmLBU8ABkch2d9vA,0.891891891892,COFCO Chinese Culture Center
+chinese,qrapwnls-3IMg-iaXhkQKw,1.0,Canton Wong #8
+chinese,-3WVw1TNQbPBzaKCaQQ1AQ,0.970588235294,China Chili
+chinese,pwsPmCKDMJQ9jTpdQFjFTA,1.0,Ninja Bowl
+chinese,Wns0UP_28xk6uZ-b6LrMnQ,1.0,New China Buffet
+chinese,bexPpkHMthuCaeC0g0Lrfg,0.857142857143,Panda Express
+chinese,Pv1H9KIGZTDgSaCDuTUjdQ,1.0,North China Restaurant
+chinese,VTFx4ADDP6nPnlcMHB1-Ow,1.0,Panda Express
+chinese,FjSttKipz44vRwKpPwhh-Q,0.972222222222,Hibachi Grill & Supreme Buffet
+chinese,BT2Vls7h6sWrCKa5gGXbKg,0.914893617021,Long Wong's Restaurant
+chinese,4_xxWpQKhBWhAOvfVPmFXQ,0.972972972973,Yan's Chinese Food #2
+chinese,Co-sJv4GNxILkF79ZMLq-Q,1.0,Panda Express
+chinese,KRqtYdnDpwqYfWkFhZYjow,0.866666666667,Wang Express
+chinese,PkBqPU83bf1zArumGVHqcw,0.904761904762,Bamboo China Restaurant
+chinese,Gly54cM3avJg9n2F0l8V-g,1.0,Panda Express
+chinese,FF5ztq7j7RWGIhpw1XB1zg,1.0,Garden Express
+chinese,2unQHR9uaRxk3dsW6f3MGA,0.863636363636,Lao Ching Hing
+chinese,a4wVLeSHNSHyGGbanNuCUg,1.0,Chen Wok Express
+chinese,C0Oax-LBEFf0mmPSugymEQ,0.928571428571,Lim's Chinese Restaurant
+chinese,F3SEkW6v2LJ5y6Ldo5pPaw,0.882352941176,Super Dragon
+chinese,8ZQc4awuK6_yvcERvczR5g,0.944444444444,Hong Kong Express
+chinese,oMtqDDzpMcFrQwHfeYc1iA,0.92,Dragon Bowl
+chinese,WJ7rJxbkXqr62koXzR8tXg,0.8,China Buffet
+chinese,q87ZzD_fNl5wtFoj8rbWbA,1.0,Panda Express
+chinese,nW_1gn19lMnS9IF1KlZ-aA,1.0,Pick Up Stix
+chinese,dCjIsHdc-IoOmfMt7qqZJA,0.75,Chinese Gourmet Buffet
+chinese,AYAb0qJX5wuT2sRtz4CjpA,1.0,The Wok Express
+chinese,EqyNGesG22jNfNT5pmfYgw,0.944444444444,Shangri-La Chinese
+chinese,uFwC7N9APy8oTjhda3p9lw,0.96,Asian Cafe
+chinese,LYCaveWFti6kUHpMzYKLjA,1.0,Big Heng
+chinese,RIPnl1BAUaY2rSW8cPuQWQ,0.8,Star Wok
+chinese,tvBC1FNxX_quNv-4IkGzQw,0.918918918919,101 Asian Buffet
+chinese,4nWKKGZGFc4nWUbJTunMAw,1.0,Asian Seafood Buffet
+chinese,naUFPFYH2CqHtTrV3IAJrQ,0.9,Crown China Super Buffet
+chinese,r3HWH8XeoV9uohlcrwrMSw,0.901234567901,Sun Asian Kitchen
+chinese,Xsl-i1otDd3GXJEkkKJCaw,0.884615384615,Diamond's Chinese Restaurant
+chinese,2CcO6bTk9Fs3sAwodab3-w,0.833333333333,Hong Kong Chinese Cuisine
+chinese,GNZuoHxehd_3Kej7eXj8iQ,0.958333333333,Good China Restaurant
+chinese,9LWHrYjDQNjFSNH6VbSFrg,0.961538461538,Ming's Pagoda
+chinese,3tk6Syyz5i967Ifuz_4o3w,0.913043478261,Oriental Express
+chinese,ykfTh6HI219NoMsWBxulxw,0.876712328767,Gourmet House of Hong Kong
+chinese,NQepW13jaKEaADHUDOtkMg,0.909090909091,Beijing Garden Chinese
+chinese,Y-pihdjUgiOrwYHgWd29tg,1.0,Panda Express
+chinese,ai4e0PDmLLrlieV1oeo3XA,1.0,Shanghai Express
+chinese,6FGwEHnoD-mM-PiXrhxOlw,0.948717948718,Great Wok
+chinese,En4UyDiGgmQuWq__50RAgA,0.8125,Great China Super Buffet
+chinese,Vb1tNz0Tlm1q41A4gjY-cg,0.666666666667,Great Wall Buffet Two Corporation
+chinese,sMD2HPNh7m0hgCxHDzGTzQ,0.916666666667,Golden Coin
+chinese,TqVjy0dxvNh51BF9KePCoQ,1.0,Chen & Wok
+chinese,7pxa5tueoEcmt6hztqsz2A,0.858974358974,Pei Wei Asian Diner
+chinese,dxAlupwjiQH91m4cE9a17g,0.844827586207,Wahsun Chinese Restaurant
+chinese,XHzZgNmJFVHeT3unDg2Qig,0.895161290323,The Clever Koi
+chinese,R7YlKfLpoFDAJQB9hBcQJA,0.954545454545,China Restaurant
+chinese,0LBv0QQK9L6ArPkO4eXjJA,0.866666666667,Hong Kong Kitchen 3
+chinese,nLpV9fo8xml-QHOKyOje2A,1.0,Panda Express
+chinese,-7XuLxfYwZ9x72mEKXdv0A,1.0,Lin's Golden Chinese Restaurant
+chinese,Xr0SQ1i6vHgT0RBZfyzJ8Q,0.972222222222,Lucky Kitchen
+chinese,PxqufEwqzIHAbQGRdZ3bUw,0.909090909091,Pei Wei Asian Diner
+chinese,aqD66Sve2mE4cq021LWQmA,1.0,Segal's Oasis Grill
+chinese,FJgO8d_Lx0P1A0KOiRfuFg,0.75,China Buffet 2000
+chinese,-Ogv7rpcgUHkFaSy3vD8Sw,0.97619047619,Hong Kong Gourmet Buffet
+chinese,lAGDe38li38fyf971CslFg,0.911392405063,Dragon Palace
+chinese,3D8thbL2D2c3qTMeYROAOQ,0.903225806452,Hsin Cafe
+chinese,3DMvGD8ZmlMQmhwV66hdSA,0.85,China Village
+chinese,lbECi2rbJPZWzHdmrC9xAA,1.0,Abacus Inn Chinese Restaurant
+chinese,cuxqnMMmbBV0iE2KJJy60Q,1.0,A A Wok
+chinese,QAUDLYNxhHGdUn5YP7au_w,0.833333333333,China Star Super Buffet
+chinese,VDUwU8bHmeGgtJpe-rz3bQ,0.846153846154,Yunan Wok
+chinese,Hlu6geDGG44x_Vk9sP_-Vg,1.0,Panda Express
+chinese,SPqPt-K6qzTutj_vWOgKGA,0.777777777778,Marcia's Long Wongs
+chinese,51iJ7zyvay9N_COWV0is_g,1.0,Mister Wong
+chinese,yCQ2KC8OETCyQDCRw7mXrg,0.857142857143,Golden China
+chinese,VWJqohlU4cXYIpNwYQY-wg,0.777777777778,Flo's Shanghai Cafe
+chinese,0QTn4pMzKv1mnQifcP9YoQ,0.9625,Autumn Court Chinese Restaurant
+chinese,z5r8zD7vGPCMpKljERvKqg,1.0,Royal Buffet
+chinese,4T-oySmxM_-ojR_nTqF7pA,0.857142857143,Golden Bowl Chinese Food
+chinese,9tefv6uPxoHhp_OlQQJVXA,0.909090909091,Canton Wong
+chinese,I3KRHQvoLB6O_MZ2-UpynQ,0.894736842105,Pink Lotus Express
+chinese,JPRyCrWPIo_ujOszH1NRzg,0.895348837209,Noodle & Rice
+chinese,LtdVdYhs7MAwwTBuHhdsFQ,1.0,Panda Express
+chinese,kktQXaj7zI_PGkH6SR2YPg,0.857142857143,New Sun Star Super Buffet
+chinese,KHU2QER24Dbucct1dfEWGQ,0.823529411765,Panda Express
+chinese,1vYaGPKQzMebBJXFCGTH2g,0.913793103448,The Prime Chinese Restaurant
+chinese,RcufSDfRpeaxLm875axrDQ,1.0,Golden Nugget Chinese Buffet
+chinese,4l3eeM1sOACwdJAz4UyIPQ,1.0,China Inn
+chinese,yOYFhiTjT-SM4spKtDk92w,0.868421052632,China Chan Restaurant
+chinese,zn_gLMU-Lr3wleSPd-nmbg,1.0,Chop Chop Chinese Kitchen
+chinese,BicQSnGZnY_yuGEDkhVfnA,0.837837837838,Little Shanghai
+chinese,UxMnY3Dxafucv5cXHyfBSA,0.96,Hong Kong Restaurant
+chinese,IwhkOh4fPsiU7TThIsz6Og,0.9375,Bamboo Grille
+chinese,XUYbXm4ZmF_IlZ440HZjpw,0.978723404255,King Wong Chinese Food
+chinese,0LLaVEXjtW0aW0FzU9uRoA,0.916666666667,Yin's Chinese Resturant
+chinese,TYxwexE7GDYDpIcdltwj6w,0.833333333333,Panda Express
+chinese,7KB3eQJASverUUah-I_0ZA,0.857142857143,Pei Wok
+chinese,wEsor9I2DcyYoR3brlqIMw,0.857142857143,Panda Express
+chinese,VQtMFcgkRz7MCIo9sPDaeg,0.925925925926,Golden Wok Chinese Restaurant
+chinese,3e00b3ic-7J7TcSklYVauw,0.8,Pick Up Stix
+chinese,VQmgq4Dwwej5AwnHBmDIAg,1.0,International House of Food
+chinese,yQONzVpX-DEpGSuKMIov6A,0.926229508197,Szechwan Palace
+chinese,ysPpFXooSEtwHkIdcOd4Kg,0.888888888889,Peter Wong Chinese Restaurant
+chinese,XbVqzUHS3c9FhG4lI13c3Q,0.92523364486,Maxim Restaurant
+chinese,FmvqqBAU_IuMk5iGp4Y0JQ,0.8125,Pick Up Stix
+chinese,sCv1wUWJhFmQEMw3A4lwXQ,0.911111111111,Wong's Restaurant
+chinese,Jw1ucgEz9SlUKK7_7sqOdw,0.85,Tam's
+chinese,zTfBa__ldlTdbVgSl5h31Q,0.916666666667,Bamboo House
+chinese,t30Ua_mSiClnpBqud84ygw,1.0,Imperial Garden Chinese Buffett
+chinese,gq_lS6RXen3z_SesgIrgXA,0.818181818182,South China BBQ Hong Kong Style
+chinese,9Vu9KhK2-kBSM-FXvxXGNg,0.909090909091,Pei Wei Asian Diner
+chinese,O7QQ_ThdvSWx0lR3CTRLOA,0.333333333333,Wongs To Go
+chinese,EFxaUHb6UwOpsvIIdZk-Ng,0.95,China Harvest Buffet
+chinese,z-5F-tlpAUci4obI3Gl2ow,0.923076923077,Jumbo Buffet
+chinese,LbLVO7yqAJGEQ1nK6rEvHA,0.972222222222,Siu Wok
+chinese,Fb4iTDjDDgtz3ht-SfZ9mw,0.882352941176,Dragon Island Chinese Restaurant
+chinese,NT0HMA345rSfJt9lqInMtg,0.666666666667,Canton Wong #2
+chinese,PQ-6WWl4A0VkZzhRCEacVA,0.888888888889,South China Buffet
+chinese,0nyaKW_6QHSJ74OVnDmyhA,0.75,China Super Buffet
+chinese,5npcHq7cvdJlgQen_1n80Q,0.8,Ling and Louie's Kitchen
+chinese,3fNGtIfuHwt0-DD9SSjO6Q,0.722222222222,China Garden Restaurant
+chinese,mzbQCUmd135tsNW6hY3G6A,0.887096774194,Chen & Wok
+chinese,a8yzGF79KcfyRye2R6wt3Q,0.934782608696,Golden Phoenix Chinese Restaurant
+chinese,jbKVbSz51F8IcewsiRQu4A,0.88188976378,Golden Buddha
+chinese,507GX11jtCsVYlzaur05_w,0.947368421053,Panda Garden
+chinese,2POJy5LcLySLgkAxb4K54w,1.0,Hong Kong Express Chinese Food
+chinese,A5MadrE5Dd_usQUEKmW5pg,0.964285714286,Hao Bao
+chinese,LqfCXOcyNPzDtBgy5M9VFA,0.95,Abacus Inn
+chinese,NaXqRvoW2Zg2wSghf9JqaA,0.823529411765,Kwan & Wok Chinese Restaurant
+chinese,d1dwAa-FxyowEHMGSu_lNA,1.0,South China Express
+chinese,-nHYKkSJuQ7zzFZ1veRfPg,0.892857142857,Little Peking
+chinese,ChmqODwuYP1ewjmWXtxtsg,0.883928571429,Nee House Chinese Restaurant
+chinese,UK2LezJRdrNkmF_TH__rCg,0.966666666667,Tasty House Chinese Restaurant
+chinese,DuaoskPAVBV55px_cwxIVw,0.916666666667,E-Z Buffet
+chinese,LeTMz4hrsdHhiS-vNBj82A,0.923076923077,Little Dragon Chinese Restaurant
+chinese,enbTOcl7WNgsjsAtmhvDRA,0.983870967742,Mu Shu Asian Grill
+chinese,djaLlLr3jlPApAqL4exhxQ,0.666666666667,Beijing Beijing
+chinese,t6lvhOMRI0_AJrEqA7cd3g,0.75,Dragon Chinese Restaurant
+chinese,XK5hwOMD3M-cjGVBsEmrIw,0.829787234043,Pan Asia Sushi Chinese Fusion
+chinese,Bc5bgPG1MlTc75G0A-_7fg,0.875,Taiwan Express
+chinese,LGLOtR2e-v74MpB51k8hxQ,0.761904761905,Lim's Chinese Buffet
+chinese,Y04chCG7J-yJ6ucEZ26IGA,1.0,Great Dragon Restaurant
+chinese,Ndk3mmxFthvuGO7LFKeUmQ,0.891304347826,Pacific Gardens
+chinese,wccFOUVaqeNBRaY27wOCyg,0.820512820513,Dao Kitchen Asian Bistro
+chinese,Dz7swOgFook-L89Y_M-aQA,0.925925925926,Pei Wei Asian Market
+chinese,wLZ--5d4lXImxrG7VhdTyA,0.75,Panda Express
+chinese,a5ovPlhQkcA27FFu664xKA,0.875,Happy Food
+chinese,hic_sUwlw1NyAM6eG7x5RA,0.833333333333,Liyuen
+chinese,6VaAYF0Pu1O3d-yrQSwk5w,0.92,Pong Pong
+chinese,gFGldPLVQdqbHQodU5TeUw,0.953488372093,Pei Wei Asian Diner
+chinese,GrUh2Jo6sL3wllrtZY4zmg,1.0,Eastern Buffet
+chinese,nE-qMmKkYEuT0onFTLDFtg,0.846153846154,May Garden Restaurant
+chinese,mXIgCWuu6Thb2mXluEYYig,0.875,Golden Moon Palace Restaurant
+chinese,VsO_rhXi5lgbaGxNwoEZsQ,0.951219512195,Fate 905
+chinese,Cdnp0HbJ4wVlzffuueG45w,1.0,Happy Food
+chinese,4DDbIvNtzfhLRwz-EOLFDA,0.875,Panda Express
+chinese,YuEdJcnZQv8XXAoP6GgClg,0.833333333333,Canton Dragon
+chinese,CKhtiDFAfr31jQIJrpehuw,0.902564102564,Snoh Ice Shavery
+chinese,OTq55xUFMOz13DAi9D0_rw,0.909090909091,Iron Chef
+chinese,z0xEfgr1-lDqVatrX-rf-A,0.714285714286,Rice To You
+chinese,dvjYiddhJ2HrosdSBAqngg,0.958333333333,Go Go China
+chinese,B5hhRbxDIADG-bFaQIEWag,0.836734693878,New Asian Kitchen
+chinese,GHY7UYRnMhZnQ1FSIH20wg,0.947368421053,Red Wok Buffet
+chinese,KkdkWeTMN8q-xpWD0ckx1Q,0.929824561404,Shanghai Buffet
+chinese,R9U8bZ84V-xPx3udCcU5jQ,0.833333333333,Best Wok Buffet
+chinese,aozcOaCMwOHG8s-lbZ6_gA,0.855555555556,Flamingo Palace
+chinese,cpfqZ_968LCuIyHJ3X46NQ,0.909090909091,China City Super Buffet
+chinese,eXALA0wNH2LdwpUlGvWsKw,1.0,China Olive
+chinese,KqYY2rwD8ymjU9mVJwiuRQ,0.8,Panda Gourmet
+chinese,3wkQh4bxR0Ao6rK21UIBXA,0.888888888889,Jade Fine Chinese Dining
+chinese,SYSBZeffWbScfQsI_e4b0w,0.875,New King Wah Chinese Buffet
+chinese,lut0g04VsYRyblR1Ad-8HA,0.904109589041,P F Chang's China Bistro
+chinese,hhaUz_YCmU7OfSR10uJGrQ,1.0,Panda Express
+chinese,_PSo13KRX_X7FQR5mtUCug,0.916666666667,Hibachi Grill & Supreme Buffet
+chinese,ayTBDjx-S7TH4maWKBiAFw,0.903225806452,Wong's Chinese Dining
+chinese,m2M7X5ItFvhOC7a6B7JcDg,0.962264150943,George and Sons
+chinese,pa_Ft6pLLWo-w_iopBsu0g,1.0,Golden Panda
+chinese,-mz0Zr0Dw6ZASg7_ah1R8A,0.883333333333,Sing High Chop Suey House
+chinese,m9Wqqma30o-hH2fAX7dnug,0.957894736842,Desert Jade
+american (new),rZbHg4ACfN3iShdsT47WKQ,0.924087591241,Bobby Q
+american (new),ALqygKZXxuVWGM23pFAiPQ,1.0,Dairy Queen
+american (new),rQ4z0EStSZE4acgkne6Hmg,0.909677419355,Tuck Shop
+american (new),VXivZOUYeKBFFab9JVHOSA,0.945945945946,The Market By Jennifer's
+american (new),aRkYtXfmEKYG-eTDf_qUsw,0.910533910534,Lux
+american (new),jn3OgTqiQIFymRA9U0PTfQ,1.0,Arizona Baseball Club Restaurant
+american (new),CMaJOgyFrX6gVsJGm1bttw,0.842105263158,Cafe Zupas
+american (new),7tTK3VPlFtBGBHm8-LZIUg,0.905797101449,Timo Wine Bar
+american (new),ZHPRAv3k2q662Q8Qj6zByg,0.727272727273,Chick-Fil-A
+american (new),pDXv67UQjBKScEgGhc5yLg,0.928571428571,Catch 22 Sports Grill
+american (new),xHI3saK0sAJEHeMK4IGVvg,0.864406779661,Short Leash Dogs Food Truck
+american (new),3m7khDnqH9QOg8gu3Ymumw,1.0,Oscar Taylor's
+american (new),fI47JKlBBwtqOgiZZb4hdQ,0.814814814815,Peaks & Valleys Restaurant
+american (new),dnBtxFbV4qHXqntYGDUDxQ,0.8,12 East Cafe
+american (new),coXomDOValXzks6BwMHG1A,0.925,The Living Room Wine Cafe & Lounge
+american (new),WS1z1OAR0tRl4FsjdTGUFQ,0.924528301887,The Vig Uptown
+american (new),EWMwV5V9BxNs_U6nNVMeqw,0.899019607843,FEZ
+american (new),8cL7aJVKTYmLguzXEAS3Lw,0.873015873016,Yard House
+american (new),Xq9tkiHhyN_aBFswFeGLvA,0.901544401544,The Arrogant Butcher
+american (new),7aS0iFpab3XHFQrRGMOKXw,0.861111111111,Pita Jungle
+american (new),K869zHqORZUhpbDOxsspuw,1.0,Wildberri
+american (new),AaKlegu7gmOCD4rEESF76Q,0.899686520376,Maizie's Cafe & Bistro
+american (new),s9sTtT5tlqAMgR4gYvLogA,0.857142857143,Chili's Grill & Bar
+american (new),Oq3JpmsRsNVKbwKScAP-nw,0.863636363636,Blue Sage
+american (new),TgIJfXqEKE-JsD0QUoaC5Q,0.829268292683,Spoke & Wheel
+american (new),7_7fxuG9ESAFmx-AiMsJHg,0.933333333333,Bar Smith
+american (new),YJoph5UiUZ3BEb49vyFAuQ,0.931506849315,Garage Wine and Tap
+american (new),cuMMU10KaD0cZ2WdK5XC1A,0.869565217391,Old Country Buffet
+american (new),dVRRT0zVk8eFNx0Wv6gMmg,1.0,Chili's Grill & Bar
+american (new),83da7v9gQsWJegTW52qnuw,0.906976744186,Gypsy Bar
+american (new),9-cRrGH5WmZKQ_O6LtfSbw,0.891891891892,The Lounge
+american (new),e2oXHln1dux2ACR0QQGoeQ,0.914893617021,Ingo's Tasty Food
+american (new),imvNxppzxkLUPH64pQsDQg,0.928571428571,Wright's
+american (new),AVQMHeyByhkkYEeDbH9HbQ,0.928571428571,Country Boys Restaurant
+american (new),TnkxapUN4nWMz_z5h3qMYg,0.907216494845,Pita Jungle
+american (new),aUHHfCiFtGhN5R6KXCsBKw,1.0,Fenix Eatery & Bar
+american (new),SVSNsGZat2WjTBNCmJlsHA,1.0,Ed's
+american (new),mqLIvIVWmV00VWo3L5pj3Q,0.866666666667,Cowboy Ciao
+american (new),TSg3URWOZ_I8vZGajxQ_6g,0.854961832061,The Gladly
+american (new),FFdlPSZCGgTdg1CAfrlvlw,0.857142857143,Native New Yorker
+american (new),5ALqZbLAonfCRZMY-X_MyQ,0.875,Mayo Clinic Hospital Cafeteria
+american (new),X_F-3w3Z1omxWpItnWDH9g,1.0,Let's DO Lunch
+american (new),1kMR_HUA8i-wYOJFZfLhBA,1.0,32nd Cafe
+american (new),hlekz2L2HV8cVSEkgMvuEA,0.914634146341,The House at Secret Garden
+american (new),KgbCo7ZDFc5bY7w09PReGQ,0.939393939394,Cafe At Desert Ridge
+american (new),pVnUE5EeIaIbjXzaH7sLyw,0.935064935065,The Attic
+american (new),DcrM4hwDcU2G6vuh2cnaYQ,0.915824915825,noca
+american (new),wNsmt1hF1uv3YvbwXZMAoQ,0.897777777778,O.H.S.O. Eatery + nanoBrewery
+american (new),tvyOw9dBJ-ds5fEXMTjzfQ,0.851851851852,Clarendon Kitchen + Bar C4
+american (new),j8nyAaN_w5t6wYv-ni23sg,0.896103896104,Coach & Willies
+american (new),zG_wv69bsllw_PWhOmoAKQ,0.938775510204,Tarbell's
+american (new),KSHdIbYNS2bNzq1BR5HwEA,0.666666666667,Denny's Restaurant
+american (new),kvxrjOmicwb2njvXOJsZRw,0.947368421053,Ammaccapane's Restaurant & Sports Bar
+american (new),qjmCVYkwP-HDa35jwYucbQ,0.913344887348,True Food Kitchen
+american (new),MkQz_wPoaELPVy6Hwwf7Ug,0.90625,Cafe Zupas
+american (new),tbt8TduAgw21YAr8uw_AYQ,0.870967741935,Twenty Highland Tavern
+american (new),EmzaQR5hQlF0WIl24NxAZA,0.947368421053,Sky Lounge
+american (new),fq3TCuBBaKtRnibcSoRHpQ,0.9,T.G.I. Friday's
+american (new),4SEaQmnUIpqZXPyCmHZc1A,0.954128440367,Nook
+american (new),5tey93wPQOb7z6jOLJZ30w,0.90099009901,Half Moon Sports Grill
+american (new),Q5diW79GD0MSJ10j1HCf8Q,0.8,TGI Friday's
+american (new),nENrnY-3ILrH9yPXV4tqmg,0.947368421053,Vatra
+american (new),bSrl0gA6QS4oBcfTlQEjRw,0.888888888889,The Mix Up Bar
+american (new),uKSX1n1RoAzGq4bV8GPHVg,0.912133891213,St Francis Restaurant
+american (new),rJ7HH85lo0wTNr5BiYGQ4Q,1.0,Adobe Restaurant-Arizona Biltmore Golf Club
+american (new),nU1xvCBFBVkahDrZSoN2Rw,1.0,Denny's Restaurant
+american (new),PwxvN0SnAGPdqXdNEYVT3g,0.944636678201,Bliss ReBAR
+american (new),cuLVubarNFQ7VjpT5k7DEQ,0.870967741935,D'Lish Cafe
+american (new),2ZnCITVa0abGce4gZ6RhIw,1.0,Viad Tower Restaurants
+american (new),2VpSPb8IVXNqyVY5n7caGg,0.933333333333,ASAP California Pizza Kitchen
+american (new),Vu8od1U-h5qqwj3Jf_Hnzg,1.0,Souper Salad
+american (new),sWvfFtgSQCALAE_yPYVaTA,0.869565217391,Little Cleo's Seafood Legend
+american (new),QMN_F0PIReU6QbyEuGSYhg,0.928571428571,New Orleans Sno Ball
+american (new),Dm5K0Zvw8mqrps-jFjgIaw,0.944444444444,Palette
+american (new),M6fjHpkL9IRI-nI0BattRw,0.902654867257,The Main Ingredient Ale House And Café
+american (new),-h-q6zTIdPlkz9BDP11sBg,0.899581589958,Seasons 52
+american (new),zj0BkAi54BGU_AK6AyvJDQ,0.932098765432,Rusconi's American Kitchen
+american (new),6P2DqisDHtmD4Lvs2sMP-A,0.916666666667,The Lobby Grill
+american (new),QPheu9dnwdlaPwXofP8ijw,0.863636363636,Sapna Café
+american (new),Dt8RITU4OmTbRaKKlZm_Pg,1.0,Sunshine and Spice
+american (new),_EdSQOkATuCtZ5y5A2m0rw,1.0,Arby's
+american (new),fVgrpVyp-nPLTac9YIjTug,0.873684210526,T Cook's Restaurant
+american (new),l6C_jcDmKP6rfeNqHHrTAg,1.0,Phoenix Buffet
+american (new),kr3EFhoSwbJPrL_e_RD39g,0.86170212766,Blue Hound Kitchen & Cocktails
+american (new),p9rysWzbd9eMDmxRH9y0fA,0.886075949367,Chestnut Fine Foods & Provisions
+american (new),l5GGMobHJvzaQO2rZFwdTQ,0.903614457831,The Compound Grill
+american (new),VQTjhYGMIyqSRJHgHLFvjg,0.769230769231,Sonoma Casual Dining
+american (new),NWtC07BxIqQp76kugbvynA,0.9,5 & Diner Deer Valley
+american (new),RDX_MLThtKVPb22TvJh9rQ,0.75,7th Heaven Eatery
+american (new),T11YSYqwlRDC48V8-W1GRw,0.933333333333,Café Allegro at MIM
+american (new),QzXFdjIbFRGhzL83goPPLA,0.895348837209,Elephant Bar Restaurant
+american (new),yPfvOB63thP5t3pGZPJExA,0.84693877551,The Wrigley Mansion Club
+american (new),4TqCyWoWmUpghIVAiSo--g,0.954545454545,Basis New American
+american (new),m3-p0XIYBQdR4VzbHpUpXQ,0.933333333333,Genie G's
+american (new),r-a-Cn9hxdEnYTtVTB5bMQ,0.926421404682,The Grind
+american (new),I4L_MJOZsnux3xCU2bLP8Q,0.777777777778,Cranberry Hills Eatery & Catering
+american (new),GjvIDOEhdQB1oPrFeSpxBw,0.878378378378,Gordon Biersch
+american (new),IUnRnZHmA56Tgr2acpHRow,0.941176470588,Four Peaks Brewing Company
+american (new),UpYva_zhJ6pRGfdTruIYIg,0.888888888889,California Pizza Kitchen
+american (new),zMa6YoEekpABg1HZnnTZdg,0.91095890411,Hillstone
+american (new),PY1Wd9Vj7caMGt4u-t1t2w,1.0,Karla's Sports Lounge & Restaurant
+american (new),Aisjvk-fZVwAcGsN4NlviA,0.727272727273,Kozy Cactus
+american (new),Pfb6VOIiroqDWOebfgWGPQ,0.881081081081,Phoenix City Grille
+american (new),SGGZ6l345YTww09IHxtoew,0.897058823529,Ezekiel's Restaurant
+american (new),4waggbCK-MSE9dbIdSMfPA,0.83606557377,Compass Arizona Grill
+american (new),FURgKkRFtMK5yKbjYZVVwA,0.923976608187,Windsor
+american (new),YYm1mnmE36Ne7d5sT9huZQ,0.923076923077,Short Leash Hot Dogs
+american (new),os_r5fCkmjeP980CLv20MQ,0.923076923077,The Place
+american (new),2r8jGeuYvMkyP2ik_X-Bxw,0.89552238806,The Cheesecake Factory
+american (new),UIfORCz28cEGMr_9p0eJ5g,0.879310344828,25 Degrees
+american (new),eqbpaxfx2DHhG-cj9L8tVg,0.941176470588,Perfect Pear Bistro
+american (new),5npcHq7cvdJlgQen_1n80Q,0.8,Ling and Louie's Kitchen
+american (new),XiCnbGY6R92Ji7r38jceZA,0.911764705882,Chick-Fil-A
+american (new),4r9-iKOagzn5oUvPE9Bz4Q,0.88,Province Restaurant
+american (new),aNuyJOFNrb-d71amzPpxlw,0.912280701754,Twin Peaks
+american (new),8SoWH_iOdZD1OvebCwJUbg,1.0,Dennys
+american (new),5-X03Zc0nN7U5eoe8uFUdw,0.91975308642,Coronado Cafe
+american (new),EQgMEDJ3Tkln-8UBlOuKwg,1.0,Moga Crepes
+american (new),cp39VURFby4A6u9m2It8jg,0.918854415274,Zinburger
+american (new),vlxMPuG6LYJ-c0yjd6AW3A,0.868131868132,The Little Woody
+american (new),5XIvwfbIa-vuFEkkeCQ6kQ,0.9,Jackson's On 3rd
+american (new),GYPHQGaB4Oeq9veH-p2nKA,0.943181818182,Thirteen North
+american (new),nS9Dgj0a5o4Et80jFXBlrw,1.0,Martini Bistro
+american (new),KoJ4jNSmqYbmKqcoh-2dNA,1.0,Arizona Roadhouse 66
+american (new),xY5BFKQFo5iLDhXxihkduQ,1.0,Pollo Sabroso
+american (new),1hcGT6I1vAIH_pZuyud0HQ,0.666666666667,Brickyard Sports Bar and Grill
+american (new),w19cemjVR8u02PgjFpJ7Mw,0.937777777778,Pita Jungle
+american (new),Ta-fY1c_E8qHBBDQGyxPkg,0.96,Bistro 24
+american (new),fP-BPL6iRu2tbcvlnjRshw,0.886010362694,Copper Blues
+american (new),dsMvINhoQbIQgSRTBv2B6g,0.923913043478,Caffe Boa Ahwatukee
+american (new),setfRzkAcOPxKH5TZLTqJQ,1.0,Olive & Ivy
+american (new),MEKk3J63dU3GBDg9SHuq7A,0.960526315789,Lustre Bar
+american (new),PdRzCJWP7nPdYoHPdd5SOQ,0.916666666667,Portland's Restaurant & Wine Bar
+american (new),rluuxDPHiP9Z4qtNO66eTw,0.863636363636,Daily Bistro
+american (new),6L9McpPjh3UzZxvR1cf1Lw,0.846153846154,Vinery 214 Bistro
+american (new),cSA2pB43cv71ffdIvaEodA,0.928571428571,Cafeteria on Thomas
+american (new),vBDVxjMtXzZ8GUhV-1L3Jw,0.9,Chili's Grill & Bar
+american (new),SfVsLCVap7VlF3GLUI8PlQ,1.0,RBG Bar & Grill
+american (new),supigcPNO9IKo6olaTNV-g,0.900900900901,1130 The Restaurant
+american (new),IVc23uY-36WUNYoIbz42Fg,0.883168316832,Switch Restaurant & Wine Bar
+american (new),41j3GB7M-Lwq284Pfb9zgw,0.901840490798,Angels Trumpet Ale House
+american (new),9ziO3NpoNTKHvIKCBFB_fQ,0.928888888889,District American Kitchen and Wine Bar
+american (new),7cP7WFmWiTVh-raIL3N_Vw,0.874396135266,The Roosevelt
+american (new),Fn8hc8b3357nDJfFksdcbg,1.0,Zest - Spirited Dining
+american (new),gY6AhCy22G9yFlAGu9vMFQ,0.928571428571,Floyd's Kitchen
+american (new),lQSMn_SAIy5aBEKkqRtVYw,1.0,Baja Loco Mesquite Grill & Cantina
+american (new),eOug4Lp-b5-jrtkoLMQq2g,1.0,Circa 1900
+american (new),2gMx4KnXbNtpoCuVCmyo3g,0.888888888889,Coco's Restaurant
+american (new),guLkdetJ603Bw_A6tuecIg,0.934523809524,The Henry
+american (new),kJFS_3WlP6TFdNUYt6V6FA,1.0,Cycle
+american (new),neEGFNmmKibjExB4_215ZA,0.911290322581,Brick
+american (new),ut-kla-EA23nJOij_dcL0Q,0.925925925926,California Pizza Kitchen
+american (new),ttLtsY1S2Angj6hvEdzwDQ,0.887096774194,Blue Martini Lounge
+american (new),_OYlq2UoKPQO_ElqhC3a8w,0.8828125,Lucky Strike
+american (new),WjtJAtp19nA61b8LT9uLrA,0.918699186992,Bink's Midtown
+american (new),6xDQaprsX-GMl6umXeILPw,1.0,101 Bistro
+american (new),VapdXuC8X-Q3T_wgA6yCAg,0.872549019608,Pizza People Pub
+american (new),wl51t6lT7leiX64SlkOx6g,0.925,Pita Jungle
+american (new),4Y9-JiDz9EVR_-UkUv4dYg,0.877049180328,Culinary Dropout
+american (new),qbEJeRvytnBo5BGG1R5kGg,0.91452991453,Daily Dose Midtown
+american (new),HrSowDDXw71VD_d-4g7I5g,0.885593220339,The Yard
+american (new),yC6OzkWd3bzHfcMZm7WpWQ,0.919191919192,The Vig Fillmore
+american (new),-yxfBYGB6SEqszmxJxd97A,0.934426229508,Quiessence Restaurant
+american (new),NcAI7SE1SNlrOEfFg9Wzuw,0.967741935484,Ghost Lounge
+american (new),5niUestkeI0tBcBAv4SyKw,0.907407407407,Pita Jungle
+american (new),ekguRa1QybpUaMHqc5vmAw,0.933333333333,Antars Sports Bistro
+american (new),i98vDwJCbC4RHvDo0_XQuw,1.0,Dennys
+american (new),Ou5Moz82ivJ6-UUsNuy1Wg,1.0,Great American Grill
+american (new),6R64RobXc6wzbKHmZtGo_A,0.9375,Coach's Corner Grill
+american (new),Ydc74ermKp1L4fYOrPvzXw,0.866666666667,Stoudemire's Downtown
+american (new),aZe9f7korrhFTNMPxVbMXA,1.0,Vaquero's Carne Asada
+american (new),JUXPQQshoOV5LUKLtCrOtw,0.875,Our Gang Sports Saloon & Grill
+american (new),TCqkBVN84Ek0oLmZGAX5xA,0.958333333333,Lisa G Cafe and Wine Bar
+american (new),k_aOcqWOHWprjs7ykdzlAQ,0.868852459016,Jose Roux
+american (new),GHYOl_cnERMOhkCK_mGAlA,0.913907284768,Kitchen 56
+american (new),3EEVGDngt4DEhoOQZIUNUw,0.961538461538,Arcadia Farms Cafe
+american (new),muCl5p-9ut1sY0aKeUeRhw,0.904255319149,Cheuvront
+american (new),I4bSn5gXsHuSPu7L-d_8nQ,0.912175648703,Beckett's Table
+american (new),adEJYiysRmK8eDqnHP9N6A,1.0,Carl's Jr 7091
+american (new),i213sY5rhkfCO8cD-FPr1A,0.934959349593,BJ's Restaurant & Brewhouse
+american (new),klCQ1ytgmCgJ1KvlR5Y0_w,0.883333333333,GreenMix
