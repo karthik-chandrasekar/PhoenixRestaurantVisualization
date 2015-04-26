@@ -76,8 +76,9 @@ function loadColorMap() {
                     .style("cursor", "null");
                 })
                 .on('click', function() {
-                    console.log(d3.select(this).attr("index"));
-                    sentiObj.highlight(mapper(i));
+                    var bucket = d3.select(this).attr("index");
+                    sentiObj.highlight(mapper(bucket));
+
                 });
 
             group.append("text")
