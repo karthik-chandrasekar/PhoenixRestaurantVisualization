@@ -76,8 +76,8 @@ function loadColorMap() {
                     .style("cursor", "null");
                 })
                 .on('click', function() {
-                    console.log("mouseclicked");
-                    sentiObj.highlight(d3.select(this).mapper(attr("index")));
+                    console.log(d3.select(this).attr("index"));
+                    sentiObj.highlight(mapper(i));
                 });
 
             group.append("text")
