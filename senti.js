@@ -76,6 +76,7 @@ function loadColorMap() {
                 })
                 .on('click', function() {
                     console.log("mouseclicked");
+                    sentiObj.highlight(mapper(i));
                 });
 
             group.append("text")
@@ -159,6 +160,7 @@ function initSenti() {
         }
     }
 
+
     /**
      * Load the heat map using the existing data.
      */
@@ -170,9 +172,7 @@ function initSenti() {
 
     sentiObj.clearData = function() {
         for(key in circles) {
-            for(obj in circles[key]) {
-               circles[key][obj].setMap(null);
-            }
+            sentiObj.addSet(key);
         }
 
         if(heatMapObj) {
@@ -181,9 +181,21 @@ function initSenti() {
     }
 
     sentiObj.highlight = function(rating) {
-        
+        sentiObj.clearData();
+        sentiObj.addSet(key);         
     }
 
+    sentiObj.removeSet = function(key) {
+        for(obj in circles[key]) {
+            circles[key][obj].setMap(null);
+        }
+    }
+
+    sentiObj.addSet = function(key) {
+        for(obj in circles[key]) {
+            circles[key][obj].setMap(map);
+        }
+    }
     return sentiObj;
 }
 
