@@ -95,7 +95,7 @@ function drawHeatMap(map, mapData) {
     var heatMap = new google.maps.visualization.HeatmapLayer({
           data: heatData
     });
-    heatMap.setMap(map);
+    return heatMap.setMap(map);
 }
 
 /** 
@@ -107,6 +107,7 @@ function initSenti() {
     var sentiObj = {};
     var circles = [];
     var map = null;
+    var heatMap = null;
     sentiObj.loadData = function(data) {
         sentiData = data;
     }
@@ -145,12 +146,16 @@ function initSenti() {
     sentiObj.heatMap = function() {
 
        this.clearData();
-       drawHeatMap(map, sentiData); 
+       heatMap = drawHeatMap(map, sentiData); 
     }
 
     sentiObj.clearData = function() {
         for(key in circles) {
             circles[key].setMap(null);
+        }
+
+        if(heatMap) {
+            heatMap.setMap(null);
         }
     }
 
