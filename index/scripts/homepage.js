@@ -2,13 +2,18 @@
     var div2=d3.select(document.getElementById('div2'));
     var div3=d3.select(document.getElementById('div3'));
     var div4=d3.select(document.getElementById('div4'));
+	
+	var div11=d3.select(document.getElementById('div11'));
+    var div12=d3.select(document.getElementById('div12'));
+    var div13=d3.select(document.getElementById('div13'));
+    var div14=d3.select(document.getElementById('div14'));
 
     start();
 
     function onClick1() {
-        deselect();
-        div1.attr("class","selectedRadial");
-    }
+		deselect();
+		d3.select("#main2").style("display","block");
+		    }
 
     function onClick2() {
         deselect();
@@ -36,6 +41,10 @@
         div2.attr("class","radial");
         div3.attr("class","radial");
         div4.attr("class","radial");
+		div11.attr("class","radial");
+		div12.attr("class","radial");
+        div13.attr("class","radial");
+        div14.attr("class","radial");
     }
 
 
@@ -45,6 +54,7 @@
                 .label("FOOD")
                 .diameter(150)
                 .value(90)
+				.onClick(onClick1)
                 .render();
 
         var rp2 = radialProgress(document.getElementById('div2'))
@@ -67,5 +77,29 @@
                 .value(30)
                 .render();
 
+		var rp11 = radialProgress(document.getElementById('div11'))
+                .label("Mexican")
+                .diameter(150)
+                .value(37)
+                .render();
 
+
+        var rp12 = radialProgress(document.getElementById('div12'))
+                .label("American")
+                .diameter(150)
+                .value(24)
+                .render();
+
+
+        var rp13 = radialProgress(document.getElementById('div13'))
+                .label("Chinese")
+                .diameter(150)
+                .value(20)
+                .render();
+
+        var rp14 = radialProgress(document.getElementById('div14'))
+                .label("American New")
+                .diameter(150)
+                .value(17)
+                .render();
     }
