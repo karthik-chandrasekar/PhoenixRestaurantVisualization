@@ -15,9 +15,9 @@ function loadColorMap() {
     var colorObj = {};
     var prevMap = null;
     var mapper = d3.scale.quantize();
-//    var colors     = d3.scale.category20b().range();
+    var colors     = d3.scale.category20b().range();
 //    colorbrewer2.org diverging color scheme.
-    var colors     = ["#d7191c", "#fdae61","#ffffbf", "#abd9e9", "#2c7bb6"];
+    var colors     = ["#2c7bb6", "#abd9e9","#ffffbf", "#fdae61", "#d7191c"];
     mapper.range(colors);
 
     colorObj.setMin = function(minArg) {
@@ -130,7 +130,7 @@ function initSenti() {
     sentiObj.loadData = function(data) {
         sentiData = data;
     }
-
+    // Ref Theme : https://snazzymaps.com/style/15/subtle-grayscale
     var styles =[{"featureType":"landscape","stylers":[{"saturation":-100},{"lightness":65},{"visibility":"on"}]},{"featureType":"poi","stylers":[{"saturation":-100},{"lightness":51},{"visibility":"simplified"}]},{"featureType":"road.highway","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"road.arterial","stylers":[{"saturation":-100},{"lightness":30},{"visibility":"on"}]},{"featureType":"road.local","stylers":[{"saturation":-100},{"lightness":40},{"visibility":"on"}]},{"featureType":"transit","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"administrative.province","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"labels","stylers":[{"visibility":"on"},{"lightness":-25},{"saturation":-100}]},{"featureType":"water","elementType":"geometry","stylers":[{"hue":"#ffff00"},{"lightness":-25},{"saturation":-97}]}];
 
     sentiObj.drawGraph = function(divName, colorMapObj) {
@@ -144,6 +144,7 @@ function initSenti() {
         var points = sentiData.data; 
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
+        map.setOptions({styles: styles});
         for(key in points) {
             var color = colorMapObj.getColor(points[key].magnitude)
             var restCirc = {
