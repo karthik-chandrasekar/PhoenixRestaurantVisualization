@@ -145,6 +145,9 @@ function initSenti() {
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
         map.setOptions({styles: styles});
+        for (key in circles) {
+            delete circles[key];
+        }
         for(key in points) {
             var color = colorMapObj.getColor(points[key].magnitude)
             var restCirc = {
