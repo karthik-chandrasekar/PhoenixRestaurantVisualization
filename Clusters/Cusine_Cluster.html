@@ -10,7 +10,7 @@
       }
       circle {
         stroke: white;
-        stroke-width: 2px;
+        stroke-width: 1px;
         opacity: .8;
       }
       .btn-group {
@@ -35,9 +35,9 @@
     <script>
 
 	d3.csv('cuisine.csv', function (error, data) {
-        var width = 1260//Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        var height = 1260//Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
-        var fill = d3.scale.ordinal().range(['#827d92','#827354','#523536','#72856a','#2a3285','#383435'])
+		var width = 1290//Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+        var height =1290//Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+        var fill=d3.scale.category10();
         var svg = d3.select("#chart").append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -76,9 +76,7 @@
 		  .on("mouseover", function (d) { showPopover.call(this, d); })
 		  .on("mouseout", function (d) { removePopovers(); })
           
-		//nodes.transition().delay(100).duration(2000)
-          //.attr("r", function (d) { return d.radius; })
-		  
+		
 		var force = d3.layout.force();
 		draw('cuisine');
 				 		
@@ -114,7 +112,8 @@
           .attr("class", "label")
           .text(function (d) { return d.name })
           .attr("transform", function (d) {
-            return "translate(" + (d.x+(d.dx/2)) + ", " + (d.y + 15) + ")";
+            //return "translate(" + (d.x-(d.dx/2)) + ", " + (d.y - 15) + ")";
+			return "translate(" + (d.x+150) + ", " + (d.y+605) + ")";
 			//return "translate(" + (d.x - ((d.name.length)*3)) + ", " + (d.y - d.r) + ")";
           });
         }
