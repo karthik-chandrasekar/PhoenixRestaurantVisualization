@@ -155,7 +155,7 @@ function initSenti() {
                 fillOpacity: 0.35,
                 map : map,
                 center : points[key].position,
-                radius : 100,   
+                radius : 300,   
             }
 
             var circle = new google.maps.Circle(restCirc) 
