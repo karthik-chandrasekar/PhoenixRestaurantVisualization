@@ -62,7 +62,18 @@ function loadColorMap() {
                 .attr("height", height)
                 .attr("y", 0)
                 .attr("x", count * width/numOfColors)
-                .style("fill", mapper(i));
+                .style("fill", mapper(i))
+                .on('mouseover', function() {
+                    console.log("mouseover")
+                    this.style("cursor", "pointer");
+                })
+                .on('mouseout', function() {
+                    console.log("mouseout");  
+                    this.style("cursor", "null");
+                })
+                .on('click', function() {
+                    console.log("mouseclicked");
+                };
 
             group.append("text")
                 .text(d3.format(".3s")(count))
@@ -159,6 +170,10 @@ function initSenti() {
         }
     }
 
+    sentiObj.highlight = function(rating) {
+        
+    }
+
     return sentiObj;
 }
 
@@ -194,7 +209,7 @@ function loadMap(csvToLoad, title, colorMapObj, sentiObj) {
         });
 
         colorMapObj.setMinMax(min, max);
-        colorMapObj.drawHeatMapScale(min, max);
+        colorMapObj.drawHeatMapScale(min, max, sentiObj);
         console.log("Min" + min);
         console.log("Max" + max);
         d3.select("#map-title").html("Top Restaurents for " + title);
