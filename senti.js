@@ -57,19 +57,20 @@ function loadColorMap() {
             var group = d3.select("#color-map")
                 .select("g");
 
-            group.append("rect")
+            var rect = group.append("rect")
                 .attr("width", width/numOfColors)
                 .attr("height", height)
                 .attr("y", 0)
                 .attr("x", count * width/numOfColors)
-                .style("fill", mapper(i))
-                .on('mouseover', function() {
+                .style("fill", mapper(i));
+
+                rect.on('mouseover', function() {
                     console.log("mouseover")
-                    this.style("cursor", "pointer");
+                    rect.style("cursor", "pointer");
                 })
                 .on('mouseout', function() {
                     console.log("mouseout");  
-                    this.style("cursor", "null");
+                    rect.style("cursor", "null");
                 })
                 .on('click', function() {
                     console.log("mouseclicked");
