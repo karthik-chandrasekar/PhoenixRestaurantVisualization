@@ -107,7 +107,7 @@ function initSenti() {
     var sentiObj = {};
     var circles = [];
     var map = null;
-    var heatMap = null;
+    var heatMapObj = null;
     sentiObj.loadData = function(data) {
         sentiData = data;
     }
@@ -146,7 +146,7 @@ function initSenti() {
     sentiObj.heatMap = function() {
 
        this.clearData();
-       heatMap = drawHeatMap(map, sentiData); 
+       heatMapObj = drawHeatMap(map, sentiData); 
     }
 
     sentiObj.clearData = function() {
@@ -154,8 +154,8 @@ function initSenti() {
             circles[key].setMap(null);
         }
 
-        if(heatMap) {
-            heatMap.setMap(null);
+        if(heatMapObj) {
+            heatMapObj.setMap(null);
         }
     }
 
