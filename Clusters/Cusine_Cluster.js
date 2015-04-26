@@ -78,7 +78,7 @@
           .text(function (d) { return d.name })
           .attr("transform", function (d) {
             //return "translate(" + (d.x-(d.dx/2)) + ", " + (d.y - 15) + ")";
-			return "translate(" + (d.x+150) + ", " + (d.y+615) + ")";
+			return "translate(" + (d.x+150) + ", " + (d.y+630) + ")";
 			//return "translate(" + (d.x - ((d.name.length)*3)) + ", " + (d.y - d.r) + ")";
           });
         }
