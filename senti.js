@@ -95,7 +95,8 @@ function drawHeatMap(map, mapData) {
     var heatMap = new google.maps.visualization.HeatmapLayer({
           data: heatData
     });
-    return heatMap.setMap(map);
+    heatMap.setMap(map);
+    return heatMap;
 }
 
 /** 
