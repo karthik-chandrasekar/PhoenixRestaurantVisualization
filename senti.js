@@ -80,37 +80,22 @@ function loadColorMap() {
     return colorObj;
 }
 
-function drawRegionMap(map, mapData, colorMapObj) {
+function drawHeatMap(map, mapData) {
 
     var points = mapData.data; 
 
     var heatData = [];
     for(key in points) {
-       var restCirc = {
-            strokeColor : colorMapObj.getColor(points[key].magnitude),
-            fillColor : colorMapObj.getColor(points[key].magnitude),
-            strokeOpacity: 0.8,
-            strokeWeight: 2,
-            fillOpacity: 0.35,
-            map : map,
-            center : points[key].position,
-            radius : 100, //* normalize(mapData.min, mapData.max, points[key].magnitude),
-        }
         
-        /*
         heatData[key] = {
             location : points[key].position,
             weight   : points[key].magnitude
         }
-        */
-        new google.maps.Circle(restCirc);
     }
-    /*
     var heatMap = new google.maps.visualization.HeatmapLayer({
           data: heatData
     });
     heatMap.setMap(map);
-    */
 }
 
 /** 
@@ -159,7 +144,8 @@ function initSenti() {
      */
     sentiObj.heatMap = function() {
 
-        
+       this.clearData();
+       drawHeatMap(map, sentiData); 
     }
 
     sentiObj.clearData = function() {
