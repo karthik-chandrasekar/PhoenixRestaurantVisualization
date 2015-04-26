@@ -138,9 +138,10 @@ function initSenti() {
 
         map = new google.maps.Map(document.getElementById(divName), mapOptions);
         for(key in points) {
+            var color = colorMapObj.getColor(points[key].magnitude)
             var restCirc = {
-                strokeColor : colorMapObj.getColor(points[key].magnitude),
-                fillColor : colorMapObj.getColor(points[key].magnitude),
+                strokeColor : color,
+                fillColor : color,
                 strokeOpacity: 0.8,
                 strokeWeight: 2,
                 fillOpacity: 0.35,
@@ -150,10 +151,10 @@ function initSenti() {
             }
 
             var circle = new google.maps.Circle(restCirc) 
-            if(key in circles) {
-                circles[key].push(circle);
+            if(color in circles) {
+                circles[color].push(circle);
             } else {
-                circles[key] = [circle];
+                circles[color] = [circle];
             }
         }
     }
