@@ -266,4 +266,3 @@ function drawFilter() {
     return sentiObj;
 }
 
-google.maps.event.addDomListener(window, 'load', null);
