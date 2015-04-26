@@ -18,8 +18,10 @@
             curr = "none";
         } else {
             curr = "block";
+		    d3.select("#main3").style("display", "none");
         } 
-		d3.select("#main2").style("display", curr);
+		    d3.select("#main2").style("display", curr);
+		    d3.select("#main4").style("display", curr);
 		    }
 
     function onClick2() {
