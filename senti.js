@@ -153,7 +153,7 @@ function initSenti() {
             if(key in circles) {
                 circles[key].push(circle);
             } else {
-                circle[key] = [circle];
+                circles[key] = [circle];
             }
         }
     }
