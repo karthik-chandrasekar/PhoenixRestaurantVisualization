@@ -73,7 +73,7 @@ function loadColorMap() {
                 })
                 .on('click', function() {
                     console.log("mouseclicked");
-                };
+                });
 
             group.append("text")
                 .text(d3.format(".3s")(count))
