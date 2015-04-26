@@ -16,7 +16,8 @@ function loadColorMap() {
     var prevMap = null;
     var mapper = d3.scale.quantize();
 //    var colors     = d3.scale.category20b().range();
-    var colors     = ["blue", "green","yellow", "orange", "red"];
+//    colorbrewer2.org diverging color scheme.
+    var colors     = ["#7b3294", "#c2a5cf","#ffffbf", "#a6dba0", "#008837"];
     mapper.range(colors);
 
     colorObj.setMin = function(minArg) {
