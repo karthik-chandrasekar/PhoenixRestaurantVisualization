@@ -172,7 +172,7 @@ function initSenti() {
 
     sentiObj.clearData = function() {
         for(key in circles) {
-            sentiObj.addSet(key);
+            sentiObj.removeSet(key);
         }
 
         if(heatMapObj) {
@@ -182,7 +182,7 @@ function initSenti() {
 
     sentiObj.highlight = function(rating) {
         sentiObj.clearData();
-        sentiObj.addSet(key);         
+        sentiObj.addSet(rating);         
     }
 
     sentiObj.removeSet = function(key) {
