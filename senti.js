@@ -120,7 +120,7 @@ function initSenti() {
 
     var sentiData = [];
     var sentiObj = {};
-    var circles = [];
+    var circles = {};
     var map = null;
     var heatMapObj = null;
     sentiObj.loadData = function(data) {
@@ -149,9 +149,13 @@ function initSenti() {
                 radius : 100,   
             }
 
-            circles.push(new google.maps.Circle(restCirc));
+            var circle = new google.maps.Circle(restCirc) 
+            if(key in circles) {
+                circles[key].push(circle);
+            } else {
+                circle[key] = [circle];
+            }
         }
-
     }
 
     /**
@@ -165,7 +169,9 @@ function initSenti() {
 
     sentiObj.clearData = function() {
         for(key in circles) {
-            circles[key].setMap(null);
+            for(obj in circles[key]) {
+               circles[key][obj].setMap(null);
+            }
         }
 
         if(heatMapObj) {
