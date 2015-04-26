@@ -66,11 +66,13 @@ function loadColorMap() {
 
                 rect.on('mouseover', function() {
                     console.log("mouseover")
-                    rect.style("cursor", "pointer");
+                    d3.select(this)
+                    .style("cursor", "pointer");
                 })
                 .on('mouseout', function() {
                     console.log("mouseout");  
-                    rect.style("cursor", "null");
+                    d3.select(this)
+                    .style("cursor", "null");
                 })
                 .on('click', function() {
                     console.log("mouseclicked");
