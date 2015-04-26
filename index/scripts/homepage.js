@@ -12,7 +12,14 @@
 
     function onClick1() {
 		deselect();
-		d3.select("#main2").style("display","block");
+
+		var curr = d3.select("#main2").style("display");
+        if(curr == "block") {
+            curr = "none";
+        } else {
+            curr = "block";
+        } 
+		d3.select("#main2").style("display", curr);
 		    }
 
     function onClick2() {
