@@ -62,6 +62,7 @@ function loadColorMap() {
                 .attr("height", height)
                 .attr("y", 0)
                 .attr("x", count * width/numOfColors)
+                .attr("index", i)
                 .style("fill", mapper(i));
 
                 rect.on('mouseover', function() {
@@ -76,7 +77,7 @@ function loadColorMap() {
                 })
                 .on('click', function() {
                     console.log("mouseclicked");
-                    sentiObj.highlight(d3.select(this).style("fill"));
+                    sentiObj.highlight(d3.select(this).mapper(attr("index")));
                 });
 
             group.append("text")
