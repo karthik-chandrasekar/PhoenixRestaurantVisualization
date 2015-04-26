@@ -244,7 +244,7 @@ function loadMap(csvToLoad, title, colorMapObj, sentiObj) {
         colorMapObj.drawHeatMapScale(min, max, sentiObj);
         console.log("Min" + min);
         console.log("Max" + max);
-        d3.select("#map-title").html("Top Restaurents for " + title);
+        d3.select("#map-title").html("Top Restaurants for " + title);
         toLoad.min = min;
         toLoad.max = max;
         sentiObj.loadData(toLoad);

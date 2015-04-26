@@ -1,0 +1,18 @@
+      body {
+        background-color: white;
+        padding-left: 50px;
+      }
+      circle {
+        stroke: black;
+        stroke-width: 1px;
+        opacity: .8;
+      }
+      .btn-group {
+        margin-left: 330px;
+      }
+      .label {
+        fill: black;
+        font-size: 16px;
+		padding-left: 50px;
+		text-align: center;
+      }

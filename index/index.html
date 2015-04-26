@@ -1,7 +1,7 @@
 <html>
     <head>
         <!-- Latest compiled and minified CSS -->
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 
         <!-- Optional theme -->
@@ -11,46 +11,114 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <!---
-        <h3> Tabs go in here. Names to be decided for the tabs.</h3>
-
         <ul class="nav nav-tabs">
             <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
-            <li><a href="#loadRest">loadRest</a></li>
-        </ul>
-        <div id="home"> 
-            <h3> Home Page </h3>
-            <h4> Which factor is dominating ? </h4>
-            <h4> Overall info about counts </h4>
-        </div>
-
-        <div class="tab-content">
-            <div id="loadRest"> 
-                <h3> The business can select their restaurent and know about how the factors are varying for them. </h3>
-                <h4> Auto Complete to pick up the map which loads into the drill down.</h4>
-                <div id="drilldown">
-                    <h4> This is the drilldown @Gurujis domain.</h4>
-                </div>
-            </div>
-        </div>
-        -->
-        <ul class="nav nav-tabs">
-            <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
-            <li><a data-toggle="tab" href="#loadRest">Load Restaurent</a></li>
+            <li><a data-toggle="tab" href="#Map">Map</a></li>
+            <li><a data-toggle="tab" href="#Calendar">Calendar</a></li>
+            <li><a data-toggle="tab" href="#Cluster">Cluster</a></li>
         </ul>
         <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
-            <h3> Home Page </h3>
-            <h4> Which factor is dominating ? </h4>
-            <h4> Overall info about counts </h4>
-            </div>
-            <div id="loadRest" class="tab-pane fade">
-                <h3> The business can select their restaurent and know about how the factors are varying for them. </h3>
-                <h4> Auto Complete to pick up the map which loads into the drill down.</h4>
-                <div id="drilldown">
-                    <h4> This is the drilldown @Gurujis domain.</h4>
+                <script type="text/javascript" src="scripts/d3.min.js"></script>
+                <script type="text/javascript" src="scripts/radialProgress.js"></script>
+
+                <link type="text/css" rel="stylesheet" href="styles/style.css">
+
+                <div id='outer' style="width: 1000px; height:800px; margin: 0px auto; margin-top:20px; padding:10px">
+                    <div id="main" style="width:1000px; height:200px; margin: 0px auto; ">
+                        <h1 align="center">OVERVIEW OF RESTAURANT METRICS IN PHX</h1>
+                        <h2 align="center">Preference of PHX ppl about restaurants</h2>
+                        <br/><br/>
+                        <div id="div1"></div>
+                        <div id="div2"></div>
+                        <div id="div3"></div>
+                        <div id="div4"></div>
+                        <div id="div5">
+                            <h3 align="center">Top restaurants in PHX</h3>
+                        </div>
+                        <div id="div6">
+                            <h3 align="center">Best in Food</h3>
+                            <ul>
+                                <li>Pizzeria Bianco</li>
+                                <li>FEZ</li>
+                                <li>Cibo</li>
+                                <li>Postino Arcadia</li>
+                                <li>Gallo Blanco</li>
+                                <li>St Francis Restaurant</li>
+                                <li>Bobby Q</li>
+                                <li>Lux</li>
+                                <li>Matt's Big Breakfast</li>
+                                <li>Chelsea's Kitchen</li>
+                            </ul>
+                        </div>
+                        <div id="div7">
+                            <h3 align="center">Best in Service</h3>
+                            <ul>
+                                <li>Pizzeria Bianco</li>
+                                <li>FEZ</li>
+                                <li>Cibo</li>
+                                <li>Postino Arcadia</li>
+                                <li>Gallo Blanco</li>
+                                <li>Bobby Q</li>
+                                <li>Chelsea's Kitchen</li>
+                                <li>St Francis Restaurant</li>
+                                <li>Matt's Big Breakfast</li>
+                                <li>Lux</li>
+                            </ul>
+                        </div>
+                        <div id="div8">
+                            <h3 align="center">Best in Ambience</h3>
+                            <ul>
+                                <li>Pizzeria Bianco</li>
+                                <li>FEZ</li>
+                                <li>Cibo</li>
+                                <li>St Francis Restaurant</li>
+                                <li>Chelsea's Kitchen</li>
+                                <li>Postino Arcadia</li>
+                                <li>Gallo Blanco</li>
+                                <li>The Parlor</li>
+                                <li>Lux</li>
+                                <li>Bobby Q</li>
+                            </ul>
+                        </div>
+
+                        <div id="div9">
+                            <h3 align="center">Best in Price</h3>
+                            <ul>
+                                <li>Matt's Big Breakfast</li>
+                                <li>Pizzeria Bianco</li>
+                                <li>St Francis Restaurant</li>
+                                <li>Cibo</li>
+                                <li>Hula's Modern Tiki</li>
+                                <li>FEZ</li>
+                                <li>True Food Kitchen</li>
+                                <li>Postino Arcadia</li>
+                                <li>Lo-Lo's Chicken & Waffles</li>
+                                <li>Chino Bandido</li> 
+                            </ul>
+                        </div>
+                    </div>
                 </div>
+                <script language="JavaScript" src="scripts/homepage.js">
+                </script>
             </div>
+
+            <div id="Map" class="tab-pane fade">
+                <h3> The map for the various factors goes in here. </h3>
+            </div>
+
+            <div id="Calendar" class="tab-pane fade">
+                <h3>Karthiks Calendar</h3>
+            </div>
+
+            <div id="Cluster" class="tab-pane fade">
+                <h3>Gurujis Cluster</h3>
+                <link rel="stylesheet" type="text/css" href="styles/clusters.css">
+                <div id="chart"></div>
+	            <script src="scripts/Cusine_Cluster.js"> </script>
+                <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+            </div>
+
         </div>
     </body>
 </html>
