@@ -18,6 +18,7 @@
             <li><a data-toggle="tab" href="#Calendar">Calendar</a></li>
             <li><a data-toggle="tab" href="#Cluster">Cluster</a></li>
         </ul>
+
         <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
                 <script type="text/javascript" src="scripts/d3.min.js"></script>
@@ -27,8 +28,7 @@
 
                 <div id='outer' style="width: 1000px; height:800px; margin: 0px auto; margin-top:20px; padding:10px">
                     <div id="main" style="width:1000px; height:200px; margin: 0px auto; ">
-                        <h1 align="center">OVERVIEW OF RESTAURANT METRICS IN PHX</h1>
-                        <h2 align="center">Preference of PHX ppl about restaurants</h2>
+                        <h1 align="center">Phoenicians select a Restaurant based on</h1>
                         <br/><br/>
                         <div id="div1"></div>
                         <div id="div2"></div>
@@ -41,13 +41,14 @@
                             <div id="div13"></div>
                             <div id="div14"></div>
                         </div>
-                        
-                        <div id="main3">
+
+                        <div id="main3" style="display:none;">
                             <div id="div5">
-                                <h3 align="center">Top restaurants in PHX</h3>
+                                <h3 align="center">Top restaurants based on flavors </h3>
                             </div>
-                            <div id="div6">
-                                <h3 align="center">Best in Food</h3>
+
+                            <div id="div16">
+                                <h3 align="center">Best in Mexican</h3>
                                 <ul>
                                     <li>Pizzeria Bianco</li>
                                     <li>FEZ</li>
@@ -61,8 +62,8 @@
                                     <li>Chelsea's Kitchen</li>
                                 </ul>
                             </div>
-                            <div id="div7">
-                                <h3 align="center">Best in Service</h3>
+                            <div id="div17">
+                                <h3 align="center">Best in American Traditional</h3>
                                 <ul>
                                     <li>Pizzeria Bianco</li>
                                     <li>FEZ</li>
@@ -76,8 +77,8 @@
                                     <li>Lux</li>
                                 </ul>
                             </div>
-                            <div id="div8">
-                                <h3 align="center">Best in Ambience</h3>
+                            <div id="div18">
+                                <h3 align="center">Best in Chinese</h3>
                                 <ul>
                                     <li>Pizzeria Bianco</li>
                                     <li>FEZ</li>
@@ -92,8 +93,8 @@
                                 </ul>
                             </div>
 
-                            <div id="div9">
-                                <h3 align="center">Best in Price</h3>
+                            <div id="div19">
+                                <h3 align="center">Best in American New Cuisine</h3>
                                 <ul>
                                     <li>Matt's Big Breakfast</li>
                                     <li>Pizzeria Bianco</li>
@@ -109,78 +110,7 @@
                             </div>
                         </div>
                     </div>
-					
-                    <div id="main4" style="display: none;">
-                        <h1 align="center">OVERVIEW OF RESTAURANT METRICS  BASED  ON CUISINE IN PHX</h1>
-                        <h2 align="center">Share of top four cuisines among themselves in PHX</h2>
-                        <br/><br/>
-                        <h3 align="center">Top restaurants in  Top Cuisines in PHX</h3>
-                        <div id="div15">
-                        </div>
-                        <div id="div16">
-                            <h3 align="center">Best in Mexican</h3>
-                            <ul>
-                                <li>Pizzeria Bianco</li>
-                                <li>FEZ</li>
-                                <li>Cibo</li>
-                                <li>Postino Arcadia</li>
-                                <li>Gallo Blanco</li>
-                                <li>St Francis Restaurant</li>
-                                <li>Bobby Q</li>
-                                <li>Lux</li>
-                                <li>Matt's Big Breakfast</li>
-                                <li>Chelsea's Kitchen</li>
-                            </ul>
-                        </div>
-                        <div id="div17">
-                            <h3 align="center">Best in American Traditional</h3>
-                            <ul>
-                                <li>Pizzeria Bianco</li>
-                                <li>FEZ</li>
-                                <li>Cibo</li>
-                                <li>Postino Arcadia</li>
-                                <li>Gallo Blanco</li>
-                                <li>Bobby Q</li>
-                                <li>Chelsea's Kitchen</li>
-                                <li>St Francis Restaurant</li>
-                                <li>Matt's Big Breakfast</li>
-                                <li>Lux</li>
-                            </ul>
-                        </div>
-                        <div id="div18">
-                            <h3 align="center">Best in Chinese</h3>
-                            <ul>
-                                <li>Pizzeria Bianco</li>
-                                <li>FEZ</li>
-                                <li>Cibo</li>
-                                <li>St Francis Restaurant</li>
-                                <li>Chelsea's Kitchen</li>
-                                <li>Postino Arcadia</li>
-                                <li>Gallo Blanco</li>
-                                <li>The Parlor</li>
-                                <li>Lux</li>
-                                <li>Bobby Q</li>
-                            </ul>
-                        </div>
-
-                        <div id="div19">
-                            <h3 align="center">Best in American New Cuisine</h3>
-                            <ul>
-                                <li>Matt's Big Breakfast</li>
-                                <li>Pizzeria Bianco</li>
-                                <li>St Francis Restaurant</li>
-                                <li>Cibo</li>
-                                <li>Hula's Modern Tiki</li>
-                                <li>FEZ</li>
-                                <li>True Food Kitchen</li>
-                                <li>Postino Arcadia</li>
-                                <li>Lo-Lo's Chicken & Waffles</li>
-                                <li>Chino Bandido</li> 
-                            </ul>
-                        </div>
-                    </div>
                 </div>
-            </div>
                 <script language="JavaScript" src="scripts/homepage.js">
                 </script>
             </div>
@@ -212,7 +142,7 @@
                 <h3>Gurujis Cluster</h3>
                 <link rel="stylesheet" type="text/css" href="styles/clusters.css">
                 <div id="chart"></div>
-	            <script src="scripts/Cusine_Cluster.js"> </script>
+                <script src="scripts/Cusine_Cluster.js"> </script>
                 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
             </div>
 
@@ -231,7 +161,7 @@
 
         <script type="text/javascript">
             var sentiObj = drawAll();
-        </script>
-        </footer>
-    </body>
-</html>
+            </script>
+            </footer>
+        </body>
+    </html>
