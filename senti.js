@@ -138,7 +138,6 @@ function initSenti() {
             circles.push(new google.maps.Circle(restCirc));
         }
 
-        google.maps.event.addDomListener(window, 'load', null);
     }
 
     /**
@@ -266,3 +265,5 @@ function drawFilter() {
     loadMap("data/ratings.csv", "ratings", colorMapObj, sentiObj);
     return sentiObj;
 }
+
+google.maps.event.addDomListener(window, 'load', null);
