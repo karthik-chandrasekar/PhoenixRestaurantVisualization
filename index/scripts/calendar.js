@@ -7,17 +7,17 @@ function calScope() {
             height = 136,
             cellSize = 17; // cell size
 
-        d3.select('#calendar').selectAll('svg').remove()
-            var day = d3.time.format("%w"),
-                week = d3.time.format("%U"),
-                percent = d3.format(".1%"),
-                format = d3.time.format("%Y-%m-%d");
+        d3.select('#timeline').selectAll('svg').remove()
+        var day = d3.time.format("%w"),
+            week = d3.time.format("%U"),
+            percent = d3.format(".1%"),
+            format = d3.time.format("%Y-%m-%d");
 
         var color = d3.scale.quantize()
             .domain([min_val, max_val])
             .range(d3.range(5).map(function(d) { return "q" + d + "-11"; }));
 
-        var svg = d3.select("#calendar").selectAll("svg")
+        var svg = d3.select("#timeline").selectAll("svg")
             .data(d3.range(2010, 2015))
             .enter().append("svg")
             .attr("width", width)
@@ -78,6 +78,7 @@ function calScope() {
 
         d3.select(self.frameElement).style("height", "2910px");
         d3.select('#legend-title').text(chart_header)
+            prevSvg = svg;
     }
 
     function drawFilter() {
@@ -133,7 +134,7 @@ function calScope() {
             currY = currY + 15;
         }
         addRow('data/PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
-            addRow('data/PhoenixCalenderPrice.csv', 0,12,'Affordability of restaurants in Phoenix');
+        addRow('data/PhoenixCalenderPrice.csv', 0,12,'Affordability of restaurants in Phoenix');
         addRow('data/PhoenixCalenderServiceData.csv',10,100,'Service quality of service in Phoenix');
         addRow('data/PhoenixCalenderAmbienceData.csv',0,32,"Ambience quality of restaurants");
         init('data/PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
