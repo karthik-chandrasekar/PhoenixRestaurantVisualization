@@ -58,8 +58,6 @@ function calScope() {
 
         rect.filter(function(d) { return d in data; })
             .attr("class", function(d) { 
-                console.log(data[d]);
-                console.log(d);
                 return "day " + color(data[d]); 
 
             })
