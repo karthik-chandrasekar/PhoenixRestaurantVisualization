@@ -100,7 +100,7 @@
 
 
         var rp13 = radialProgress(document.getElementById('div13'))
-                .label("Chinese")
+                .label("Italian")
                 .diameter(150)
                 .value(20)
                 .render();
