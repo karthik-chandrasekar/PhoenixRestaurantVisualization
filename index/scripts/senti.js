@@ -303,13 +303,12 @@ function drawFilter() {
         currY = currY + 15;
     }
 
-    addRow('ratings');
     addRow('food');
     addRow('price');
     addRow('service');
     addRow('ambience');
 
-    loadMap("data/ratings.csv", "ratings", colorMapObj, sentiObj);
+    loadMap("data/food.csv", "ratings", colorMapObj, sentiObj);
     return sentiObj;
 }
 
