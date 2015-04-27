@@ -1,7 +1,7 @@
 	
 	d3.csv('cuisine_final.csv', function (error, data) {
-		var width = 1320//Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        var height =1320//Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+		var width = 1400;
+        var height = 1400;
         var fill=d3.scale.category10();
         var svg = d3.select("#chart").append("svg")
             .attr("width", width)
@@ -77,9 +77,8 @@
           .attr("class", "label")
           .text(function (d) { return d.name })
           .attr("transform", function (d) {
-            //return "translate(" + (d.x-(d.dx/2)) + ", " + (d.y - 15) + ")";
-			return "translate(" + (d.x+150) + ", " + (d.y+630) + ")";
-			//return "translate(" + (d.x - ((d.name.length)*3)) + ", " + (d.y - d.r) + ")";
+           return "translate(" + (d.x+150) + ", " + (d.y+630) + ")";
+			
           });
         }
 		

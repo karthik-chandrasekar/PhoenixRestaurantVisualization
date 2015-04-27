@@ -4,10 +4,10 @@ Mexican,32nd Cafe,6,0.798122066
 Mexican,Acapulco Mexican Grill,6,0.798122066
 Mexican,Ajo Al's Mexican Cafe,68,10.69483568
 Mexican,Amando's Bros,6,0.798122066
-Mexican,America's Taco Shop,158.6666667,25.16744914
+Mexican,America's Taco Shop,476,75.50234742
 Mexican,Angelinas Mexican Food,3,0.319248826
-Mexican,Armando's Mexican Food,13,1.915492958
-Mexican,Arriba Mexican Grill,108.5,17.15962442
+Mexican,Armando's Mexican Food,52,7.661971831
+Mexican,Arriba Mexican Grill,217,34.31924883
 Mexican,Asadero Norte De Sonora,19,2.873239437
 Mexican,Asadero Toro,29,4.469483568
 Mexican,Asi Es La Vida,101,15.96244131
@@ -15,7 +15,7 @@ Mexican,Aunt Chilada's,206,32.72300469
 Mexican,Aya & Peilas,2,0.159624413
 Mexican,AZTECA Bakeries & Restaurant,28,4.309859155
 Mexican,Baja Fresh Mexican Grill Mexican Grill,3,0.319248826
-Mexican,Baja Fresh Mexican Grill,16.66666667,2.500782473
+Mexican,Baja Fresh Mexican Grill,50,7.502347418
 Mexican,Baja Fresh,1,0
 Mexican,Baja Loco Mesquite Grill & Cantina,17,2.55399061
 Mexican,Bajio Mexican Grill,41,6.384976526
@@ -28,7 +28,7 @@ Mexican,Birria Estilo Michoacan,5,0.638497653
 Mexican,Birrieria Obregon,7,0.957746479
 Mexican,Black Chile Mexican Grill,81,12.76995305
 Mexican,Blanco Rapido,3,0.319248826
-Mexican,Blanco Tacos And Tequila,63.5,9.976525823
+Mexican,Blanco Tacos And Tequila,127,19.95305165
 Mexican,Blanco,23,3.511737089
 Mexican,Blue Agave Mexican Cantina,103,16.28169014
 Mexican,Blue Burrito Grille,53,8.300469484
@@ -50,20 +50,20 @@ Mexican,Chi Chi's Tacos,5,0.638497653
 Mexican,Chico's Tacos,56,8.779342723
 Mexican,Chili's Grill & Bar,28,4.309859155
 Mexican,Chino Bandido,572,91.14553991
-Mexican,Chipotle Mexican Grill,40.25,6.265258216
-Mexican,Chipotle,30.5,4.708920188
-Mexican,Chuy's Mesquite Broiler,10.2,1.468544601
+Mexican,Chipotle Mexican Grill,161,25.06103286
+Mexican,Chipotle,61,9.417840376
+Mexican,Chuy's Mesquite Broiler,51,7.342723004
 Mexican,Clarendon Kitchen + Bar C4,23,3.511737089
 Mexican,Cocina 10,7,0.957746479
 Mexican,Comedor Guadalajara,142,22.50704225
 Mexican,Corazon Mexican Cocina,5,0.638497653
 Mexican,Corona Urban Cantina,9,1.276995305
 Mexican,Crescent Ballroom,204,32.40375587
-Mexican,Del Taco,9.625,1.376760563
+Mexican,Del Taco,77,11.01408451
 Mexican,Dick's Hideaway,314,49.96244131
 Mexican,Don Jose Mexican Food,51,7.981220657
 Mexican,Dora's Kitchen,3,0.319248826
-Mexican,El Bravo,57,8.938967135
+Mexican,El Bravo,114,17.87793427
 Mexican,El Chiltepin Mexican Food,5,0.638497653
 Mexican,El Conquistador,19,2.873239437
 Mexican,El Encanto DOS,63,9.896713615
@@ -74,55 +74,55 @@ Mexican,El Mas Sabroso Mexican Food,7,0.957746479
 Mexican,El Mesquite Restaurant,21,3.192488263
 Mexican,El Nopalito,34,5.267605634
 Mexican,El Norte±o,41,6.384976526
-Mexican,El Nuevo Taquito,3.5,0.399061033
+Mexican,El Nuevo Taquito,7,0.798122065
 Mexican,El Pacifico Restaurante Y Pescaderia,13,1.915492958
 Mexican,El Patron,9,1.276995305
-Mexican,El Pollo Loco,8.666666667,1.223787168
+Mexican,El Pollo Loco,52,7.342723005
 Mexican,El Portal Restaurant,7,0.957746479
 Mexican,El Portal,15,2.234741784
 Mexican,El Ranchero Mexican Restaurant,6,0.798122066
 Mexican,El Rinconcito Mexican Food,11,1.596244131
 Mexican,El Taco Feliz,2,0.159624413
 Mexican,El Taco Tote,30,4.629107981
-Mexican,Eribertos Mexican Food,19.5,2.953051643
+Mexican,Eribertos Mexican Food,39,5.906103286
 Mexican,Fajitas A Sizzlin Celebration,107,16.92018779
-Mexican,Federicos Mexican Food,19,2.873239437
-Mexican,Federico's Mexican Food,12,1.755868545
+Mexican,Federicos Mexican Food,38,5.746478873
+Mexican,Federico's Mexican Food,48,7.023474179
 Mexican,Fiesta Grill,4,0.478873239
 Mexican,filabertos,4,0.478873239
 Mexican,Filiberto's Mexican Food Restaurant,16,2.394366197
 Mexican,Filibertos Mexican Food,14,2.075117371
-Mexican,Filiberto's Mexican Food,13.33333333,1.968701095
+Mexican,Filiberto's Mexican Food,80,11.81220657
 Mexican,Filibertos Mexican Restaurant,6,0.798122066
 Mexican,Filiberto's Mexican Rest,4,0.478873239
 Mexican,Filibertos,3,0.319248826
-Mexican,Filiberto's,7.25,0.997652582
+Mexican,Filiberto's,29,3.990610329
 Mexican,Fresca's Mexican Grill,5,0.638497653
 Mexican,Fuego CityScape,74,11.65258216
 Mexican,Gadzooks Enchiladas & Soup,176,27.9342723
 Mexican,Gallo Blanco,710,113.1737089
 Mexican,Garcia's Mexican Restaurant,26,3.990610329
-Mexican,Garcia's Mexican Restaurants,16.5,2.474178404
+Mexican,Garcia's Mexican Restaurants,33,4.948356807
 Mexican,Gil's Taste of Taos,31,4.788732394
 Mexican,Gordas Baja Taco,35,5.427230047
 Mexican,Gorditas El Tio,16,2.394366197
 Mexican,Hacienda Restaurant,5,0.638497653
 Mexican,Hal O. Peno's Mexican Cafe,3,0.319248826
-Mexican,Humberto's Mexican Food,12,1.755868545
+Mexican,Humberto's Mexican Food,24,3.511737089
 Mexican,International House of Food,17,2.55399061
 Mexican,Jesters Mexican Grill,22,3.352112676
-Mexican,Jordan's Mexican Food,15,2.234741784
+Mexican,Jordan's Mexican Food,30,4.469483568
 Mexican,Juan's Authentic Mexican Food,76,11.97183099
 Mexican,Julio G's Tatum,44,6.863849765
-Mexican,Julioberto's,13.25,1.955399061
+Mexican,Julioberto's,53,7.821596245
 Mexican,Julio's Too,28,4.309859155
-Mexican,Ketzal Mexican Grill,12,1.755868545
+Mexican,Ketzal Mexican Grill,24,3.51173709
 Mexican,Kokopelli Mexican Grill,4,0.478873239
 Mexican,La 15 Y Salsas,14,2.075117371
 Mexican,La Barquita,42,6.544600939
 Mexican,La Canasta Capitolio,28,4.309859155
 Mexican,La Canasta Mexican Foods,57,8.938967136
-Mexican,La Canasta,8,1.117370892
+Mexican,La Canasta,16,2.234741784
 Mexican,La Carreta De Lily,3,0.319248826
 Mexican,La Cocina Economica,9,1.276995305
 Mexican,La Frontera,29,4.469483568
@@ -131,7 +131,7 @@ Mexican,La Oaxaquena Mexican Restaurant,11,1.596244131
 Mexican,La Olmeca Restaurant,7,0.957746479
 Mexican,La Paloma Mexican Food,8,1.117370892
 Mexican,La Parilla Villa Catering,16,2.394366197
-Mexican,La Parrilla Suiza,43.5,6.784037559
+Mexican,La Parrilla Suiza,87,13.56807512
 Mexican,La Pi±ata,80,12.61032864
 Mexican,La Reina Michoacana,3,0.319248826
 Mexican,La Salsita,16,2.394366197
@@ -158,26 +158,26 @@ Mexican,Los Cerritos,12,1.755868545
 Mexican,Los Compadres Mexican Food,86,13.56807512
 Mexican,Los Compadres,21,3.192488263
 Mexican,Los DOS Amigos Restaurant,3,0.319248826
-Mexican,Los Dos Molinos,109.6666667,17.34585289
+Mexican,Los Dos Molinos,329,52.03755868
 Mexican,Los Jarritos Restaurant,12,1.755868545
 Mexican,Los Kikos,5,0.638497653
 Mexican,Los Portales,4,0.478873239
-Mexican,Los Reyes De La Torta,167,26.49765258
-Mexican,Los Taquitos,205,32.56338028
+Mexican,Los Reyes De La Torta,334,52.99530516
+Mexican,Los Taquitos,410,65.12676056
 Mexican,Losbetos Mexican Food,6,0.798122066
 Mexican,Luncha Libre Gourmet Food Truck,38,5.906103286
 Mexican,Lydias La Canasta  Mexican Restaurant,10,1.436619718
-Mexican,Macayo's Mexican Kitchen,45.5,7.103286386
+Mexican,Macayo's Mexican Kitchen,182,28.41314554
 Mexican,Mama Lola's Tortillas,2,0.159624413
 Mexican,Manuel's Mexican Restaurant & Cantina,3,0.319248826
-Mexican,Manuel's Mexican Restaurant,47.66666667,7.449139281
+Mexican,Manuel's Mexican Restaurant,143,22.34741784
 Mexican,Mariscos Acapulco,11,1.596244131
 Mexican,Mariscos Altata,12,1.755868545
 Mexican,Mariscos Chihuahua,9,1.276995305
 Mexican,Mariscos Ensenada 7,4,0.478873239
-Mexican,Mariscos Ensenada,6.5,0.877934272
+Mexican,Mariscos Ensenada,13,1.755868544
 Mexican,Mariscos Playa Hermosa,147,23.30516432
-Mexican,Mariscos Vuelve a La Vida,11,1.596244132
+Mexican,Mariscos Vuelve a La Vida,22,3.192488263
 Mexican,Matador Restaurant,41,6.384976526
 Mexican,Maya Mexican Antonjitos Snacks,3,0.319248826
 Mexican,Mercado Y Carniceria Sepulved A,5,0.638497653
@@ -196,7 +196,7 @@ Mexican,Oasis Raspados,5,0.638497653
 Mexican,Oaxaca Restaurante Y Cantina,24,3.671361502
 Mexican,Oaxaca Restaurant,4,0.478873239
 Mexican,Oaxaca Sky Harbor,14,2.075117371
-Mexican,On The Border Mexican Grill & Cantina,28.5,4.389671362
+Mexican,On The Border Mexican Grill & Cantina,57,8.779342723
 Mexican,Otro Cafe,141,22.34741784
 Mexican,Padre's Modern Mexican Cuisine,126,19.95305164
 Mexican,Panaderia Y Tortilleria,5,0.638497653
@@ -215,9 +215,9 @@ Mexican,Poncho's Mexican Food,94,14.84507042
 Mexican,Popo's Fiesta Del Sol,27,4.150234742
 Mexican,Popo's Mexican Food,30,4.629107981
 Mexican,Pozoleria Guerrero,3,0.319248826
-Mexican,Qdoba Mexican Grill,19.75,2.992957747
+Mexican,Qdoba Mexican Grill,79,11.97183099
 Mexican,Ramiros Mexican Food,5,0.638497653
-Mexican,Ramiro's Mexican Food,6,0.798122066
+Mexican,Ramiro's Mexican Food,12,1.596244132
 Mexican,Rancho Papa Chulo's,8,1.117370892
 Mexican,Regio's Mexican Food,25,3.830985915
 Mexican,Revo Burrito,125,19.79342723
@@ -233,7 +233,7 @@ Mexican,Rolberto's,12,1.755868545
 Mexican,Rolibertos Mexican Food,6,0.798122066
 Mexican,Romero's Mexican Food,3,0.319248826
 Mexican,Rosita's Place,109,17.23943662
-Mexican,Rubio's Fresh Mexican Grill,22.16666667,3.378716745
+Mexican,Rubio's Fresh Mexican Grill,133,20.27230047
 Mexican,Sabroso Fresh Mexican Grill,21,3.192488263
 Mexican,Salsa Y Mas,5,0.638497653
 Mexican,Salsas Y Sombreros,2,0.159624413
@@ -253,7 +253,7 @@ Mexican,Sylvia's La Canasta,3,0.319248826
 Mexican,Taberna del Tequila,29,4.469483568
 Mexican,Taberna Del Tequileria,45,7.023474178
 Mexican,Ta'Carbon,17,2.55399061
-Mexican,Taco Bell,4.772727273,0.602219377
+Mexican,Taco Bell,105,13.24882629
 Mexican,Taco Del Mar,8,1.117370892
 Mexican,Taco Feliz Mexican Food,8,1.117370892
 Mexican,Taco Guild,176,27.9342723
@@ -263,7 +263,7 @@ Mexican,Tacos Chava,5,0.638497653
 Mexican,Tacos De Juarez,50,7.821596244
 Mexican,Tacos Kissi,18,2.713615023
 Mexican,Tacos La Hacienda,13,1.915492958
-Mexican,Tacos La Lomita,3.5,0.399061033
+Mexican,Tacos La Lomita,7,0.798122065
 Mexican,Tacos Mexico,3,0.319248826
 Mexican,Tacos Sahuayo,27,4.150234742
 Mexican,Tacos Sonora Grill,15,2.234741784
@@ -284,14 +284,14 @@ Mexican,Tortas El G?ero,7,0.957746479
 Mexican,Tortas El Guero,54,8.460093897
 Mexican,Tortas el Rey,25,3.830985915
 Mexican,Tortas El Tri,2,0.159624413
-Mexican,Tortas Paquime,14,2.075117371
+Mexican,Tortas Paquime,42,6.225352112
 Mexican,Tradiciones,50,7.821596244
 Mexican,Two Hippies Beach House - Bell Road,11,1.596244131
 Mexican,Two Hippies Beach House Outrageous Tacos and Burritos,145,22.98591549
 Mexican,Two Hippies Beach House,12,1.755868545
 Mexican,Two Hippies Groovy Beach House,4,0.478873239
 Mexican,Uno Mas Mexican Grill,5,0.638497653
-Mexican,Valle Luna,116,18.35680751
+Mexican,Valle Luna,232,36.71361502
 Mexican,Vaqueros Carne Asada,21,3.192488263
 Mexican,Vaquero's Carne Asada,4,0.478873239
 Mexican,Verde,49,7.661971831
@@ -309,12 +309,12 @@ Italian,Anzios Italian Restaurant,75,11.81220657
 Italian,Arrivederci Trattoria,52,8.14084507
 Italian,Avanti,73,11.49295775
 Italian,Babbo Italian Eatery,114,18.03755869
-Italian,Barro's Pizza,22.8,3.479812207
+Italian,Barro's Pizza,114,17.39906103
 Italian,Belfiore's Italian Ristorante,54,8.460093897
 Italian,Bell' Italia Pizzeria,49,7.661971831
 Italian,Brad's Place,15,2.234741784
 Italian,Cafe La Bella,5,0.638497653
-Italian,Cafe Roma,18.5,2.793427231
+Italian,Cafe Roma,37,5.586854461
 Italian,Cafepino,109,17.23943662
 Italian,Caffe Boa Ahwatukee,85,13.4084507
 Italian,Caffe Daniel,33,5.107981221
@@ -338,7 +338,7 @@ Italian,Famous Ray's Pizza,60,9.417840376
 Italian,Fatso's Pizza,57,8.938967136
 Italian,Federal Pizza,315,50.12206573
 Italian,Fiorella's,28,4.309859155
-Italian,Fired Pie,60.5,9.497652581
+Italian,Fired Pie,121,18.99530516
 Italian,Florencia Pizza Bistro,60,9.417840376
 Italian,Focaccia Fiorentina,39,6.0657277
 Italian,Frank's Pizza & Wings,18,2.713615023
@@ -347,7 +347,7 @@ Italian,Gasper's Casual Italian Dining and Pizzeria,76,11.97183099
 Italian,Giuseppe's On 28th,183,29.05164319
 Italian,Gretalian,4,0.478873239
 Italian,Harley's Italian Bistro,101,15.96244131
-Italian,Humble Pie,126.5,20.03286385
+Italian,Humble Pie,253,40.0657277
 Italian,Il Posto,63,9.896713615
 Italian,Isa's Pizza,33,5.107981221
 Italian,Jerry Tucci's Brick Oven Pizzeria,3,0.319248826
@@ -361,7 +361,7 @@ Italian,L'amore,44,6.863849765
 Italian,Le Ragazze,20,3.03286385
 Italian,Luke's of Chicago's,87,13.72769953
 Italian,Mamma Mia Brick Oven Pizza & Pasta,155,24.58215962
-Italian,Meatballz,10,1.436619718
+Italian,Meatballz,30,4.309859155
 Italian,Miami Cafe,11,1.596244131
 Italian,Michelina's Ristorante Costa Campagnia,24,3.671361502
 Italian,My Pie,76,11.97183099
@@ -372,13 +372,13 @@ Italian,noca,272,43.25821596
 Italian,Nook,104,16.44131455
 Italian,North Italia,233,37.03286385
 Italian,NYPD Pizza,106,16.76056338
-Italian,Olive Garden Italian Restaurant,31,4.788732395
-Italian,Oregano's Pizza Bistro,162.5,25.77934273
+Italian,Olive Garden Italian Restaurant,124,19.15492958
+Italian,Oregano's Pizza Bistro,325,51.55868545
 Italian,Our Family's Bistro,22,3.352112676
 Italian,Palermos Pizza,8,1.117370892
 Italian,Pane Bianco,308,49.00469484
 Italian,Papa Christo's,16,2.394366197
-Italian,Papa John's Pizza,3.5,0.399061033
+Italian,Papa John's Pizza,7,0.798122065
 Italian,Pasta and Sugo,13,1.915492958
 Italian,Pasta Pomodoro,4,0.478873239
 Italian,PastaBAR,102,16.12206573
@@ -386,7 +386,7 @@ Italian,Pat's Pizza Plus,62,9.737089202
 Italian,Peter Piper Pizza,14,2.075117371
 Italian,Pezzano's Pizza,36,5.58685446
 Italian,Phoenix House Of Pizza And Subs,9,1.276995305
-Italian,Picazzo's Organic Italian Kitchen,40,6.225352112
+Italian,Picazzo's Organic Italian Kitchen,80,12.45070422
 Italian,Pino's Pizza Al Centro,107,16.92018779
 Italian,Pizza a Metro,210,33.36150235
 Italian,Pizza by Napoli,40,6.225352113
@@ -394,7 +394,7 @@ Italian,Pizza Heaven Bistro,118,18.67605634
 Italian,Pizza Hut,4,0.478873239
 Italian,Pizza Mia,10,1.436619718
 Italian,Pizza People Food Truck,30,4.629107981
-Italian,Pizzeria Bianco,621.5,99.04694836
+Italian,Pizzeria Bianco,1243,198.0938967
 Italian,Pomo Pizzeria Napoletana,208,33.04225352
 Italian,Postino Arcadia,797,127.0610329
 Italian,Postino Central,512,81.56807512
@@ -402,13 +402,13 @@ Italian,Pronto Pizza,3,0.319248826
 Italian,Raffaele's Pizza,47,7.342723005
 Italian,Raimondo's,14,2.075117371
 Italian,Ray's Pizza,14,2.075117371
-Italian,Red Devil,64.5,10.13615023
+Italian,Red Devil,129,20.27230047
 Italian,Red Tomato,5,0.638497653
 Italian,Rinaldi's Italian Deli,34,5.267605634
 Italian,Ristorante Tuscany,17,2.55399061
 Italian,Rkidds Pizza & Wings,11,1.596244131
 Italian,Roma Garden Ristorante,88,13.88732394
-Italian,Romano's Macaroni Grill,33.33333333,5.161189358
+Italian,Romano's Macaroni Grill,100,15.48356808
 Italian,Rosati's Pizza,47,7.342723005
 Italian,Ruffino Italian Cuisine,50,7.821596244
 Italian,Salute Ristorante Italiano,45,7.023474178
@@ -420,9 +420,9 @@ Italian,Sauce Pizza & WIne,60,9.417840376
 Italian,Sauce,67,10.53521127
 Italian,SOLO Trattoria,100,15.8028169
 Italian,Spasso Pizza & Mozzarella Bar,35,5.427230047
-Italian,Spinato's Pizza,116.3333333,18.41001565
+Italian,Spinato's Pizza,349,55.23004694
 Italian,Spinato's Pizzeria,139,22.02816901
-Italian,Streets of New York,19.33333333,2.926447574
+Italian,Streets of New York,174,26.33802817
 Italian,Stumpys Pizza,80,12.61032864
 Italian,That Italian Place,5,0.638497653
 Italian,That's Italiano,7,0.957746479
@@ -464,7 +464,7 @@ Chinese,Canton Dragon,10,1.436619718
 Chinese,Canton Wong #2,2,0.159624413
 Chinese,Canton Wong #8,24,3.671361502
 Chinese,Canton Wong,10,1.436619718
-Chinese,Chen & Wok,39.5,6.145539906
+Chinese,Chen & Wok,79,12.29107981
 Chinese,Chen Wok Express,20,3.03286385
 Chinese,China Buffet 2000,3,0.319248826
 Chinese,China Buffet,4,0.478873239
@@ -517,8 +517,8 @@ Chinese,Great Wall Buffet,19,2.873239437
 Chinese,Great Wall Cuisine,140,22.18779343
 Chinese,Great Wok,37,5.746478873
 Chinese,Hao Bao,27,4.150234742
-Chinese,Happy Food,8,1.117370892
-Chinese,Hibachi Grill & Supreme Buffet,28.5,4.389671362
+Chinese,Happy Food,16,2.234741784
+Chinese,Hibachi Grill & Supreme Buffet,57,8.779342723
 Chinese,Hong Kong Chinese Cuisine,10,1.436619718
 Chinese,Hong Kong Express Chinese Food,3,0.319248826
 Chinese,Hong Kong Express,17,2.55399061
@@ -565,14 +565,14 @@ Chinese,Oriental Express,21,3.192488263
 Chinese,P F Chang's China Bistro,66,10.37558685
 Chinese,Pacific Gardens,41,6.384976526
 Chinese,Pan Asia Sushi Chinese Fusion,78,12.29107981
-Chinese,Panda Express,6.933333333,0.947104851
+Chinese,Panda Express,104,14.20657277
 Chinese,Panda Garden,36,5.58685446
 Chinese,Panda Gourmet,4,0.478873239
-Chinese,Pei Wei Asian Diner,42,6.54460094
+Chinese,Pei Wei Asian Diner,168,26.17840376
 Chinese,Pei Wei Asian Market,50,7.821596244
 Chinese,Pei Wok,12,1.755868545
 Chinese,Peter Wong Chinese Restaurant,8,1.117370892
-Chinese,Pick Up Stix,6.666666667,0.904538341
+Chinese,Pick Up Stix,20,2.713615023
 Chinese,Pink Lotus Express,17,2.55399061
 Chinese,Pong Pong,23,3.511737089
 Chinese,Red Dragon Chinese and Mexican Food,4,0.478873239
@@ -614,8 +614,8 @@ American (traditional),5th Avenue Cafe,86,13.56807512
 American (traditional),Alice Cooper'stown,251,39.90610329
 American (traditional),AMC Dine-in Theatres Esplanade 14,270,42.93896714
 American (traditional),Applebee's Neighborhood Grill & Bar,5,0.638497653
-American (traditional),Applebee's,28.25,4.349765259
-American (traditional),Arby's Roast Beef,3.5,0.399061033
+American (traditional),Applebee's,113,17.39906103
+American (traditional),Arby's Roast Beef,7,0.798122065
 American (traditional),Arcadia Tavern,219,34.79812207
 American (traditional),Arizona Club,5,0.638497653
 American (traditional),Armadillo Grill,122,19.31455399
@@ -632,21 +632,21 @@ American (traditional),Black Angus Steakhouse,44,6.863849765
 American (traditional),Black Bear Diner,25,3.830985915
 American (traditional),Blue 32 Sports Grill,40,6.225352113
 American (traditional),Bootleggers Modern American Smokehouse,161,25.5399061
-American (traditional),Boston Market,8.25,1.157276996
+American (traditional),Boston Market,33,4.629107982
 American (traditional),Breakfast Club,120,18.99530516
 American (traditional),Breakroom Bar & Grill,15,2.234741784
-American (traditional),Buffalo Wild Wings,55,8.61971831
+American (traditional),Buffalo Wild Wings,165,25.85915493
 American (traditional),Cactus Jack's Bar & Grill,12,1.755868545
 American (traditional),Cafe Aroma,23,3.511737089
 American (traditional),Caps Sports Grill,30,4.629107981
-American (traditional),Casey Jones Grill,30.5,4.708920188
+American (traditional),Casey Jones Grill,61,9.417840375
 American (traditional),Chaka Chaka Urban Cuisine,11,1.596244131
 American (traditional),Charlie D's Catfish & Chicken,7,0.957746479
-American (traditional),Chelsea's Kitchen,370.5,58.98122066
+American (traditional),Chelsea's Kitchen,741,117.9624413
 American (traditional),Chestnut Lane,18,2.713615023
 American (traditional),Chick Rotisserie & Wine Bar,33,5.107981221
 American (traditional),Chili's Grill & Bar Catering,24,3.671361502
-American (traditional),Chili's Grill & Bar,13,1.915492958
+American (traditional),Chili's Grill & Bar,52,7.661971831
 American (traditional),Chili's Grill and Bar,2,0.159624413
 American (traditional),Chili's Too,23,3.511737089
 American (traditional),Chloe's Corner,80,12.61032864
@@ -654,7 +654,7 @@ American (traditional),Christopher's Fermier Brasserie & Paola's Wine Bar,7,0.95
 American (traditional),City Hall Grill,3,0.319248826
 American (traditional),CK's Tavern & Grill,106,16.76056338
 American (traditional),Claim Jumper,59,9.258215962
-American (traditional),Coco's Family Restaurant,14.66666667,2.181533646
+American (traditional),Coco's Family Restaurant,44,6.544600939
 American (traditional),Coco's Restaurant,8,1.117370892
 American (traditional),Copper Door,8,1.117370892
 American (traditional),Coppers Sports Grill,1,0
@@ -677,14 +677,14 @@ American (traditional),Farm At South Mountain,168,26.657277
 American (traditional),Fast Eddie's Diner,45,7.023474178
 American (traditional),Fatburger,18,2.713615023
 American (traditional),Feeney's Restaurant and Bar,90,14.20657277
-American (traditional),First Watch,56.5,8.859154929
+American (traditional),First Watch,113,17.71830986
 American (traditional),Fox News Sky Box,36,5.58685446
 American (traditional),Fox Sports Grill,21,3.192488263
 American (traditional),Friday's Front Row Sports Grill,61,9.577464789
 American (traditional),Fry's Food Store,17,2.55399061
 American (traditional),Fuddruckers,28,4.309859155
 American (traditional),Gallagher's Sports Grill,50,7.821596244
-American (traditional),Gallagher's,42,6.544600939
+American (traditional),Gallagher's,84,13.08920188
 American (traditional),Game Seven Grill,20,3.03286385
 American (traditional),George & Dragon II English Restaurant Pub,10,1.436619718
 American (traditional),George's Famous Gyros & Pasta,30,4.629107981
@@ -698,10 +698,10 @@ American (traditional),Harem Lounge,35,5.427230047
 American (traditional),HEK Yeah BBQ,43,6.704225352
 American (traditional),Hillside Spot,216,34.31924883
 American (traditional),Hole-in-the-Wall,43,6.704225352
-American (traditional),Hooters,26.33333333,4.043818466
-American (traditional),IHOP,14.5,2.154929578
+American (traditional),Hooters,79,12.1314554
+American (traditional),IHOP,29,4.309859155
 American (traditional),Ironworks Restaurant,14,2.075117371
-American (traditional),Islands Restaurant,35.5,5.507042254
+American (traditional),Islands Restaurant,71,11.01408451
 American (traditional),Jackalope Flats,12,1.755868545
 American (traditional),JB's Restaurant,10,1.436619718
 American (traditional),Johnny's Uptown,1,0
@@ -719,7 +719,7 @@ American (traditional),Local Breeze,139,22.02816901
 American (traditional),Logan's Roadhouse,68,10.69483568
 American (traditional),Lone Star Steakhouse,40,6.225352113
 American (traditional),Long Wong's Restaurant,43,6.704225352
-American (traditional),LongHorn Steakhouse,24.5,3.751173709
+American (traditional),LongHorn Steakhouse,49,7.502347417
 American (traditional),Lunch Box,12,1.755868545
 American (traditional),Madi G's,3,0.319248826
 American (traditional),Majerle's Sports Grill,135,21.38967136
@@ -730,11 +730,11 @@ American (traditional),McCormick & Schmicks Seafood Restaurant,40,6.225352113
 American (traditional),Melrose Kitchen,37,5.746478873
 American (traditional),Mel's Diner,26,3.990610329
 American (traditional),Mid City Kitchen,9,1.276995305
-American (traditional),Mimi's Cafe,45.66666667,7.129890454
+American (traditional),Mimi's Cafe,137,21.38967136
 American (traditional),Monroe's Downtown,2,0.159624413
 American (traditional),Moon Valley Grill,11,1.596244131
 American (traditional),Native Grill and Wings,34,5.267605634
-American (traditional),Native New Yorker,33.66666667,5.214397496
+American (traditional),Native New Yorker,101,15.64319249
 American (traditional),Nixon's,4,0.478873239
 American (traditional),North 51 Grill,20,3.03286385
 American (traditional),O Bar & Grill,11,1.596244131
@@ -744,15 +744,15 @@ American (traditional),On Deck Sports Grill,7,0.957746479
 American (traditional),Paradise Valley Burger Company,207,32.88262911
 American (traditional),Pete's Fish And Chips,42,6.544600939
 American (traditional),Phoenix All-stars Sports Bar & Grill,5,0.638497653
-American (traditional),Raising Cane's,69.5,10.9342723
+American (traditional),Raising Cane's,139,21.8685446
 American (traditional),Ranch House Grille,76,11.97183099
-American (traditional),Red Lobster,14.5,2.154929578
-American (traditional),Red Robin Gourmet Burgers,44.5,6.943661972
+American (traditional),Red Lobster,29,4.309859155
+American (traditional),Red Robin Gourmet Burgers,89,13.88732394
 American (traditional),Rennick's Restaurant,5,0.638497653
 American (traditional),Rico's American Grill,50,7.821596244
 American (traditional),Rimrock Bar & Grille,10,1.436619718
-American (traditional),Rock Bottom Restaurant & Brewery,56,8.779342722
-American (traditional),Ruby Tuesday,15,2.234741784
+American (traditional),Rock Bottom Restaurant & Brewery,112,17.55868544
+American (traditional),Ruby Tuesday,30,4.469483568
 American (traditional),Rusconi's American Kitchen,151,23.94366197
 American (traditional),Sacred Hogan Navajo Frybread,43,6.704225352
 American (traditional),Salty Sow,162,25.69953052
@@ -760,10 +760,10 @@ American (traditional),Satisfied Frog On Bell,61,9.577464789
 American (traditional),Segal's Oasis Grill,5,0.638497653
 American (traditional),Shenanigans Bar & Grill,13,1.915492958
 American (traditional),Sierra Bonita Grill,193,30.64788732
-American (traditional),Sizzler,13.5,1.995305165
+American (traditional),Sizzler,27,3.990610329
 American (traditional),Skunk Creek Flats,26,3.990610329
-American (traditional),Smashburger,59.5,9.33802817
-American (traditional),Sonic Drive-In,6.375,0.857981221
+American (traditional),Smashburger,238,37.35211268
+American (traditional),Sonic Drive-In,51,6.863849764
 American (traditional),South Bank Grill,8,1.117370892
 American (traditional),SpoonZ Cafe,23,3.511737089
 American (traditional),Sport Peppers Grill,8,1.117370892
@@ -773,8 +773,8 @@ American (traditional),Stonegrill,9,1.276995305
 American (traditional),Swensen's Grill &  Ice Cream Parlor,17,2.55399061
 American (traditional),Taberna del Tequila,29,4.469483568
 American (traditional),Teakwoods Tavern & Grill,75,11.81220657
-American (traditional),Texas Roadhouse,51,7.981220657
-American (traditional),TGI Friday's,11.5,1.676056338
+American (traditional),Texas Roadhouse,102,15.96244131
+American (traditional),TGI Friday's,23,3.352112676
 American (traditional),The Art Of Soup,15,2.234741784
 American (traditional),The Bamboo Club,8,1.117370892
 American (traditional),The Brickhouse,7,0.957746479
@@ -783,7 +783,7 @@ American (traditional),The Cheesecake Factory,120,18.99530516
 American (traditional),The Courtyard Cafe,14,2.075117371
 American (traditional),The DawgFather Grill,15,2.234741784
 American (traditional),The Flight Line Bar and Grill,11,1.596244131
-American (traditional),The Fry Bread House,96.5,15.24413145
+American (traditional),The Fry Bread House,193,30.48826291
 American (traditional),The Melting Pot,109,17.23943662
 American (traditional),The Oink Cafe,157,24.90140845
 American (traditional),The Other Q Bar and Grill,27,4.150234742
@@ -800,18 +800,18 @@ American (traditional),Twin Peaks,52,8.14084507
 American (traditional),Two Hippies Gnarly Burger Joint,82,12.92957746
 American (traditional),U.S. Egg,66,10.37558685
 American (traditional),Uncle Bear's Brewhouse Grill,53,8.300469484
-American (traditional),Village Inn,10.5,1.516431925
-American (traditional),Waffle House,17.5,2.633802817
+American (traditional),Village Inn,21,3.03286385
+American (traditional),Waffle House,70,10.53521127
 American (traditional),Wagon Yard,30,4.629107981
 American (traditional),Wally's' American Pub N Grill,78,12.29107981
 American (traditional),Welcome Diner,167,26.49765258
 American (traditional),Wendy's Old Fashioned Hamburgers,8,1.117370892
-American (traditional),Whataburger,11.625,1.69600939
+American (traditional),Whataburger,93,13.56807512
 American (traditional),Wingettes,38,5.906103286
 American (traditional),Wolfley's Neighborhood Grill,113,17.87793427
 American (traditional),Yoasis Ahwatukee,16,2.394366197
 American (traditional),ZeeZ Grill,12,1.755868545
-American (traditional),Zipps Sports Grill,55,8.619718311
+American (traditional),Zipps Sports Grill,110,17.23943662
 American (new),101 Bistro,8,1.117370892
 American (new),1130 The Restaurant,100,15.8028169
 American (new),12 East Cafe,8,1.117370892
@@ -843,17 +843,17 @@ American (new),Bobby Q,633,100.8826291
 American (new),Brick,113,17.87793427
 American (new),Brickyard Sports Bar and Grill,2,0.159624413
 American (new),Cafe At Desert Ridge,31,4.788732394
-American (new),Cafe Zupas,38.5,5.985915493
+American (new),Cafe Zupas,77,11.97183099
 American (new),Cafeteria on Thomas,26,3.990610329
 American (new),Caffe Boa Ahwatukee,85,13.4084507
 American (new),Caf? Allegro at MIM,14,2.075117371
-American (new),California Pizza Kitchen,49,7.661971831
+American (new),California Pizza Kitchen,98,15.32394366
 American (new),Carl's Jr 7091,5,0.638497653
 American (new),Catch 22 Sports Grill,65,10.21596244
 American (new),Chestnut Fine Foods & Provisions,70,11.01408451
 American (new),Cheuvront,170,26.97652582
-American (new),Chick-Fil-A,19.5,2.953051643
-American (new),Chili's Grill & Bar,12.66666667,1.86228482
+American (new),Chick-Fil-A,39,5.906103286
+American (new),Chili's Grill & Bar,38,5.586854461
 American (new),Circa 1900,2,0.159624413
 American (new),Clarendon Kitchen + Bar C4,23,3.511737089
 American (new),Coach & Willies,69,10.85446009
@@ -870,8 +870,8 @@ American (new),Cycle,12,1.755868545
 American (new),Daily Bistro,19,2.873239437
 American (new),Daily Dose Midtown,107,16.92018779
 American (new),Dairy Queen,3,0.319248826
-American (new),Denny's Restaurant,4.5,0.558685446
-American (new),Dennys,10,1.436619719
+American (new),Denny's Restaurant,9,1.117370892
+American (new),Dennys,20,2.873239437
 American (new),District American Kitchen and Wine Bar,209,33.20187793
 American (new),D'Lish Cafe,27,4.150234742
 American (new),Ed's,3,0.319248826
@@ -921,7 +921,7 @@ American (new),Peaks & Valleys Restaurant,22,3.352112676
 American (new),Perfect Pear Bistro,48,7.502347418
 American (new),Phoenix Buffet,3,0.319248826
 American (new),Phoenix City Grille,163,25.85915493
-American (new),Pita Jungle,146.4,23.20938967
+American (new),Pita Jungle,732,116.0469484
 American (new),Pizza People Pub,89,14.04694836
 American (new),Pollo Sabroso,1,0
 American (new),Portland's Restaurant & Wine Bar,77,12.1314554
