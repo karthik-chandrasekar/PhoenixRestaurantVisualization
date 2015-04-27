@@ -1,5 +1,4 @@
-function init(filename, min_val, max_val, chart_header)
-{
+function init(filename, min_val, max_val, chart_header) {
 var width = 960,
     height = 136,
     cellSize = 17; // cell size
@@ -129,11 +128,11 @@ function drawFilter() {
         currX = 10;
         currY = currY + 15;
     }
-    addRow('PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
-    addRow('PhoenixCalenderPrice.csv', 0,12,'Affordability of restaurants in Phoenix');
-    addRow('PhoenixCalenderServiceData.csv',10,100,'Service quality of service in Phoenix');
-    addRow('PhoenixCalenderAmbienceData.csv',0,32,"Ambience quality of restaurants");
-    init('PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
+    addRow('data/PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
+    addRow('data/PhoenixCalenderPrice.csv', 0,12,'Affordability of restaurants in Phoenix');
+    addRow('data/PhoenixCalenderServiceData.csv',10,100,'Service quality of service in Phoenix');
+    addRow('data/PhoenixCalenderAmbienceData.csv',0,32,"Ambience quality of restaurants");
+    init('data/PhoenixCalenderFoodData.csv',16,224, "Food quality of restaurants in Phoenix")
 
 }
 drawFilter()
