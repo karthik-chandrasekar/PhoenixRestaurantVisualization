@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">	
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="http://htmlcheats.com/examples/revealjs/css/reveal.min.css">
+	<link rel="stylesheet" href="http://htmlcheats.com/examples/revealjs/css/theme/default.css" id="theme">	
+</head>
+<body>
+	<!-- Wrap the entire slide show in a div using the "reveal" class. -->
+	<div class="reveal">
+		<!-- Wrap all slides in a single "slides" class -->
+		<div class="slides">
+
+			<!-- ALL SLIDES GO HERE -->
+			<!-- Each section element contains an individual slide -->
+			
+			<section>
+				<h3>INTELLIGENT VISUAL ANALYTICS OF RESTAURANTS IN PHOENIX</h3>
+				<p><center>By</center></p>
+				<p>George Thomas</p>
+				<p>Karthik Chandrasekar</p>				
+				<p>Niranjan Krishna Ravichandran</p>
+			</section>
+			
+
+			<section id="define">
+				<h2>What?</h2>
+				<font size="6">
+				<p>An intelligent visual analytic system that provides insight into the <br/>Yelp Phoenix dataset</p>
+				</font>
+			</section>
+
+			<section>
+				<h2>Why?</h2>
+				<font size="6">
+				<p><li><nobr>The reason behind the user provided ratings is unknown</nobr></p></li>
+				<p><li>Understand more about the restaurants in Phoenix with respect to <br/>food , price , service and ambience</p></li>
+				<p><li><nobr>Reduce the user's effort to choose  a restaurant</nobr></p></li>
+				<p><li><nobr>Visualize the reviews effectively so that users can save time from reading all reviews</nobr></p></li>
+				</font>
+			</section>
+
+			<section>
+				<h2>How?</h2>
+				<p><li>Text Mining of Yelp Reviews</p></li>
+				<p><li>Creating Effective Visualizations</p></li>
+			</section>
+			
+			<section>
+				<h2>Mining of Yelp Reviews</h2>
+				<br>
+				<h3>Data Collection</h3>
+				<p><li>From the Yelp Academic Dataset Challenge</p></li>
+				<br>
+				<h3>Data Preprocessing of Reviews</h3>
+				<p><li>Filter out the dataset for Phoenix restaurants</p></li>
+				<p><li>Tokenizing</p></li>
+				<p><li>Stop words and Punctuation Removal</p></li>
+			</section>
+			
+			<section>
+				<h3>Feature Selection</h3>
+				<p><li><nobr>Extracting unigram,bigram and trigram features from the pre processed data</nobr><br/><font size="4">Reference: <a href="http://www.ics.uci.edu/~vpsaini/files/train.arff">
+				http://www.ics.uci.edu/~vpsaini/files/train.arff</a></p></li></font>
+				<p><li>Referred to the annotated feature set for each attribute :<br/>Food ,Price,Service and Ambience</p></li>
+				<p><li><nobr>Form the feature vectors for all the reviews</nobr></p></li>
+				<br>
+				<h3>Model</h3>
+				<p><li><nobr>Developed binary classifiers for each category</nobr></p></li>
+				<p><li><nobr>Used Random Forest Binary Classifier</nobr></p></li>
+				<p><li><nobr>Performed k - fold cross validation to improve the model accuracy</nobr></p></li>
+			</section>
+			
+			<section>
+				<h2>Visualizations</h2>
+				<br/>
+				<h3>Dashboard Visualization</h3>
+				<p><li>What attracts people to a restaurant in Phoenix ?</p></li>
+				<br>
+				<h3>Observations</h3>
+				<p><li>Food factor dominates all other aspects</p></li>
+				<p><li>In Food, which cuisine is more popular and liked by the people in phoenix? We like to know more about the taste of Phoenicians</p></li>
+			</section>
+			
+			<section>
+				<h3>Map Visualization</h3>
+				<p><li>What are the trends across different regions in Phoenix for Food,Price,Service and Ambience?</p></li>
+				<p><li><nobr>What are the happening places in Phoenix based on the user's preference?</nobr></p></li>
+			</section>
+			
+			<section>
+				<h3>Calendar Visualization</h3>
+				<p><li><nobr>How the reviews have varied over the years in Phoenix?</nobr></p></li>
+				<br>
+				<h3>Observations</h3>
+				<p><li><nobr>The best reviews for "Food" attribute came during the weekends</nobr></p></li>
+				<p><li><nobr>There seems to be a steady improvement in the quality of food in Phoenix</nobr></p></li>
+				<p><li><nobr>The months between Jan and June have received the bad reviews in general</nobr></p></li>
+			</section>
+			
+			<section>
+				<h3>Cluster Visualization</h3>
+				<p><li>How different cuisines compare against each other in Phoenix?</p></li>
+				<p><li><nobr>What are the chances of finding a restaurant in a particular cuisine?</nobr></p></li>
+				<p><li>How good is the quality of food provided in each cuisine?</p></li>
+				<br>
+				<h3>Observations</h3>
+				<p>Italian retaurants have recieved the most positive ratings for "Food" though the number of restaurants are low compared to other cuisines.</p>
+			</section>
+			
+			<section>
+				<h3>Technologies Used</h3>
+				<p><li>D3.js</p></li>
+				<p><li>Google Maps API V3</p></li>
+				<p><li>HTML5</p></li>
+				<p><li>CSS3</p></li>
+				<p><li>Bootstrap</p></li>
+			</section>
+			
+			<section>
+			<h1>Thank You</h1>
+			</section>
+			</div>
+	</div>
+	<script src="http://htmlcheats.com/examples/revealjs/lib/js/head.min.js"></script>
+	<script src="http://htmlcheats.com/examples/revealjs/js/reveal.min.js"></script>
+
+	<script>
+		// Required, even if empty.
+		Reveal.initialize({
+		});
+	</script>
+</body>
+</html>
