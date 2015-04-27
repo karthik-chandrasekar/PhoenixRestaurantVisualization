@@ -83,9 +83,11 @@ function calScope() {
     function drawFilter() {
         // Add a filter here.
 
-        svgElem = d3.select('#filter-calendar').
+        var svgElem = d3.select('#filter1').
             append('svg');
 
+        console.log(svgElem);
+        svgElem.text("abcd");
         var currX = 10;
         var currY = 10;
 
