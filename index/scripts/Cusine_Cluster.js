@@ -1,14 +1,14 @@
 	
-	d3.csv('cuisine.csv', function (error, data) {
-		var width = 1290//Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        var height =1290//Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+	d3.csv('data/cuisine_final.csv', function (error, data) {
+		var width = 1400;
+        var height = 1400;
         var fill=d3.scale.category10();
         var svg = d3.select("#chart").append("svg")
             .attr("width", width)
             .attr("height", height);
 
         for (var j = 0; j < data.length; j++) {
-          data[j].radius = +data[j].nvalue/2;
+          data[j].radius = +data[j].nvalue/(1.7);
           data[j].x = Math.random() * width;
           data[j].y = Math.random() * height;
         }
@@ -77,9 +77,8 @@
           .attr("class", "label")
           .text(function (d) { return d.name })
           .attr("transform", function (d) {
-            //return "translate(" + (d.x-(d.dx/2)) + ", " + (d.y - 15) + ")";
-			return "translate(" + (d.x+150) + ", " + (d.y+605) + ")";
-			//return "translate(" + (d.x - ((d.name.length)*3)) + ", " + (d.y - d.r) + ")";
+           return "translate(" + (d.x+150) + ", " + (d.y+630) + ")";
+			
           });
         }
 		
