@@ -125,3 +125,69 @@
     width : 100%;
     height : 70%;
 }
+
+/** ----------- Js for calendar ------- */
+
+body {
+  font: 10px sans-serif;
+  shape-rendering: crispEdges;
+}
+
+#filter {
+    float : right;
+}
+
+.day {
+  fill: #fff;
+  stroke: #000000;
+}
+
+.month {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+.RdYlGn .q0-11{fill:#ffffcc}
+.RdYlGn .q1-11{fill:#a1dab4}
+.RdYlGn .q2-11{fill:#41b6c4}
+.RdYlGn .q3-11{fill:#2c7fb8}
+.RdYlGn .q4-11{fill:#253494}
+
+
+  .my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    }
+  .my-legend .legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+    }
+  .my-legend .legend-scale ul li {
+    display: block;
+    float: left;
+    width: 50px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+    }
+  .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 25px;
+    width: 50px;
+    }
+  .my-legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+    }
+  .my-legend a {
+    color: #777;
+    }
