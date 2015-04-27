@@ -1,7 +1,7 @@
 	
 	d3.csv('data/cuisine_final.csv', function (error, data) {
-		var width = 1380;
-        var height = 1380;
+		var width = 1375;
+        var height = 1375;
         var fill=d3.scale.category10();
         var svg = d3.select("#chart").append("svg")
             .attr("width", width)
