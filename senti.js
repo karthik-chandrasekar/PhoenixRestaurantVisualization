@@ -82,6 +82,8 @@ function loadColorMap() {
 
                 });
 
+// count is the iterator line from x1, y1 to x2, y2 where x1 = (count +1) * width, y1 = 0, x2 = x1, y2 = height
+
             group.append("text")
                 .text(d3.format(".3s")(count))
                 .attr("y", height + 12)
