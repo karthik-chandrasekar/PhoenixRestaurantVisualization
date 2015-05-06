@@ -27,7 +27,20 @@
 
           return centers;
         };
-
+		
+		var chinese_arr=new Array();
+		var italian_arr=new Array();
+		var mexican_arr=new Array();
+		var newamerican_arr=new Array();
+		var tradamerican_arr=new Array();
+		var max_a = d3.max(data,function(data){
+		if(data.cuisine==="Chinese"){chinese_arr.push(data.value);}
+		else if(data.cuisine==="Italian"){italian_arr.push(data.value);}
+		else if(data.cuisine==="Mexican"){mexican_arr.push(data.value);}
+		else if(data.cuisine==="American (new)"){newamerican_arr.push(data.value);}
+		else {tradamerican_arr.push(data.value);}
+		});
+		
         var nodes = svg.selectAll("circle")
           .data(data);
 		
@@ -37,6 +50,15 @@
           .attr("cx", function (d) { return d.x; })
           .attr("cy", function (d) { return d.y; })
 		  .attr("r", function (d) { return d.radius; })
+		  //.style("opacity" , function(d) {if (d.radius > 70){ return 0.5} else {return 1};})
+		  .style("opacity" , function(d) {
+		  if (d.cuisine==="Chinese" && d.radius>=(0.70)*(d3.max(chinese_arr))){return 1;}
+		  else if (d.cuisine==="Italian" && d.radius>=(0.70)*(d3.max(italian_arr))){return 1;}
+		  else if (d.cuisine==="Mexican" && d.radius>=(0.70)*(d3.max(mexican_arr))){return 1;}
+		  else if (d.cuisine==="American (new)" && d.radius>=(0.70)*(d3.max(newamerican_arr))){return 1;}
+		  else if (d.cuisine==="American (traditional)" && d.radius>=(0.70)*(d3.max(tradamerican_arr))){return 1;}
+		  else {return 0.7;}
+		  })
           .style("fill", function (d) { return fill(d.cuisine); })
 		  .on("mouseover", function (d) { showPopover.call(this, d); })
 		  .on("mouseout", function (d) { removePopovers(); })

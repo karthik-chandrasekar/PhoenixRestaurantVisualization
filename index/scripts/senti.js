@@ -52,20 +52,50 @@ function loadColorMap() {
         var maxDispRating = 5;
         var minDispRating = 0;
         var dispDiff = (maxDispRating - minDispRating)/numOfColors;
+		
         // Adding 0.005 just so as to have the mapper work properly.
         // This ensures that values fall inside the bin.
         for(var i = min + 0.005; i < max ; i += diff) {
             var group = d3.select("#color-map")
                 .select("g");
-
+			var defs = group.append("defs");
+			var filter = defs.append("filter")
+				.attr("id", "drop-shadow")
+				.attr("height", "130%");
+				filter.append("feGaussianBlur")
+				.attr("in", "SourceAlpha")
+				.attr("stdDeviation", 4)
+				.attr("result", "blur");
+				filter.append("feOffset")
+				.attr("in", "blur")
+				.attr("dx", 5)
+				.attr("dy", 5)
+				.attr("result", "offsetBlur");
+			var feMerge = filter.append("feMerge");
+				feMerge.append("feMergeNode")
+				.attr("in", "offsetBlur")
+				feMerge.append("feMergeNode")
+				.attr("in", "SourceGraphic");
+	
+	
+	
             var rect = group.append("rect")
-                .attr("width", width/numOfColors)
+                .attr("width", (width/numOfColors))
                 .attr("height", height)
                 .attr("y", 0)
                 .attr("x", count * width/numOfColors)
                 .attr("index", i)
-                .style("fill", mapper(i));
-
+				.style("filter", "url(#drop-shadow)")
+                .style("fill", mapper(i))
+				
+				group.append("line")
+				.style("stroke", "rgb(245,245,245)")
+				.style("stroke-width","6" )
+				.attr("x1", (count*40)+(width/(numOfColors)))
+				.attr("y1", 0)
+				.attr("x2", (count*40)+(width/(numOfColors)))
+				.attr("y2", height);  
+				
                 rect.on('mouseover', function() {
                     console.log("mouseover")
                     d3.select(this)
@@ -84,7 +114,7 @@ function loadColorMap() {
 
             group.append("text")
                 .text(d3.format(".3s")(count))
-                .attr("y", height + 12)
+                .attr("y", height + 20)
                 .attr("x", count * width/numOfColors);
             count++;
         }
